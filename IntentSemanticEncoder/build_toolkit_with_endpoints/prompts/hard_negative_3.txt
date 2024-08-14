@@ -1,0 +1,6 @@
+[PREVIOUS] [PRED]
+
+Imagine you are the customer. Now you no longer need to [ACTION] [OBJECT]. Give me 2 reasons for that.
+
+Answer:
+1)

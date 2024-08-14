@@ -1,0 +1,9 @@
+[PREVIOUS] [PRED]
+
+Give me another intent that a customer may have rather than [ACTION] [OBJECT] in this scenario.
+
+Answer: [INTENT]
+
+Generate a new customer utterance for that intent with similar language style as original.
+
+Answer:

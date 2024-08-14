@@ -1,0 +1,6 @@
+A customer says "[UTTERANCE]"
+
+Imagine you are a customer. Give me 2 other things you want to [ACTION] rather than [OBJECT]. Respond with sentences in a similar style as above.
+
+Answer:
+1)

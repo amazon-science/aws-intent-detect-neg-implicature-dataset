@@ -1,0 +1,8 @@
+A customer says: [UTTERANCE]
+
+Summarize the intent: [ACTION] [OBJECT]
+
+Imagine you are the customer. Tell me 3 other kinds of [OBJECT] that you want to [ACTION]. And use different language styles to express you needs.
+
+Answer:
+1)

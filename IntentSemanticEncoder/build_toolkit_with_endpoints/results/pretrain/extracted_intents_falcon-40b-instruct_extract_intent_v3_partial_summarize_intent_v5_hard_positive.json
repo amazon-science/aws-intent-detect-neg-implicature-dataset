@@ -1,0 +1,278 @@
+[
+    {
+        "utt": "play anita baker.",
+        "prepared": "Tell me what does a customer want by saying \"play anita baker.\".\n\nThe customer wants to",
+        "prediction": "listen to Anita Baker's music.",
+        "action": "listen to",
+        "object": "music",
+        "hard_positive": {
+            "results": [
+                "can you play some anita baker songs?"
+            ],
+            "prompt": "hard_positive_5.txt"
+        }
+    },
+    {
+        "utt": "oh ok. hey, that all. that all sounds good but the the platinum card sound more more better for me.",
+        "prepared": "Tell me what does a customer want by saying \"oh ok. hey, that all. that all sounds good but the the platinum card sound more more better for me.\".\n\nThe customer wants to",
+        "prediction": "purchase the platinum card because they believe it offers more benefits and features than the other options.",
+        "action": "purchase",
+        "object": "card",
+        "hard_positive": {
+            "results": [
+                "i am interested in a card that offers cashback on purchases.",
+                "i am looking for a card that has a low interest rate and no annual fee.",
+                "i want a card that offers rewards points for travel expenses."
+            ],
+            "prompt": "hard_positive_4.txt"
+        }
+    },
+    {
+        "utt": "how is the traffic on 1604 today",
+        "prepared": "Tell me what does a customer want by saying \"how is the traffic on 1604 today\".\n\nThe customer wants to",
+        "prediction": "know the current traffic situation on 1604, a road in San Antonio, Texas.",
+        "action": "know",
+        "object": "situation",
+        "hard_positive": {
+            "results": [
+                "can you please provide me with the current traffic situation on 1604?"
+            ],
+            "prompt": "hard_positive_5.txt"
+        }
+    },
+    {
+        "utt": "yes i need to find a hotel in the north that has a star rating of 4.",
+        "prepared": "Tell me what does a customer want by saying \"yes i need to find a hotel in the north that has a star rating of 4.\".\n\nThe customer wants to",
+        "prediction": "find a hotel in the north that has a star rating of 4.",
+        "action": "find",
+        "object": "hotel",
+        "hard_positive": {
+            "results": [
+                "i do not want to spend hours searching for hotels online.",
+                "i do not want to have to read through multiple reviews to find a good hotel."
+            ],
+            "prompt": "hard_positive_7.txt"
+        }
+    },
+    {
+        "utt": "thank you! i also need help finding a hotel.",
+        "prepared": "Tell me what does a customer want by saying \"thank you! i also need help finding a hotel.\".\n\nThe customer wants to",
+        "prediction": "express gratitude for the assistance they received and also needs help finding a hotel.",
+        "action": "express",
+        "object": "gratitude",
+        "hard_positive": {
+            "results": [
+                "i want to find a hotel that meets my specific needs and preferences, such as location, amenities, and price range."
+            ],
+            "prompt": "hard_positive_6.txt"
+        }
+    },
+    {
+        "utt": "all right. it's going to be t smith one two three four five at gmail dot com.",
+        "prepared": "Tell me what does a customer want by saying \"all right. it's going to be t smith one two three four five at gmail dot com.\".\n\nThe customer wants to",
+        "prediction": "provide their email address in the format of \"t smith one two three four five at gmail dot com\".",
+        "action": "provide",
+        "object": "address",
+        "hard_positive": {
+            "results": [
+                "i want to provide my home address.",
+                "i want to provide my work address.",
+                "i want to provide my mailing address."
+            ],
+            "prompt": "hard_positive_4.txt"
+        }
+    },
+    {
+        "utt": "klein.",
+        "prepared": "Tell me what does a customer want by saying \"klein.\".\n\nThe customer wants to",
+        "prediction": "purchase a small item or a smaller quantity of an item.",
+        "action": "purchase",
+        "object": "item",
+        "hard_positive": {
+            "results": [
+                "i want to learn more about the company and its products."
+            ],
+            "prompt": "hard_positive_6.txt"
+        }
+    },
+    {
+        "utt": "i also need a train. leaving cambridge on monday.",
+        "prepared": "Tell me what does a customer want by saying \"i also need a train. leaving cambridge on monday.\".\n\nThe customer wants to",
+        "prediction": "book a train ticket from Cambridge to a destination on Monday.",
+        "action": "book",
+        "object": "ticket",
+        "hard_positive": {
+            "results": [
+                "i need a train ticket from cambridge to my destination on monday."
+            ],
+            "prompt": "hard_positive_5.txt"
+        }
+    },
+    {
+        "utt": "no. i think that's everything. i appreciate it so much brenda. have a good day.",
+        "prepared": "Tell me what does a customer want by saying \"no. i think that's everything. i appreciate it so much brenda. have a good day.\".\n\nThe customer wants to",
+        "prediction": "express their gratitude for the assistance provided by Brenda and end the conversation.",
+        "action": "express",
+        "object": "gratitude",
+        "hard_positive": {
+            "results": [
+                "i want to ensure that the customer service representative has all the necessary information to assist me with my inquiry or issue."
+            ],
+            "prompt": "hard_positive_6.txt"
+        }
+    },
+    {
+        "utt": "which way is fast to make it to airport in the morning, by train or by bus?",
+        "prepared": "Tell me what does a customer want by saying \"which way is fast to make it to airport in the morning, by train or by bus?\".\n\nThe customer wants to",
+        "prediction": "know which mode of transportation is faster to reach the airport in the morning, either by train or by bus.",
+        "action": "know",
+        "object": "transportation",
+        "hard_positive": {
+            "results": [
+                "what is the quickest way to get to the airport in the morning?",
+                "which mode of transportation is faster to get to the airport in the morning?",
+                "what is the fastest way to get to the airport in the morning?"
+            ],
+            "prompt": "hard_positive_5.txt"
+        }
+    },
+    {
+        "utt": "hm, alright.",
+        "prepared": "Tell me what does a customer want by saying \"hm, alright.\".\n\nThe customer wants to",
+        "prediction": "express that they are considering the options presented to them and will make a decision soon.",
+        "action": "express",
+        "object": "consideration",
+        "hard_positive": {
+            "results": [
+                "i do not want to feel pressured to make a decision right away.",
+                "i do not want to feel like my opinion is not valued."
+            ],
+            "prompt": "hard_positive_7.txt"
+        }
+    },
+    {
+        "utt": "do you know the level of humidity? can you also tell me about the wind?",
+        "prepared": "Tell me what does a customer want by saying \"do you know the level of humidity? can you also tell me about the wind?\".\n\nThe customer wants to",
+        "prediction": "know the current humidity level and wind conditions in their area.",
+        "action": "know",
+        "object": "level",
+        "hard_positive": {
+            "results": [
+                "i do not want to go outside to check the weather conditions.",
+                "i do not want to search for weather updates on the internet."
+            ],
+            "prompt": "hard_positive_7.txt"
+        }
+    },
+    {
+        "utt": "what is the temperature on friday?",
+        "prepared": "Tell me what does a customer want by saying \"what is the temperature on friday?\".\n\nThe customer wants to",
+        "prediction": "know the temperature on Friday.",
+        "action": "know",
+        "object": "temperature",
+        "hard_positive": {
+            "results": [
+                "i want to know the temperature in my city on friday.",
+                "i want to know the temperature in my hometown on friday.",
+                "i want to know the temperature in my favorite vacation spot on friday."
+            ],
+            "prompt": "hard_positive_4.txt"
+        }
+    },
+    {
+        "utt": "hello, i'm looking for a restaurant called river bar steakhouse and grill.",
+        "prepared": "Tell me what does a customer want by saying \"hello, i'm looking for a restaurant called river bar steakhouse and grill.\".\n\nThe customer wants to",
+        "prediction": "find a restaurant called River Bar Steakhouse and Grill.",
+        "action": "find",
+        "object": "restaurant",
+        "hard_positive": {
+            "results": [
+                "i am looking for a restaurant called river bar steakhouse and grill."
+            ],
+            "prompt": "hard_positive_5.txt"
+        }
+    },
+    {
+        "utt": "remind me to drop off mail.",
+        "prepared": "Tell me what does a customer want by saying \"remind me to drop off mail.\".\n\nThe customer wants to",
+        "prediction": "be reminded to drop off mail at a specific location or time.",
+        "action": "be reminded to",
+        "object": "mail",
+        "hard_positive": {
+            "results": [
+                "please remind me to drop off my mail."
+            ],
+            "prompt": "hard_positive_5.txt"
+        }
+    },
+    {
+        "utt": "no. find me where it is located, phone number and postcode",
+        "prepared": "Tell me what does a customer want by saying \"no. find me where it is located, phone number and postcode\".\n\nThe customer wants to",
+        "prediction": "find the location of a specific business or establishment, along with their phone number and postcode.",
+        "action": "find",
+        "object": "location",
+        "hard_positive": {
+            "results": [
+                "can you please provide me with the address and contact details of the store?"
+            ],
+            "prompt": "hard_positive_5.txt"
+        }
+    },
+    {
+        "utt": "then i will take that hotel you located, make reservations for a 2 day stay that will commence on the 1st of this month.",
+        "prepared": "Tell me what does a customer want by saying \"then i will take that hotel you located, make reservations for a 2 day stay that will commence on the 1st of this month.\".\n\nThe customer wants to",
+        "prediction": "book a hotel for a 2-day stay that will start on the 1st of the current month.",
+        "action": "book",
+        "object": "hotel",
+        "hard_positive": {
+            "results": [
+                "i do not want to spend time researching and comparing different hotels.",
+                "i do not want to make multiple phone calls or emails to book the hotel."
+            ],
+            "prompt": "hard_positive_7.txt"
+        }
+    },
+    {
+        "utt": "two eight five four two one one one three four.",
+        "prepared": "Tell me what does a customer want by saying \"two eight five four two one one one three four.\".\n\nThe customer wants to",
+        "prediction": "place an order for two items with the SKU numbers 28542111 and 28542114.",
+        "action": "place",
+        "object": "order",
+        "hard_positive": {
+            "results": [
+                "i would like to speak to a customer service representative."
+            ],
+            "prompt": "hard_positive_5.txt"
+        }
+    },
+    {
+        "utt": "no , not now . thanks a lot",
+        "prepared": "Tell me what does a customer want by saying \"no , not now . thanks a lot\".\n\nThe customer wants to",
+        "prediction": "decline the offer or service being offered at the moment.",
+        "action": "decline",
+        "object": "offer",
+        "hard_positive": {
+            "results": [
+                "i'm sorry, but i cannot accept your offer at this time.",
+                "i appreciate the offer, but i am not interested at this time.",
+                "thank you for the offer, but i am not able to accept it at this time."
+            ],
+            "prompt": "hard_positive_4.txt"
+        }
+    },
+    {
+        "utt": "thank you. that's is all i need. goodbye.",
+        "prepared": "Tell me what does a customer want by saying \"thank you. that's is all i need. goodbye.\".\n\nThe customer wants to",
+        "prediction": "express their gratitude for the assistance provided and indicate that they have received all the information they need.",
+        "action": "express",
+        "object": "gratitude",
+        "hard_positive": {
+            "results": [
+                "i am grateful for your help.",
+                "thank you for your assistance.",
+                "i appreciate your help."
+            ],
+            "prompt": "hard_positive_4.txt"
+        }
+    }
+]

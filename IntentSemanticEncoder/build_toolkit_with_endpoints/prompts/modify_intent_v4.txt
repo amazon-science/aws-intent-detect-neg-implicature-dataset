@@ -1,0 +1,6 @@
+[PREVIOUS] [PRED]
+
+Give me 3 other intents that a customer may have rather than [ACTION] [OBJECT] in this scenario.
+
+Answer:
+1)

@@ -1,0 +1,8 @@
+Implicature utterance refers to those utterances that conveys something other than their literal meanings. It often happens when the user is not familiar with the chatbot services. Therefore, the user only conveys the situation they have, but Chatbot needs to infer the intent that needs to be triggered. For example:
+
+[Example utterance 1] "just found my old card" can trigger intent "how to link card to account"
+[Example utterance 2] "I haven't had breakfast" can trigger intent "suggest restaurant"
+[Example utterance 3] "Am I able to drive to Seattle from here?" can trigger intent "check gas amount"
+
+Based on these examples, could you generate [NUM] implicature utterances for intent [INTENT], under the below scenario? Please wrap your answers into a JSON object with keys like "utterance_1", "utterance_2", "utterance_3" and so on.
+[SCENARIO]

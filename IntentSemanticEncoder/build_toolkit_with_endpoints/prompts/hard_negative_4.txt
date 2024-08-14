@@ -1,0 +1,6 @@
+[PREVIOUS] [PRED]
+
+Imagine you are a customer. Now you do not want to [ACTION] [OBJECT], give me 2 other things you want to do.
+
+Answer:
+1)

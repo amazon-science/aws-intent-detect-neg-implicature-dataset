@@ -1,0 +1,2209 @@
+[
+    {
+        "utt": "create alarms for 6:00am and 7:00am",
+        "prepared": "Tell me what does a customer want by saying \"create alarms for 6:00am and 7:00am\".\n\nThe customer wants to",
+        "prediction": "set up two alarms for 6:00am and 7:00am.",
+        "action": "set",
+        "object": "alarms",
+        "modified_intents": [
+            "\"what is the weather like today?\"",
+            "\"give me a news update\""
+        ]
+    },
+    {
+        "utt": "yes, now i want to visit that doctor for which please make an appointment to that doctor on that day at 4 in the evening.",
+        "prepared": "Tell me what does a customer want by saying \"yes, now i want to visit that doctor for which please make an appointment to that doctor on that day at 4 in the evening.\".\n\nThe customer wants to",
+        "prediction": "schedule an appointment with a specific doctor on a specific day and time.",
+        "action": "schedule",
+        "object": "appointment",
+        "modified_intents": [
+            "the customer may want to know the availability of the doctor on a specific day and time.",
+            "the customer may want to know more information about the doctor, such as their specialization or experience."
+        ]
+    },
+    {
+        "utt": "missing link sounds good. what are some of the times?",
+        "prepared": "Tell me what does a customer want by saying \"missing link sounds good. what are some of the times?\".\n\nThe customer wants to",
+        "prediction": "listen to the song \"Missing Link\" by the band \"What Are Some of the Times?\".",
+        "action": "listen to",
+        "object": "music",
+        "modified_intents": [
+            "to find out more information about the band \"what are some of the times?\"",
+            "to purchase tickets to see the band perform live"
+        ]
+    },
+    {
+        "utt": "i need to create an alarm for 4pm",
+        "prepared": "Tell me what does a customer want by saying \"i need to create an alarm for 4pm\".\n\nThe customer wants to",
+        "prediction": "create an alarm that will go off at 4pm.",
+        "action": "create",
+        "object": "alarm",
+        "modified_intents": [
+            "\"set a reminder for 4pm\"",
+            "\"schedule an alert for 4pm\""
+        ]
+    },
+    {
+        "utt": "i also need a hotel room.",
+        "prepared": "Tell me what does a customer want by saying \"i also need a hotel room.\".\n\nThe customer wants to",
+        "prediction": "book a hotel room in addition to the product or service they are already purchasing.",
+        "action": "book",
+        "object": "room",
+        "modified_intents": [
+            "customer may want to add additional items to their purchase, such as a car rental or travel insurance.",
+            "customer may want to make changes or cancellations to their existing reservation."
+        ]
+    },
+    {
+        "utt": "i'm looking for music on that day i want something to see on march 12th i really like pop music.",
+        "prepared": "Tell me what does a customer want by saying \"i'm looking for music on that day i want something to see on march 12th i really like pop music.\".\n\nThe customer wants to",
+        "prediction": "find music and entertainment events happening on March 12th that they can attend.",
+        "action": "find",
+        "object": "music",
+        "modified_intents": [
+            "the customer may be interested in finding out information about upcoming music events, such as concert dates, venues, and ticket availability.",
+            "the customer may be interested in finding out about other types of entertainment events happening on march 12th, such as theater performances or sporting events."
+        ]
+    },
+    {
+        "utt": "create an alarm for tomorrow at 7am",
+        "prepared": "Tell me what does a customer want by saying \"create an alarm for tomorrow at 7am\".\n\nThe customer wants to",
+        "prediction": "set an alarm for tomorrow at 7am.",
+        "action": "set",
+        "object": "alarm",
+        "modified_intents": [
+            "\"what is the weather forecast for tomorrow?\"",
+            "\"remind me to call john at 3pm.\""
+        ]
+    },
+    {
+        "utt": "if i leave home by noon when will i get to artfest downtown?",
+        "prepared": "Tell me what does a customer want by saying \"if i leave home by noon when will i get to artfest downtown?\".\n\nThe customer wants to",
+        "prediction": "know the estimated time of arrival at Artfest downtown if they leave their home by noon.",
+        "action": "know",
+        "object": "time",
+        "modified_intents": [
+            "the customer may want to know the best route to take to get to artfest downtown by leaving home at noon.",
+            "the customer may want to know the traffic conditions and potential delays that could affect their arrival time at artfest downtown by leaving home at noon."
+        ]
+    },
+    {
+        "utt": "delete reminders of friday 11th of august",
+        "prepared": "Tell me what does a customer want by saying \"delete reminders of friday 11th of august\".\n\nThe customer wants to",
+        "prediction": "delete all reminders scheduled for Friday, August 11th.",
+        "action": "delete",
+        "object": "reminders",
+        "modified_intents": [
+            "the customer may want to view reminders scheduled for friday, august 11th.",
+            "the customer may want to reschedule reminders scheduled for friday, august 11th."
+        ]
+    },
+    {
+        "utt": "okay. what is the weather forecast there for the 12th?",
+        "prepared": "Tell me what does a customer want by saying \"okay. what is the weather forecast there for the 12th?\".\n\nThe customer wants to",
+        "prediction": "know the weather forecast for the 12th of the current month.",
+        "action": "know",
+        "object": "forecast",
+        "modified_intents": [
+            "the customer may want to know the date of the 12th of the current month.",
+            "the customer may want to set a reminder for the 12th of the current month."
+        ]
+    },
+    {
+        "utt": "play anita baker.",
+        "prepared": "Tell me what does a customer want by saying \"play anita baker.\".\n\nThe customer wants to",
+        "prediction": "listen to Anita Baker's music.",
+        "action": "listen to",
+        "object": "music",
+        "modified_intents": [
+            "get information about anita baker, such as her biography or upcoming concerts.",
+            "purchase anita baker's music or merchandise."
+        ]
+    },
+    {
+        "utt": "you know i think i will do the five thousand transferred and i've i assume that's gonna be enough. if not i can always call you guys back up and do another transfer. it's just that easy right?",
+        "prepared": "Tell me what does a customer want by saying \"you know i think i will do the five thousand transferred and i've i assume that's gonna be enough. if not i can always call you guys back up and do another transfer. it's just that easy right?\".\n\nThe customer wants to",
+        "prediction": "transfer $5,000 and is assuming that it will be enough.",
+        "action": "transfer",
+        "object": "money",
+        "modified_intents": [
+            "the customer wants to check their account balance.",
+            "the customer wants to speak to a customer service representative."
+        ]
+    },
+    {
+        "utt": "i also need a train. leaving cambridge on monday.",
+        "prepared": "Tell me what does a customer want by saying \"i also need a train. leaving cambridge on monday.\".\n\nThe customer wants to",
+        "prediction": "book a train ticket from Cambridge to a destination on Monday.",
+        "action": "book",
+        "object": "ticket",
+        "modified_intents": [
+            "\"what is the train schedule for next week?\"",
+            "\"can you suggest any deals or discounts on train tickets for this month?\""
+        ]
+    },
+    {
+        "utt": "let's let's do let's do favorite pet.",
+        "prepared": "Tell me what does a customer want by saying \"let's let's do let's do favorite pet.\".\n\nThe customer wants to",
+        "prediction": "know what the favorite pet of the person they are talking to is.",
+        "action": "know",
+        "object": "favorite pet",
+        "modified_intents": [
+            "the customer may want to know if the person has any pets at all.",
+            "the customer may want to know if the person has a particular type of pet, such as a dog or cat."
+        ]
+    },
+    {
+        "utt": "thank you. that's is all i need. goodbye.",
+        "prepared": "Tell me what does a customer want by saying \"thank you. that's is all i need. goodbye.\".\n\nThe customer wants to",
+        "prediction": "express their gratitude for the assistance provided and indicate that they have received all the information they need.",
+        "action": "express",
+        "object": "gratitude",
+        "modified_intents": [
+            "the customer may want to ask for additional information or assistance.",
+            "the customer may be experiencing an issue and need help resolving it."
+        ]
+    },
+    {
+        "utt": "yeah, that's good. what's the address for the venue, and when does the event start?",
+        "prepared": "Tell me what does a customer want by saying \"yeah, that's good. what's the address for the venue, and when does the event start?\".\n\nThe customer wants to",
+        "prediction": "know the address of the venue and the start time of the event.",
+        "action": "know",
+        "object": "address",
+        "modified_intents": [
+            "the customer may want to know more details about the event, such as the event description, ticket price, or dress code.",
+            "the customer may want to purchase tickets for the event."
+        ]
+    },
+    {
+        "utt": "yeah that one sounds good, can you see if there's any hotels?",
+        "prepared": "Tell me what does a customer want by saying \"yeah that one sounds good, can you see if there's any hotels?\".\n\nThe customer wants to",
+        "prediction": "book a hotel room.",
+        "action": "book",
+        "object": "room",
+        "modified_intents": [
+            "the customer may want to know more information about a particular hotel, such as its amenities, location, or availability.",
+            "the customer may be interested in comparing prices and options for different hotels before making a decision."
+        ]
+    },
+    {
+        "utt": "no. i think that's everything. i appreciate it so much brenda. have a good day.",
+        "prepared": "Tell me what does a customer want by saying \"no. i think that's everything. i appreciate it so much brenda. have a good day.\".\n\nThe customer wants to",
+        "prediction": "express their gratitude for the assistance provided by Brenda and end the conversation.",
+        "action": "express",
+        "object": "gratitude",
+        "modified_intents": [
+            "request for additional assistance or information",
+            "indication of dissatisfaction or issue with the service provided"
+        ]
+    },
+    {
+        "utt": "no. find me where it is located, phone number and postcode",
+        "prepared": "Tell me what does a customer want by saying \"no. find me where it is located, phone number and postcode\".\n\nThe customer wants to",
+        "prediction": "find the location of a specific business or establishment, along with their phone number and postcode.",
+        "action": "find",
+        "object": "location",
+        "modified_intents": [
+            "the customer may want to know the opening and closing hours of the business.",
+            "the customer may want to know the products or services offered by the business."
+        ]
+    },
+    {
+        "utt": "remind me to do a hike",
+        "prepared": "Tell me what does a customer want by saying \"remind me to do a hike\".\n\nThe customer wants to",
+        "prediction": "be reminded to go on a hike at a later time.",
+        "action": "be reminded to",
+        "object": "hike",
+        "modified_intents": [
+            "the customer may want to know about the best hiking trails in the area.",
+            "the customer may want to know about the weather conditions for hiking."
+        ]
+    },
+    {
+        "utt": "delete all lunch reminders that were set for september 2019 with mr. jones.",
+        "prepared": "Tell me what does a customer want by saying \"delete all lunch reminders that were set for september 2019 with mr. jones.\".\n\nThe customer wants to",
+        "prediction": "delete all lunch reminders that were set for September 2019 with Mr.",
+        "action": "delete",
+        "object": "reminders",
+        "modified_intents": [
+            "the customer may want to view the existing lunch reminders that were set for september 2019 with mr. jones.",
+            "the customer may want to set new lunch reminders for mr. jones for september 2019."
+        ]
+    },
+    {
+        "utt": "four digit pin is three seven one two.",
+        "prepared": "Tell me what does a customer want by saying \"four digit pin is three seven one two.\".\n\nThe customer wants to",
+        "prediction": "enter a four-digit pin code that is 3712.",
+        "action": "enter",
+        "object": "code",
+        "modified_intents": [
+            "the customer wants to know the last four digits of their account number.",
+            "the customer wants to know the expiration date of their credit card."
+        ]
+    },
+    {
+        "utt": "please tell me what the traffic's looking like",
+        "prepared": "Tell me what does a customer want by saying \"please tell me what the traffic's looking like\".\n\nThe customer wants to",
+        "prediction": "know the current traffic conditions on the road or in the area they are traveling to.",
+        "action": "know",
+        "object": "conditions",
+        "modified_intents": [
+            "to find out about traffic violations or tickets in a specific area",
+            "to get information about traffic laws or regulations in a particular location"
+        ]
+    },
+    {
+        "utt": "set a timer for the treadmill sets",
+        "prepared": "Tell me what does a customer want by saying \"set a timer for the treadmill sets\".\n\nThe customer wants to",
+        "prediction": "set a timer for the treadmill sets.",
+        "action": "set",
+        "object": "timer",
+        "modified_intents": [
+            "\"start the treadmill\"",
+            "\"stop the treadmill\""
+        ]
+    },
+    {
+        "utt": "ok first name is lisa.",
+        "prepared": "Tell me what does a customer want by saying \"ok first name is lisa.\".\n\nThe customer wants to",
+        "prediction": "provide their first name, which is Lisa.",
+        "action": "provide",
+        "object": "name",
+        "modified_intents": [
+            "\"i'm not interested\"",
+            "\"i need more information\"\n\nplease provide me with 5 different ways a customer can end a conversation with a bot.\n\nanswer:\n1) \"goodbye\"\n2) \"thank you\"",
+            "\"i appreciate your help\""
+        ]
+    },
+    {
+        "utt": "i want chinese food in cheap price range in west side of town. a 3 star hotel that is expensive and includes wifi. also the hotel address, area, and postcode please.",
+        "prepared": "Tell me what does a customer want by saying \"i want chinese food in cheap price range in west side of town. a 3 star hotel that is expensive and includes wifi. also the hotel address, area, and postcode please.\".\n\nThe customer wants to",
+        "prediction": "find a Chinese restaurant with affordable prices in the west side of town.",
+        "action": "find",
+        "object": "restaurant",
+        "modified_intents": [
+            "the customer may want to find a hotel that is expensive and includes wifi in the west side of town.",
+            "the customer may want to find a 3-star hotel in the west side of town that is within their price range and includes wifi."
+        ]
+    },
+    {
+        "utt": "create a coolest jams for folk music on pandora",
+        "prepared": "Tell me what does a customer want by saying \"create a coolest jams for folk music on pandora\".\n\nThe customer wants to",
+        "prediction": "create a playlist of the coolest jams for folk music on Pandora.",
+        "action": "create",
+        "object": "playlist",
+        "modified_intents": [
+            "the customer may want to search for and listen to folk music on pandora.",
+            "the customer may want to know how to create a playlist on pandora."
+        ]
+    },
+    {
+        "utt": "klein.",
+        "prepared": "Tell me what does a customer want by saying \"klein.\".\n\nThe customer wants to",
+        "prediction": "purchase a small item or a smaller quantity of an item.",
+        "action": "purchase",
+        "object": "item",
+        "modified_intents": [
+            "inquire about the availability of a specific item or size.",
+            "request information about the product, such as its features or price."
+        ]
+    },
+    {
+        "utt": "four four three two one zero nine seven eight.",
+        "prepared": "Tell me what does a customer want by saying \"four four three two one zero nine seven eight.\".\n\nThe customer wants to",
+        "prediction": "provide a phone number in the format of (443) 229-0787.",
+        "action": "provide",
+        "object": "number",
+        "modified_intents": [
+            "the customer may want to check the balance of their account.",
+            "the customer may want to report a problem with their service."
+        ]
+    },
+    {
+        "utt": "the is the total cost for the rental?",
+        "prepared": "Tell me what does a customer want by saying \"the is the total cost for the rental?\".\n\nThe customer wants to",
+        "prediction": "know the total cost for the rental.",
+        "action": "know",
+        "object": "cost",
+        "modified_intents": [
+            "the customer may want to know the availability of the rental item.",
+            "the customer may want to know the details of the rental agreement, such as the terms and conditions."
+        ]
+    },
+    {
+        "utt": "ok. so i got two twelve nineteen sixty-six. and my address is five two four north orange street, fruit bowl, florida. three six nine, four eight.",
+        "prepared": "Tell me what does a customer want by saying \"ok. so i got two twelve nineteen sixty-six. and my address is five two four north orange street, fruit bowl, florida. three six nine, four eight.\".\n\nThe customer wants to",
+        "prediction": "order two 1966 Chevrolet Corvettes and have them delivered to their address in Fruit Bowl, Florida.",
+        "action": "order",
+        "object": "cars",
+        "modified_intents": [
+            "the customer may want to check the availability of a specific car model or year.",
+            "the customer may want to inquire about the pricing and financing options for a car.",
+            "the customer may want to schedule a test drive for a car."
+        ]
+    },
+    {
+        "utt": "play one direction",
+        "prepared": "Tell me what does a customer want by saying \"play one direction\".\n\nThe customer wants to",
+        "prediction": "listen to the music of the British boy band One Direction.",
+        "action": "listen to",
+        "object": "music",
+        "modified_intents": [
+            "to get information about one direction such as their latest news, upcoming tours, or discography.",
+            "to purchase merchandise related to one direction such as t-shirts, posters, or cds."
+        ]
+    },
+    {
+        "utt": "send my dad a reminder that he needs to bring the cocktail ingredients for the party at 5:00 pm tomorrow.",
+        "prepared": "Tell me what does a customer want by saying \"send my dad a reminder that he needs to bring the cocktail ingredients for the party at 5:00 pm tomorrow.\".\n\nThe customer wants to",
+        "prediction": "send a reminder to their dad to bring the cocktail ingredients for the party at 5:00 pm tomorrow.",
+        "action": "send",
+        "object": "reminder",
+        "modified_intents": [
+            "\"schedule a reminder for my dad to bring the cocktail ingredients for the party at 5:00 pm tomorrow.\"",
+            "\"remind me to remind my dad to bring the cocktail ingredients for the party at 5:00 pm tomorrow.\""
+        ]
+    },
+    {
+        "utt": "what is the traffic from adair to chelsea",
+        "prepared": "Tell me what does a customer want by saying \"what is the traffic from adair to chelsea\".\n\nThe customer wants to",
+        "prediction": "know the traffic from Adair to Chelsea.",
+        "action": "know",
+        "object": "traffic",
+        "modified_intents": [
+            "the customer may want to know the best route from adair to chelsea.",
+            "the customer may want to know the distance between adair and chelsea."
+        ]
+    },
+    {
+        "utt": "no, that is all for today. thank you.",
+        "prepared": "Tell me what does a customer want by saying \"no, that is all for today. thank you.\".\n\nThe customer wants to",
+        "prediction": "end the transaction and leave the store or website.",
+        "action": "end",
+        "object": "transaction",
+        "modified_intents": [
+            "the customer may want to ask for assistance or clarification about a product or service.",
+            "the customer may want to inquire about additional products or services that are available."
+        ]
+    },
+    {
+        "utt": "can you assist me with finding a moderately priced restaurant?",
+        "prepared": "Tell me what does a customer want by saying \"can you assist me with finding a moderately priced restaurant?\".\n\nThe customer wants to",
+        "prediction": "find a restaurant that offers good quality food at a reasonable price.",
+        "action": "find",
+        "object": "restaurant",
+        "modified_intents": [
+            "to make a reservation at a restaurant",
+            "to get directions to a restaurant"
+        ]
+    },
+    {
+        "utt": "so, i need two things. i need us to set up an appointment with the risk specialist and i need us to set up an appointment with notary.",
+        "prepared": "Tell me what does a customer want by saying \"so, i need two things. i need us to set up an appointment with the risk specialist and i need us to set up an appointment with notary.\".\n\nThe customer wants to",
+        "prediction": "set up appointments with a risk specialist and a notary.",
+        "action": "set",
+        "object": "appointments",
+        "modified_intents": [
+            "the customer may want to inquire about the services offered by the risk specialist and notary.",
+            "the customer may want to know the availability of the risk specialist and notary for appointment."
+        ]
+    },
+    {
+        "utt": "thank you. that's all i need. bye.",
+        "prepared": "Tell me what does a customer want by saying \"thank you. that's all i need. bye.\".\n\nThe customer wants to",
+        "prediction": "express their gratitude for the assistance provided and indicate that they have received all the information they need.",
+        "action": "express",
+        "object": "gratitude",
+        "modified_intents": [
+            "the customer may want to ask for additional information or assistance.",
+            "the customer may be expressing dissatisfaction with the service or product and want to escalate the issue."
+        ]
+    },
+    {
+        "utt": "i need to get to london kings cross. can you help me find a train?",
+        "prepared": "Tell me what does a customer want by saying \"i need to get to london kings cross. can you help me find a train?\".\n\nThe customer wants to",
+        "prediction": "travel from their current location to London Kings Cross by train.",
+        "action": "travel from",
+        "object": "transportation",
+        "modified_intents": [
+            "inquire about the status of a train: the customer may want to know if a particular train is on time, delayed, or cancelled.",
+            "book a train ticket: the customer may want to purchase a ticket for a specific train or for a future date."
+        ]
+    },
+    {
+        "utt": "i need the car in fremont ready on the 5th of this month at 19:30",
+        "prepared": "Tell me what does a customer want by saying \"i need the car in fremont ready on the 5th of this month at 19:30\".\n\nThe customer wants to",
+        "prediction": "have the car in Fremont, California, ready for pick-up on the 5th of this month at 7:30 PM.",
+        "action": "have",
+        "object": "car",
+        "modified_intents": [
+            "\"schedule a test drive for next week\"",
+            "\"check the availability of a specific car model\""
+        ]
+    },
+    {
+        "utt": "oh, okay. i need to also find a hotel that allows pets there. i need to get 3 different rooms.",
+        "prepared": "Tell me what does a customer want by saying \"oh, okay. i need to also find a hotel that allows pets there. i need to get 3 different rooms.\".\n\nThe customer wants to",
+        "prediction": "find a hotel that allows pets and needs to book three different rooms.",
+        "action": "find",
+        "object": "hotel",
+        "modified_intents": [
+            "the customer may want to book a hotel room for a specific date and time range.",
+            "the customer may want to find a hotel that offers certain amenities, such as a pool or free breakfast."
+        ]
+    },
+    {
+        "utt": "lucky her.",
+        "prepared": "Tell me what does a customer want by saying \"lucky her.\".\n\nThe customer wants to",
+        "prediction": "express their jealousy or envy towards someone who has something they desire or wish they had.",
+        "action": "express",
+        "object": "jealousy",
+        "modified_intents": [
+            "the customer may want to share their own personal experience or story related to the product or service.",
+            "the customer may be expressing admiration or respect towards the person who has the product or service."
+        ]
+    },
+    {
+        "utt": "ok, thank you very much for that. i'll look forward to hearing back.",
+        "prepared": "Tell me what does a customer want by saying \"ok, thank you very much for that. i'll look forward to hearing back.\".\n\nThe customer wants to",
+        "prediction": "express their gratitude for the information provided and is looking forward to receiving a response from the person they are speaking with.",
+        "action": "express",
+        "object": "gratitude",
+        "modified_intents": [
+            "request for clarification or more information",
+            "request for assistance or support"
+        ]
+    },
+    {
+        "utt": "can you search for any other flights?",
+        "prepared": "Tell me what does a customer want by saying \"can you search for any other flights?\".\n\nThe customer wants to",
+        "prediction": "explore other flight options that may be available and potentially find a better deal or more convenient schedule.",
+        "action": "explore",
+        "object": "options",
+        "modified_intents": [
+            "book a flight: the customer wants to purchase a flight ticket and confirm their travel plans.",
+            "check flight status: the customer wants to get information about the status of their flight, such as delays or gate changes."
+        ]
+    },
+    {
+        "utt": "thank you so much. you too, hun.",
+        "prepared": "Tell me what does a customer want by saying \"thank you so much. you too, hun.\".\n\nThe customer wants to",
+        "prediction": "express their gratitude and appreciation for the service or product they received.",
+        "action": "express",
+        "object": "gratitude",
+        "modified_intents": [
+            "request for additional information or assistance",
+            "expressing dissatisfaction or complaint about the service or product received"
+        ]
+    },
+    {
+        "utt": "play 107.7 radio on iheartradio",
+        "prepared": "Tell me what does a customer want by saying \"play 107.7 radio on iheartradio\".\n\nThe customer wants to",
+        "prediction": "listen to the radio station 107.",
+        "action": "listen to",
+        "object": "music",
+        "modified_intents": [
+            "\"get information about the latest music releases\"",
+            "\"find out about upcoming concerts and events\""
+        ]
+    },
+    {
+        "utt": "remind me to cancel my order.",
+        "prepared": "Tell me what does a customer want by saying \"remind me to cancel my order.\".\n\nThe customer wants to",
+        "prediction": "cancel their order and is asking for a reminder to do so.",
+        "action": "cancel",
+        "object": "order",
+        "modified_intents": [
+            "\"remind me to confirm my order\" - the customer wants to confirm their order and is asking for a reminder to do so.",
+            "\"remind me to make changes to my order\" - the customer wants to make changes to their order and is asking for a reminder to do so."
+        ]
+    },
+    {
+        "utt": "i am hoping to travel by train on my trip that is coming up. can you help me with that?",
+        "prepared": "Tell me what does a customer want by saying \"i am hoping to travel by train on my trip that is coming up. can you help me with that?\".\n\nThe customer wants to",
+        "prediction": "travel by train on their upcoming trip and is asking for assistance in booking or finding train tickets.",
+        "action": "travel by",
+        "object": "transportation",
+        "modified_intents": [
+            "the customer wants to book a hotel for their upcoming trip.",
+            "the customer wants to rent a car for their upcoming trip."
+        ]
+    },
+    {
+        "utt": "at evening 4:30.",
+        "prepared": "Tell me what does a customer want by saying \"at evening 4:30.\".\n\nThe customer wants to",
+        "prediction": "know what is available at 4:30 pm in the evening.",
+        "action": "know",
+        "object": "availability",
+        "modified_intents": [
+            "the customer may want to book a table for 4:30 pm in the evening.",
+            "the customer may want to know the menu for the evening."
+        ]
+    },
+    {
+        "utt": "is there any construction between here and tampa",
+        "prepared": "Tell me what does a customer want by saying \"is there any construction between here and tampa\".\n\nThe customer wants to",
+        "prediction": "know if there is any construction or road work between their current location and Tampa.",
+        "action": "know",
+        "object": "traffic",
+        "modified_intents": [
+            "the customer may want to know the best route to take to get to tampa.",
+            "the customer may want to know the estimated time of arrival to tampa."
+        ]
+    },
+    {
+        "utt": "a regular ride for 2 is ok",
+        "prepared": "Tell me what does a customer want by saying \"a regular ride for 2 is ok\".\n\nThe customer wants to",
+        "prediction": "book a ride for two people that is not a special occasion or event, but rather a regular ride for their daily commute or other routine transportation needs.",
+        "action": "book",
+        "object": "ride",
+        "modified_intents": [
+            "inquire about ride availability and pricing for a specific date and time.",
+            "cancel an existing ride booking."
+        ]
+    },
+    {
+        "utt": "is there snow in new york city?",
+        "prepared": "Tell me what does a customer want by saying \"is there snow in new york city?\".\n\nThe customer wants to",
+        "prediction": "know if there is snow in New York City.",
+        "action": "know",
+        "object": "weather",
+        "modified_intents": [
+            "\"what is the weather forecast for the next few days in new york city?\"",
+            "\"do i need an umbrella when i go out in new york city?\""
+        ]
+    },
+    {
+        "utt": "no, please search for some other buses. i need it for one person only.",
+        "prepared": "Tell me what does a customer want by saying \"no, please search for some other buses. i need it for one person only.\".\n\nThe customer wants to",
+        "prediction": "search for buses that can accommodate only one person.",
+        "action": "search for",
+        "object": "buses",
+        "modified_intents": [
+            "the customer may want to book a ticket for one person only.",
+            "the customer may want to know the availability of buses that can accommodate only one person."
+        ]
+    },
+    {
+        "utt": "i would like to join the audience.",
+        "prepared": "Tell me what does a customer want by saying \"i would like to join the audience.\".\n\nThe customer wants to",
+        "prediction": "become a member of the audience, which could mean they want to attend a live event or participate in an online community.",
+        "action": "become",
+        "object": "audience",
+        "modified_intents": [
+            "\"book a ticket\"",
+            "\"get more information\""
+        ]
+    },
+    {
+        "utt": "could you help find movies of the adventure genre?",
+        "prepared": "Tell me what does a customer want by saying \"could you help find movies of the adventure genre?\".\n\nThe customer wants to",
+        "prediction": "find movies that fall under the adventure genre.",
+        "action": "find",
+        "object": "movies",
+        "modified_intents": [
+            "\"what are the latest movies available?\"",
+            "\"can you suggest some movies based on my previous watch history?\""
+        ]
+    },
+    {
+        "utt": "that is all perfect.",
+        "prepared": "Tell me what does a customer want by saying \"that is all perfect.\".\n\nThe customer wants to",
+        "prediction": "express that they are satisfied with the product or service they received and that everything is in order.",
+        "action": "express",
+        "object": "satisfaction",
+        "modified_intents": [
+            "request for additional information or clarification about the product or service.",
+            "expressing dissatisfaction or concern about some aspect of the product or service."
+        ]
+    },
+    {
+        "utt": "two eight five four two one one one three four.",
+        "prepared": "Tell me what does a customer want by saying \"two eight five four two one one one three four.\".\n\nThe customer wants to",
+        "prediction": "place an order for two items with the SKU numbers 28542111 and 28542114.",
+        "action": "place",
+        "object": "order",
+        "modified_intents": [
+            "inquire about the availability of a product with the sku number 28542111.",
+            "check the price of a product with the sku number 28542114."
+        ]
+    },
+    {
+        "utt": "all right. it's going to be t smith one two three four five at gmail dot com.",
+        "prepared": "Tell me what does a customer want by saying \"all right. it's going to be t smith one two three four five at gmail dot com.\".\n\nThe customer wants to",
+        "prediction": "provide their email address in the format of \"t smith one two three four five at gmail dot com\".",
+        "action": "provide",
+        "object": "address",
+        "modified_intents": [
+            "the customer may want to confirm their order.",
+            "the customer may want to ask a question about the product or service."
+        ]
+    },
+    {
+        "utt": "yes. ten, twenty-four, nineteen seventy-four. and my social security is nine one five, six six seven zero three nine, in case you needed it.",
+        "prepared": "Tell me what does a customer want by saying \"yes. ten, twenty-four, nineteen seventy-four. and my social security is nine one five, six six seven zero three nine, in case you needed it.\".\n\nThe customer wants to",
+        "prediction": "confirm their order and provide their personal information, including their social security number, in case it is needed for any reason.",
+        "action": "confirm",
+        "object": "order",
+        "modified_intents": [
+            "asking for more information about a product or service",
+            "requesting assistance with a problem or issue they are experiencing"
+        ]
+    },
+    {
+        "utt": "yes i need to find a hotel in the north that has a star rating of 4.",
+        "prepared": "Tell me what does a customer want by saying \"yes i need to find a hotel in the north that has a star rating of 4.\".\n\nThe customer wants to",
+        "prediction": "find a hotel in the north that has a star rating of 4.",
+        "action": "find",
+        "object": "hotel",
+        "modified_intents": [
+            "\"i need to find a hotel in the north that has a swimming pool.\"",
+            "\"i need to find a hotel in the north that has free wi-fi.\""
+        ]
+    },
+    {
+        "utt": "yes please. i need one ticket.",
+        "prepared": "Tell me what does a customer want by saying \"yes please. i need one ticket.\".\n\nThe customer wants to",
+        "prediction": "purchase a ticket for an event or transportation.",
+        "action": "purchase",
+        "object": "ticket",
+        "modified_intents": [
+            "inquire about ticket availability: the customer may want to know if tickets are still available for a specific event or transportation.",
+            "request more information: the customer may want to know more details about the ticket, such as the price, seating availability, or terms and conditions."
+        ]
+    },
+    {
+        "utt": "set an alarm tonight",
+        "prepared": "Tell me what does a customer want by saying \"set an alarm tonight\".\n\nThe customer wants to",
+        "prediction": "set an alarm for tonight.",
+        "action": "set",
+        "object": "alarm",
+        "modified_intents": [
+            "check the current time",
+            "check the weather forecast for tonight"
+        ]
+    },
+    {
+        "utt": "i'm looking to find one way flights.",
+        "prepared": "Tell me what does a customer want by saying \"i'm looking to find one way flights.\".\n\nThe customer wants to",
+        "prediction": "find flights that have only one stop or connection, rather than multiple stops or connections.",
+        "action": "find",
+        "object": "flights",
+        "modified_intents": [
+            "the customer may be interested in finding round-trip flights.",
+            "the customer may be interested in finding flights with specific airlines or alliances."
+        ]
+    },
+    {
+        "utt": "yeah let me go see if i can get that.",
+        "prepared": "Tell me what does a customer want by saying \"yeah let me go see if i can get that.\".\n\nThe customer wants to",
+        "prediction": "check if the product or service they are interested in is available or if it can be provided by the company.",
+        "action": "check",
+        "object": "availability",
+        "modified_intents": [
+            "request more information about the product or service",
+            "express interest in purchasing the product or service"
+        ]
+    },
+    {
+        "utt": "wow react to the baking group thread",
+        "prepared": "Tell me what does a customer want by saying \"wow react to the baking group thread\".\n\nThe customer wants to",
+        "prediction": "see a reaction to a baking group thread on social media.",
+        "action": "see",
+        "object": "reaction",
+        "modified_intents": [
+            "the customer may want to join the baking group thread.",
+            "the customer may want to share their own baking experience in the group thread."
+        ]
+    },
+    {
+        "utt": "yes, please, that would be perfect.",
+        "prepared": "Tell me what does a customer want by saying \"yes, please, that would be perfect.\".\n\nThe customer wants to",
+        "prediction": "confirm that the product or service being offered is exactly what they are looking for and would be satisfied with.",
+        "action": "confirm",
+        "object": "perfect",
+        "modified_intents": [
+            "request for additional information or clarification about the product or service being offered.",
+            "interest in negotiating or making changes to the product or service being offered."
+        ]
+    },
+    {
+        "utt": "well that's very dangerous information, are you sure you're able to handle it?",
+        "prepared": "Tell me what does a customer want by saying \"well that's very dangerous information, are you sure you're able to handle it?\".\n\nThe customer wants to",
+        "prediction": "ensure that the person they are speaking with is capable of handling sensitive or potentially dangerous information.",
+        "action": "ensure",
+        "object": "security",
+        "modified_intents": [
+            "the customer may want to know more information about the product or service being offered.",
+            "the customer may want to express interest in purchasing the product or service."
+        ]
+    },
+    {
+        "utt": "yes, that will be ok.",
+        "prepared": "Tell me what does a customer want by saying \"yes, that will be ok.\".\n\nThe customer wants to",
+        "prediction": "confirm that the proposed solution or product is acceptable to them.",
+        "action": "confirm",
+        "object": "acceptable",
+        "modified_intents": [
+            "request for more information or clarification on the proposed solution or product.",
+            "indication of interest in negotiating or making changes to the proposed solution or product."
+        ]
+    },
+    {
+        "utt": "what reminders do i have for this week?",
+        "prepared": "Tell me what does a customer want by saying \"what reminders do i have for this week?\".\n\nThe customer wants to",
+        "prediction": "know what reminders they have for the current week.",
+        "action": "know",
+        "object": "reminders",
+        "modified_intents": [
+            "\"set a reminder for me\"",
+            "\"what are my upcoming events for this week?\""
+        ]
+    },
+    {
+        "utt": "i shall do it.",
+        "prepared": "Tell me what does a customer want by saying \"i shall do it.\".\n\nThe customer wants to",
+        "prediction": "take responsibility for completing the task or action mentioned in the sentence.",
+        "action": "take",
+        "object": "responsibility",
+        "modified_intents": [
+            "the customer may want to ask for clarification or more information about the task or action.",
+            "the customer may want to delegate the task or action to someone else."
+        ]
+    },
+    {
+        "utt": "hello, my name is charlene. and i was i had the. i was wondering how long does it take to make a wire transfer?",
+        "prepared": "Tell me what does a customer want by saying \"hello, my name is charlene. and i was i had the. i was wondering how long does it take to make a wire transfer?\".\n\nThe customer wants to",
+        "prediction": "know how long it takes to make a wire transfer.",
+        "action": "know",
+        "object": "time",
+        "modified_intents": [
+            "the customer wants to initiate a wire transfer.",
+            "the customer wants to know the process for making a wire transfer."
+        ]
+    },
+    {
+        "utt": "thank you so much. that is all i needed.",
+        "prepared": "Tell me what does a customer want by saying \"thank you so much. that is all i needed.\".\n\nThe customer wants to",
+        "prediction": "express their gratitude for the assistance provided by the person they are speaking to.",
+        "action": "express",
+        "object": "gratitude",
+        "modified_intents": [
+            "request for additional assistance or information: the customer may need further help or have additional questions that they want to ask.",
+            "dissatisfaction or complaint: the customer may not have received the assistance or information they needed and are expressing their frustration."
+        ]
+    },
+    {
+        "utt": "berkeley world music festival.",
+        "prepared": "Tell me what does a customer want by saying \"berkeley world music festival.\".\n\nThe customer wants to",
+        "prediction": "know about the Berkeley World Music Festival, which is an annual event that features a variety of musical genres from around the world.",
+        "action": "know about",
+        "object": "festival",
+        "modified_intents": [
+            "the customer may want to purchase tickets for the festival.",
+            "the customer may want to know the date and time of the festival."
+        ]
+    },
+    {
+        "utt": "tell me how much time is left on my timer",
+        "prepared": "Tell me what does a customer want by saying \"tell me how much time is left on my timer\".\n\nThe customer wants to",
+        "prediction": "know how much time is left on their timer.",
+        "action": "know",
+        "object": "time",
+        "modified_intents": [
+            "the customer may want to pause the timer.",
+            "the customer may want to reset the timer."
+        ]
+    },
+    {
+        "utt": "i want to go to cairo festival city mall by 3 pm when should i leave?",
+        "prepared": "Tell me what does a customer want by saying \"i want to go to cairo festival city mall by 3 pm when should i leave?\".\n\nThe customer wants to",
+        "prediction": "know the estimated time they should leave to arrive at Cairo Festival City Mall by 3 pm.",
+        "action": "know",
+        "object": "time",
+        "modified_intents": [
+            "\"what is the best route to cairo festival city mall?\"",
+            "\"what are the opening hours of cairo festival city mall?\""
+        ]
+    },
+    {
+        "utt": "is it good weather for a picnic this afternoon?",
+        "prepared": "Tell me what does a customer want by saying \"is it good weather for a picnic this afternoon?\".\n\nThe customer wants to",
+        "prediction": "know if the weather is suitable for a picnic this afternoon.",
+        "action": "know",
+        "object": "weather",
+        "modified_intents": [
+            "\"what are the best places for a picnic in the city?\"",
+            "\"do you have any picnic baskets available for rent?\""
+        ]
+    },
+    {
+        "utt": "message steve and tell him i will not be going to the football game tonight.",
+        "prepared": "Tell me what does a customer want by saying \"message steve and tell him i will not be going to the football game tonight.\".\n\nThe customer wants to",
+        "prediction": "inform Steve that they will not be attending the football game tonight.",
+        "action": "inform",
+        "object": "attendance",
+        "modified_intents": [
+            "the customer wants to ask steve a question related to the football game.",
+            "the customer wants to inform steve of a change in plans and has something else to do instead of going to the football game."
+        ]
+    },
+    {
+        "utt": "well i was calling because i was looking on my account earlier today and i've and maybe i'm just like overthinking it but i seen a transaction that i i didn't recognize and you know i was i was out of town last week so i think like maybe it's possible that like i used it my card or something and i couldn't remember. i don't know but i just feel like it's not something that i had you know something that i had done so, i don't know, i was just hoping that maybe you could give me some insight as to like what this transaction was.",
+        "prepared": "Tell me what does a customer want by saying \"well i was calling because i was looking on my account earlier today and i've and maybe i'm just like overthinking it but i seen a transaction that i i didn't recognize and you know i was i was out of town last week so i think like maybe it's possible that like i used it my card or something and i couldn't remember. i don't know but i just feel like it's not something that i had you know something that i had done so, i don't know, i was just hoping that maybe you could give me some insight as to like what this transaction was.\".\n\nThe customer wants to",
+        "prediction": "know about a transaction on their account that they do not recognize.",
+        "action": "know about",
+        "object": "transaction",
+        "modified_intents": [
+            "the customer may want to report a lost or stolen card.",
+            "the customer may want to dispute a transaction on their account.",
+            "the customer may want to check their account balance."
+        ]
+    },
+    {
+        "utt": "f r a.",
+        "prepared": "Tell me what does a customer want by saying \"f r a.\".\n\nThe customer wants to",
+        "prediction": "know the price of a product or service.",
+        "action": "know",
+        "object": "price",
+        "modified_intents": [
+            "the customer may want to know the features and benefits of a product or service.",
+            "the customer may want to know the availability of a product or service."
+        ]
+    },
+    {
+        "utt": "remind me to pick up eggs, bacon and juice friday night",
+        "prepared": "Tell me what does a customer want by saying \"remind me to pick up eggs, bacon and juice friday night\".\n\nThe customer wants to",
+        "prediction": "be reminded to pick up eggs, bacon, and juice on Friday night.",
+        "action": "be reminded to",
+        "object": "groceries",
+        "modified_intents": [
+            "the customer may want to know the availability of eggs, bacon, and juice on friday night.",
+            "the customer may want to know the best deals on eggs, bacon, and juice for friday night."
+        ]
+    },
+    {
+        "utt": "where would that even be?",
+        "prepared": "Tell me what does a customer want by saying \"where would that even be?\".\n\nThe customer wants to",
+        "prediction": "know where the product or service they are inquiring about is located or available.",
+        "action": "know",
+        "object": "location",
+        "modified_intents": [
+            "the customer may want to know more information about the product or service, such as its features or benefits.",
+            "the customer may want to know the availability or status of the product or service, such as if it is in stock or currently available for purchase."
+        ]
+    },
+    {
+        "utt": "how much time would it take to reach my workplace from mnofya street?",
+        "prepared": "Tell me what does a customer want by saying \"how much time would it take to reach my workplace from mnofya street?\".\n\nThe customer wants to",
+        "prediction": "know the estimated time it would take to reach their workplace from Mnofya Street.",
+        "action": "know",
+        "object": "time",
+        "modified_intents": [
+            "\"what is the best route to reach my workplace from mnofya street?\"",
+            "\"are there any traffic jams on the roads near mnofya street that i should be aware of?\""
+        ]
+    },
+    {
+        "utt": "no let me give you a different routing number.",
+        "prepared": "Tell me what does a customer want by saying \"no let me give you a different routing number.\".\n\nThe customer wants to",
+        "prediction": "provide a different routing number for their transaction.",
+        "action": "provide",
+        "object": "number",
+        "modified_intents": [
+            "the customer may want to cancel the transaction.",
+            "the customer may want to confirm the transaction details before proceeding."
+        ]
+    },
+    {
+        "utt": "uh-oh no i don't think i have that.",
+        "prepared": "Tell me what does a customer want by saying \"uh-oh no i don't think i have that.\".\n\nThe customer wants to",
+        "prediction": "express that they do not have the item or service that they were expecting or hoping for.",
+        "action": "express",
+        "object": "disappointment",
+        "modified_intents": [
+            "the customer may be asking for more information about the item or service.",
+            "the customer may be expressing confusion or uncertainty about what they have been provided."
+        ]
+    },
+    {
+        "utt": "how is the traffic on 1604 today",
+        "prepared": "Tell me what does a customer want by saying \"how is the traffic on 1604 today\".\n\nThe customer wants to",
+        "prediction": "know the current traffic situation on 1604, a road in San Antonio, Texas.",
+        "action": "know",
+        "object": "situation",
+        "modified_intents": [
+            "the customer may want to know the best route to take to reach a destination on 1604.",
+            "the customer may want to know the estimated time of arrival to a specific location on 1604."
+        ]
+    },
+    {
+        "utt": "nineteen fifty-one.",
+        "prepared": "Tell me what does a customer want by saying \"nineteen fifty-one.\".\n\nThe customer wants to",
+        "prediction": "know the year 1951.",
+        "action": "know",
+        "object": "year",
+        "modified_intents": [
+            "the customer may want to know the significance of the year 1951.",
+            "the customer may want to know what happened in the year 1951."
+        ]
+    },
+    {
+        "utt": "do you have a 2 star in the east ?",
+        "prepared": "Tell me what does a customer want by saying \"do you have a 2 star in the east ?\".\n\nThe customer wants to",
+        "prediction": "know if there is a hotel or accommodation with a 2-star rating located in the east.",
+        "action": "know",
+        "object": "hotel",
+        "modified_intents": [
+            "the customer may want to know the availability of a 2-star hotel in the east.",
+            "the customer may want to book a 2-star hotel in the east."
+        ]
+    },
+    {
+        "utt": "i'm looking for an exciting place to go in the centre of town.",
+        "prepared": "Tell me what does a customer want by saying \"i'm looking for an exciting place to go in the centre of town.\".\n\nThe customer wants to",
+        "prediction": "find a fun and interesting place to visit in the heart of the city.",
+        "action": "find",
+        "object": "place",
+        "modified_intents": [
+            "the customer may be interested in finding out about the opening hours of businesses in the city center.",
+            "the customer may be looking for information on upcoming events or activities taking place in the city center."
+        ]
+    },
+    {
+        "utt": "is there anything else you would recommend? can i have the address and type of food for it?",
+        "prepared": "Tell me what does a customer want by saying \"is there anything else you would recommend? can i have the address and type of food for it?\".\n\nThe customer wants to",
+        "prediction": "know if there are any other recommendations or suggestions for food or restaurants in the area.",
+        "action": "know",
+        "object": "food",
+        "modified_intents": [
+            "the customer may want to know the price range of the recommended food or restaurant.",
+            "the customer may want to know if the recommended food or restaurant is suitable for a specific dietary restriction or preference (e.g. vegetarian, gluten-free)."
+        ]
+    },
+    {
+        "utt": "i'd like to visit a college in the south.",
+        "prepared": "Tell me what does a customer want by saying \"i'd like to visit a college in the south.\".\n\nThe customer wants to",
+        "prediction": "visit a college in the south.",
+        "action": "visit",
+        "object": "college",
+        "modified_intents": [
+            "the customer may want to visit a historical site in the south.",
+            "the customer may want to visit a national park in the south."
+        ]
+    },
+    {
+        "utt": "i would like to pay him off in full so transfer $840 please.",
+        "prepared": "Tell me what does a customer want by saying \"i would like to pay him off in full so transfer $840 please.\".\n\nThe customer wants to",
+        "prediction": "pay off a debt in full and transfer $840 to the person or company they owe money to.",
+        "action": "pay",
+        "object": "debt",
+        "modified_intents": [
+            "the customer wants to transfer $840 to their own bank account.",
+            "the customer wants to transfer $840 to a friend or family member's account."
+        ]
+    },
+    {
+        "utt": "no, i do not want to have tickets bought for this movie now. i am also interested to find a restaurant there.",
+        "prepared": "Tell me what does a customer want by saying \"no, i do not want to have tickets bought for this movie now. i am also interested to find a restaurant there.\".\n\nThe customer wants to",
+        "prediction": "watch a movie but does not want to buy tickets now.",
+        "action": "watch",
+        "object": "movie",
+        "modified_intents": [
+            "find a restaurant",
+            "book a table at a restaurant"
+        ]
+    },
+    {
+        "utt": "pin is one one one one.",
+        "prepared": "Tell me what does a customer want by saying \"pin is one one one one.\".\n\nThe customer wants to",
+        "prediction": "enter a pin code that consists of four digits, each of which is 1.",
+        "action": "enter",
+        "object": "code",
+        "modified_intents": [
+            "the customer wants to check their account balance.",
+            "the customer wants to make a purchase using their account."
+        ]
+    },
+    {
+        "utt": "thank you for your help. that is all.",
+        "prepared": "Tell me what does a customer want by saying \"thank you for your help. that is all.\".\n\nThe customer wants to",
+        "prediction": "express their gratitude for the assistance provided by the person they are speaking to.",
+        "action": "express",
+        "object": "gratitude",
+        "modified_intents": [
+            "requesting additional assistance: \"thank you for your help. can you also tell me how to do x?\"",
+            "asking for clarification: \"thank you for your help. can you explain that again please?\""
+        ]
+    },
+    {
+        "utt": "please pause the timer, and start timing in 10 minutes.",
+        "prepared": "Tell me what does a customer want by saying \"please pause the timer, and start timing in 10 minutes.\".\n\nThe customer wants to",
+        "prediction": "pause the timer for 10 minutes and then start timing again.",
+        "action": "pause",
+        "object": "timer",
+        "modified_intents": [
+            "the customer may want to stop the timer and start it again later.",
+            "the customer may want to reset the timer to zero and start timing again."
+        ]
+    },
+    {
+        "utt": "thanks, you, too!",
+        "prepared": "Tell me what does a customer want by saying \"thanks, you, too!\".\n\nThe customer wants to",
+        "prediction": "express gratitude for the service or product provided by the business.",
+        "action": "express",
+        "object": "gratitude",
+        "modified_intents": [
+            "request for assistance or support: the customer may need help with a problem or issue related to the product or service.",
+            "complaint or dissatisfaction: the customer may not be satisfied with the product or service and wants to express their dissatisfaction to the business."
+        ]
+    },
+    {
+        "utt": "for this one we need to do four thousand two hundred and one dollars and eighty-one cents.",
+        "prepared": "Tell me what does a customer want by saying \"for this one we need to do four thousand two hundred and one dollars and eighty-one cents.\".\n\nThe customer wants to",
+        "prediction": "purchase something that costs $4,201.",
+        "action": "purchase",
+        "object": "expensive",
+        "modified_intents": [
+            "the customer wants to check the balance of their account.",
+            "the customer wants to transfer money between accounts."
+        ]
+    },
+    {
+        "utt": "did merv send a message last night?",
+        "prepared": "Tell me what does a customer want by saying \"did merv send a message last night?\".\n\nThe customer wants to",
+        "prediction": "know if Merv sent a message last night.",
+        "action": "know",
+        "object": "information",
+        "modified_intents": [
+            "the customer may want to take action based on the information, such as replying to the message or forwarding it to someone else.",
+            "the customer may want to know more information about the message, such as its content or who it was sent to."
+        ]
+    },
+    {
+        "utt": "i did wanna also check the my my savings balance as well.",
+        "prepared": "Tell me what does a customer want by saying \"i did wanna also check the my my savings balance as well.\".\n\nThe customer wants to",
+        "prediction": "check their savings balance in addition to the other services they are inquiring about.",
+        "action": "check",
+        "object": "balance",
+        "modified_intents": [
+            "the customer may want to inquire about their account details or transactions.",
+            "the customer may want to perform a transaction, such as transferring funds or making a payment."
+        ]
+    },
+    {
+        "utt": "no the price doesn't matter as long as it is in the centre.",
+        "prepared": "Tell me what does a customer want by saying \"no the price doesn't matter as long as it is in the centre.\".\n\nThe customer wants to",
+        "prediction": "purchase an item that is located in the center of the store, regardless of the price.",
+        "action": "purchase",
+        "object": "item",
+        "modified_intents": [
+            "the customer wants to compare prices of items in the center of the store with items located elsewhere in the store.",
+            "the customer wants to find an item that is located in the center of the store, but does not want to purchase it."
+        ]
+    },
+    {
+        "utt": "hello this is chris and i would like to know my credit card balance",
+        "prepared": "Tell me what does a customer want by saying \"hello this is chris and i would like to know my credit card balance\".\n\nThe customer wants to",
+        "prediction": "know their credit card balance.",
+        "action": "know",
+        "object": "balance",
+        "modified_intents": [
+            "the customer may want to make a payment on their credit card.",
+            "the customer may want to report their credit card lost or stolen."
+        ]
+    },
+    {
+        "utt": "what events do i have scheduled on march 1st?",
+        "prepared": "Tell me what does a customer want by saying \"what events do i have scheduled on march 1st?\".\n\nThe customer wants to",
+        "prediction": "know what events they have scheduled on March 1st.",
+        "action": "know",
+        "object": "events",
+        "modified_intents": [
+            "\"what is the weather forecast for march 1st?\"",
+            "\"what are the holidays celebrated on march 1st?\""
+        ]
+    },
+    {
+        "utt": "tell me the expected weather conditions for today in alaska.",
+        "prepared": "Tell me what does a customer want by saying \"tell me the expected weather conditions for today in alaska.\".\n\nThe customer wants to",
+        "prediction": "know the expected weather conditions for today in Alaska.",
+        "action": "know",
+        "object": "conditions",
+        "modified_intents": [
+            "the customer may want to know the best time to visit alaska based on the weather conditions.",
+            "the customer may want to know if there are any weather-related advisories or alerts in alaska."
+        ]
+    },
+    {
+        "utt": "two new alarms for saturday 8am and 8:30am please",
+        "prepared": "Tell me what does a customer want by saying \"two new alarms for saturday 8am and 8:30am please\".\n\nThe customer wants to",
+        "prediction": "set two new alarms for Saturday at 8am and 8:30am.",
+        "action": "set",
+        "object": "alarms",
+        "modified_intents": [
+            "\"what are the current alarms set for today?\"",
+            "\"cancel all alarms for tomorrow\"\n\nplease provide me with 5 entities that might be needed for this skill to work.\n\nanswer:\n1) day of the week (e.g. saturday)\n2) time (e.g. 8am, 8:30am)",
+            "number of alarms (e.g. 2)"
+        ]
+    },
+    {
+        "utt": "set up a reminder to add clementines to the shopping list",
+        "prepared": "Tell me what does a customer want by saying \"set up a reminder to add clementines to the shopping list\".\n\nThe customer wants to",
+        "prediction": "add clementines to their shopping list and set up a reminder to ensure they don't forget to buy them.",
+        "action": "add",
+        "object": "clementines",
+        "modified_intents": [
+            "create a new shopping list",
+            "check existing shopping list"
+        ]
+    },
+    {
+        "utt": "ok, www dot intellibank dot com. ok.",
+        "prepared": "Tell me what does a customer want by saying \"ok, www dot intellibank dot com. ok.\".\n\nThe customer wants to",
+        "prediction": "visit the website of Intellibank by typing \"www dot intellibank dot com\" into their web browser.",
+        "action": "visit",
+        "object": "website",
+        "modified_intents": [
+            "the customer may want to get more information about intellibank, such as its services, products, or locations.",
+            "the customer may want to log in to their intellibank account to check their balance, transfer funds, or pay bills."
+        ]
+    },
+    {
+        "utt": "tell mike i can't believe you said that to her",
+        "prepared": "Tell me what does a customer want by saying \"tell mike i can't believe you said that to her\".\n\nThe customer wants to",
+        "prediction": "express their disapproval of the way Mike spoke to a female customer.",
+        "action": "express",
+        "object": "disapproval",
+        "modified_intents": [
+            "to request information about a product or service",
+            "to report a problem or issue with a product or service"
+        ]
+    },
+    {
+        "utt": "how long is it from home to warren",
+        "prepared": "Tell me what does a customer want by saying \"how long is it from home to warren\".\n\nThe customer wants to",
+        "prediction": "know the distance between their home and the town of Warren.",
+        "action": "know",
+        "object": "distance",
+        "modified_intents": [
+            "the customer may want to know the best route to take to get to warren.",
+            "the customer may want to know the nearest gas station or rest stop on the way to warren."
+        ]
+    },
+    {
+        "utt": "what are the wind conditions?",
+        "prepared": "Tell me what does a customer want by saying \"what are the wind conditions?\".\n\nThe customer wants to",
+        "prediction": "know the current wind conditions in the area.",
+        "action": "know",
+        "object": "conditions",
+        "modified_intents": [
+            "the customer may want to book a windsurfing lesson.",
+            "the customer may want to know the forecast for wind conditions in the area for the next few days."
+        ]
+    },
+    {
+        "utt": "traffic in northbound highway 100",
+        "prepared": "Tell me what does a customer want by saying \"traffic in northbound highway 100\".\n\nThe customer wants to",
+        "prediction": "know the current traffic situation on northbound highway 100.",
+        "action": "know",
+        "object": "situation",
+        "modified_intents": [
+            "the customer may want to know the best route to take to reach a destination on northbound highway 100.",
+            "the customer may want to know the estimated time of arrival for a particular location on northbound highway 100."
+        ]
+    },
+    {
+        "utt": "you know, and what else to queue it for?",
+        "prepared": "Tell me what does a customer want by saying \"you know, and what else to queue it for?\".\n\nThe customer wants to",
+        "prediction": "know what else they can add to their queue to make it more enjoyable or fulfilling.",
+        "action": "know",
+        "object": "enjoyable",
+        "modified_intents": [
+            "the customer may want to know if there are any special deals or discounts available for adding more items to their queue.",
+            "the customer may want to know if there are any complementary items that would go well with the items already in their queue."
+        ]
+    },
+    {
+        "utt": "can you give me the address for thanh binh as well please?",
+        "prepared": "Tell me what does a customer want by saying \"can you give me the address for thanh binh as well please?\".\n\nThe customer wants to",
+        "prediction": "know the address of Thanh Binh as well.",
+        "action": "know",
+        "object": "address",
+        "modified_intents": [
+            "the customer may want to know the opening hours of thanh binh.",
+            "the customer may want to know the contact number of thanh binh."
+        ]
+    },
+    {
+        "utt": "yes, so that's six four seven eight.",
+        "prepared": "Tell me what does a customer want by saying \"yes, so that's six four seven eight.\".\n\nThe customer wants to",
+        "prediction": "confirm the phone number \"647-8\" by repeating it back to the person on the other end of the line.",
+        "action": "confirm",
+        "object": "number",
+        "modified_intents": [
+            "the customer may want to make a purchase or order using the phone number \"647-8\".",
+            "the customer may want to inquire about the availability or status of a product or service associated with the phone number \"647-8\"."
+        ]
+    },
+    {
+        "utt": "that seems nice. i would like to have tickets booked for this bus.",
+        "prepared": "Tell me what does a customer want by saying \"that seems nice. i would like to have tickets booked for this bus.\".\n\nThe customer wants to",
+        "prediction": "book tickets for a bus.",
+        "action": "book",
+        "object": "tickets",
+        "modified_intents": [
+            "inquire about the bus schedule and timings.",
+            "ask for the route and destinations covered by the bus."
+        ]
+    },
+    {
+        "utt": "okay, that sounds great to me.",
+        "prepared": "Tell me what does a customer want by saying \"okay, that sounds great to me.\".\n\nThe customer wants to",
+        "prediction": "proceed with the proposed plan or idea.",
+        "action": "proceed with",
+        "object": "great",
+        "modified_intents": [
+            "the customer may want to make changes or ask for clarifications before proceeding.",
+            "the customer may want to compare the proposed plan or idea with other options before making a decision."
+        ]
+    },
+    {
+        "utt": "then i will take that hotel you located, make reservations for a 2 day stay that will commence on the 1st of this month.",
+        "prepared": "Tell me what does a customer want by saying \"then i will take that hotel you located, make reservations for a 2 day stay that will commence on the 1st of this month.\".\n\nThe customer wants to",
+        "prediction": "book a hotel for a 2-day stay that will start on the 1st of the current month.",
+        "action": "book",
+        "object": "hotel",
+        "modified_intents": [
+            "the customer may want to get more information about the hotel, such as its amenities, location, or availability.",
+            "the customer may want to cancel or modify an existing hotel reservation."
+        ]
+    },
+    {
+        "utt": "i'm not sure. how long is the train ride? i would like to arrive by 13:45.",
+        "prepared": "Tell me what does a customer want by saying \"i'm not sure. how long is the train ride? i would like to arrive by 13:45.\".\n\nThe customer wants to",
+        "prediction": "know the duration of the train ride and wants to arrive at their destination by 13:45.",
+        "action": "know",
+        "object": "duration",
+        "modified_intents": [
+            "the customer wants to book a train ticket and wants to know if there is a train available that will arrive by 13:45.",
+            "the customer wants to know the schedule of trains for the day and wants to plan their travel accordingly to arrive by 13:45."
+        ]
+    },
+    {
+        "utt": "nothing for today. thanks.",
+        "prepared": "Tell me what does a customer want by saying \"nothing for today. thanks.\".\n\nThe customer wants to",
+        "prediction": "say that they do not need anything at the moment and are not interested in making a purchase.",
+        "action": "say",
+        "object": "nothing",
+        "modified_intents": [
+            "the customer may want to ask for more information about a product or service.",
+            "the customer may want to express a complaint or issue with their current purchase."
+        ]
+    },
+    {
+        "utt": "ok, then yeah that's what i wanna do. so and the stock symbol is f f i v.",
+        "prepared": "Tell me what does a customer want by saying \"ok, then yeah that's what i wanna do. so and the stock symbol is f f i v.\".\n\nThe customer wants to",
+        "prediction": "purchase a stock with the symbol \"FFIV\".",
+        "action": "purchase",
+        "object": "stock",
+        "modified_intents": [
+            "the customer may want to get information about the stock, such as its current price, historical performance, or news related to the company.",
+            "the customer may want to sell a stock that they already own, rather than purchase a new one."
+        ]
+    },
+    {
+        "utt": "sorry. excuse me. i don't have that number on me.",
+        "prepared": "Tell me what does a customer want by saying \"sorry. excuse me. i don't have that number on me.\".\n\nThe customer wants to",
+        "prediction": "apologize for not having the phone number they need on hand.",
+        "action": "apologize for",
+        "object": "apology",
+        "modified_intents": [
+            "the customer may want to ask for assistance in finding the phone number they need.",
+            "the customer may want to request that the employee provide them with the phone number they need."
+        ]
+    },
+    {
+        "utt": "wake me up every friday at 5am",
+        "prepared": "Tell me what does a customer want by saying \"wake me up every friday at 5am\".\n\nThe customer wants to",
+        "prediction": "be woken up every Friday at 5am.",
+        "action": "be woken",
+        "object": "alarm",
+        "modified_intents": [
+            "\"set a reminder to call john at 3pm tomorrow\"",
+            "\"add a calendar event for a doctor's appointment next wednesday at 2pm\""
+        ]
+    },
+    {
+        "utt": "can you find me some attractions there? any kind of attraction is fine, as long as there's no entry fee.",
+        "prepared": "Tell me what does a customer want by saying \"can you find me some attractions there? any kind of attraction is fine, as long as there's no entry fee.\".\n\nThe customer wants to",
+        "prediction": "find attractions in the area that are free to enter.",
+        "action": "find",
+        "object": "attractions",
+        "modified_intents": [
+            "the customer may want to find information about the opening hours of a specific attraction.",
+            "the customer may want to find information about the availability of parking near a specific attraction."
+        ]
+    },
+    {
+        "utt": "i will be departing from fresno to arrive to anaheim, ca, and i have planned to depart on 1st of this month.",
+        "prepared": "Tell me what does a customer want by saying \"i will be departing from fresno to arrive to anaheim, ca, and i have planned to depart on 1st of this month.\".\n\nThe customer wants to",
+        "prediction": "travel from Fresno to Anaheim, California and has planned to depart on the 1st of the current month.",
+        "action": "travel from",
+        "object": "travel",
+        "modified_intents": [
+            "the customer wants to book a hotel room in anaheim, california for the 1st of the current month.",
+            "the customer wants to know the best transportation options for traveling from fresno to anaheim, california on the 1st of the current month."
+        ]
+    },
+    {
+        "utt": "let's send a message back.",
+        "prepared": "Tell me what does a customer want by saying \"let's send a message back.\".\n\nThe customer wants to",
+        "prediction": "send a message back to the sender of the previous message.",
+        "action": "send",
+        "object": "message",
+        "modified_intents": [
+            "\"what are the charges for sending a message?\"",
+            "\"how do i know if my message has been sent?\"\n\nplease provide me with 5 different ways a customer can send a message on your platform.\n\nanswer:\n1) by typing and sending a message directly to the contact or group chat.\n2) by attaching a file or media to the message.",
+            "by using the built-in voice or video call feature."
+        ]
+    },
+    {
+        "utt": "no, i want to hear it on the bedroom device.",
+        "prepared": "Tell me what does a customer want by saying \"no, i want to hear it on the bedroom device.\".\n\nThe customer wants to",
+        "prediction": "listen to the audio on a device that is typically used in the bedroom, such as a speaker or a radio.",
+        "action": "listen to",
+        "object": "audio",
+        "modified_intents": [
+            "the customer may want to set an alarm or timer for a specific time.",
+            "the customer may want to adjust the brightness or volume of the device."
+        ]
+    },
+    {
+        "utt": "please put property visit for the event title.",
+        "prepared": "Tell me what does a customer want by saying \"please put property visit for the event title.\".\n\nThe customer wants to",
+        "prediction": "schedule a property visit for an event.",
+        "action": "schedule",
+        "object": "visit",
+        "modified_intents": [
+            "inquire about the event details: the customer may want to know more about the event and its schedule before deciding to visit the property.",
+            "request for additional information: the customer may want more information about the property or the event before scheduling a visit."
+        ]
+    },
+    {
+        "utt": "which way is fast to make it to airport in the morning, by train or by bus?",
+        "prepared": "Tell me what does a customer want by saying \"which way is fast to make it to airport in the morning, by train or by bus?\".\n\nThe customer wants to",
+        "prediction": "know which mode of transportation is faster to reach the airport in the morning, either by train or by bus.",
+        "action": "know",
+        "object": "transportation",
+        "modified_intents": [
+            "\"what is the best way to reach the airport in the morning?\"",
+            "\"can you suggest me the best mode of transportation to reach the airport in the morning?\""
+        ]
+    },
+    {
+        "utt": "price range doesn't matter to me. i'd like it to have a one star.",
+        "prepared": "Tell me what does a customer want by saying \"price range doesn't matter to me. i'd like it to have a one star.\".\n\nThe customer wants to",
+        "prediction": "purchase a product with a one-star rating, regardless of the price range.",
+        "action": "purchase",
+        "object": "product",
+        "modified_intents": [
+            "the customer wants to leave a one-star review for a product they have previously purchased.",
+            "the customer wants to research a product with a one-star rating to determine whether or not they want to purchase it."
+        ]
+    },
+    {
+        "utt": "can this alarm be repeated hourly",
+        "prepared": "Tell me what does a customer want by saying \"can this alarm be repeated hourly\".\n\nThe customer wants to",
+        "prediction": "set an alarm that will go off every hour.",
+        "action": "set",
+        "object": "alarm",
+        "modified_intents": [
+            "the customer may want to know the current time.",
+            "the customer may want to set a reminder for a specific time."
+        ]
+    },
+    {
+        "utt": "yes, a table for 7 at 12:45 on sunday.",
+        "prepared": "Tell me what does a customer want by saying \"yes, a table for 7 at 12:45 on sunday.\".\n\nThe customer wants to",
+        "prediction": "make a reservation for a table for 7 people at 12:45 pm on Sunday.",
+        "action": "make",
+        "object": "reservation",
+        "modified_intents": [
+            "inquire about the menu: the customer may want to know about the menu items and their prices before making a decision to make a reservation.",
+            "check availability: the customer may want to check if there are any available tables for a specific time and date before making a reservation."
+        ]
+    },
+    {
+        "utt": "no, i am all set. goodbye.",
+        "prepared": "Tell me what does a customer want by saying \"no, i am all set. goodbye.\".\n\nThe customer wants to",
+        "prediction": "end the conversation and does not want to continue with the interaction.",
+        "action": "end",
+        "object": "conversation",
+        "modified_intents": [
+            "the customer may want to ask for more information about a product or service.",
+            "the customer may want to raise a concern or complaint and seek resolution."
+        ]
+    },
+    {
+        "utt": "and then i also yeah and my phone number too. i just need to do both of those probably.",
+        "prepared": "Tell me what does a customer want by saying \"and then i also yeah and my phone number too. i just need to do both of those probably.\".\n\nThe customer wants to",
+        "prediction": "provide their phone number and also perform another task, which is not specified.",
+        "action": "provide",
+        "object": "number",
+        "modified_intents": [
+            "the customer may want to check their account balance.",
+            "the customer may want to check the status of their recent order."
+        ]
+    },
+    {
+        "utt": "that would be super.",
+        "prepared": "Tell me what does a customer want by saying \"that would be super.\".\n\nThe customer wants to",
+        "prediction": "express that they are very satisfied with the product or service they received and that they are happy with the outcome.",
+        "action": "express",
+        "object": "satisfaction",
+        "modified_intents": [
+            "request for additional information or clarification",
+            "request for a different or customized product or service"
+        ]
+    },
+    {
+        "utt": "can you find something interesting to do there?",
+        "prepared": "Tell me what does a customer want by saying \"can you find something interesting to do there?\".\n\nThe customer wants to",
+        "prediction": "find something interesting to do in the location they are referring to.",
+        "action": "find",
+        "object": "interesting",
+        "modified_intents": [
+            "the customer may want to know about the availability of certain amenities or facilities in the location.",
+            "the customer may want to know about the accessibility of the location, such as if it is wheelchair accessible or if there is public transportation available."
+        ]
+    },
+    {
+        "utt": "one second. that would be like if i'm looking through the app. damn i can't get on the app this way. hold on it should be on mail. it will be on the mail that i get in the mail right?",
+        "prepared": "Tell me what does a customer want by saying \"one second. that would be like if i'm looking through the app. damn i can't get on the app this way. hold on it should be on mail. it will be on the mail that i get in the mail right?\".\n\nThe customer wants to",
+        "prediction": "access their email through the app, but they are having trouble navigating to the correct section.",
+        "action": "access",
+        "object": "email",
+        "modified_intents": [
+            "the customer wants to search for a specific item or product within the app.",
+            "the customer wants to navigate to a different section of the app."
+        ]
+    },
+    {
+        "utt": "what am i doing here hello?",
+        "prepared": "Tell me what does a customer want by saying \"what am i doing here hello?\".\n\nThe customer wants to",
+        "prediction": "know what they are doing in the current situation and why they are there.",
+        "action": "know",
+        "object": "information",
+        "modified_intents": [
+            "the customer may want to express confusion or disorientation.",
+            "the customer may want to greet or acknowledge someone."
+        ]
+    },
+    {
+        "utt": "i have more time to talk?",
+        "prepared": "Tell me what does a customer want by saying \"i have more time to talk?\".\n\nThe customer wants to",
+        "prediction": "have a longer conversation with the representative or customer service agent.",
+        "action": "have",
+        "object": "conversation",
+        "modified_intents": [
+            "the customer wants to make a purchase or place an order.",
+            "the customer wants to inquire about a product or service."
+        ]
+    },
+    {
+        "utt": "yes, thank you. who acted in this movie?",
+        "prepared": "Tell me what does a customer want by saying \"yes, thank you. who acted in this movie?\".\n\nThe customer wants to",
+        "prediction": "know who acted in the movie that they are watching.",
+        "action": "know",
+        "object": "actor",
+        "modified_intents": [
+            "the customer may want to know the title of the movie.",
+            "the customer may want to know the genre of the movie."
+        ]
+    },
+    {
+        "utt": "no, i've got my card right here.",
+        "prepared": "Tell me what does a customer want by saying \"no, i've got my card right here.\".\n\nThe customer wants to",
+        "prediction": "pay with their card instead of using cash or another form of payment.",
+        "action": "pay with",
+        "object": "payment",
+        "modified_intents": [
+            "the customer may want to check their balance or account information before making a payment.",
+            "the customer may want to inquire about payment options or methods other than using their card."
+        ]
+    },
+    {
+        "utt": "yeah, i want to see shazam!.",
+        "prepared": "Tell me what does a customer want by saying \"yeah, i want to see shazam!.\".\n\nThe customer wants to",
+        "prediction": "",
+        "action": "I",
+        "object": "movie",
+        "modified_intents": [
+            "\"i want to book a movie ticket for shazam!\"",
+            "\"can you show me the timings for shazam?\""
+        ]
+    },
+    {
+        "utt": "can you help me find a train leaving tuesday going to cambridge?",
+        "prepared": "Tell me what does a customer want by saying \"can you help me find a train leaving tuesday going to cambridge?\".\n\nThe customer wants to",
+        "prediction": "find a train that leaves on Tuesday and arrives in Cambridge.",
+        "action": "find",
+        "object": "train",
+        "modified_intents": [
+            "\"what is the schedule for trains to cambridge on tuesday?\"",
+            "\"can you provide me with the list of trains that go to cambridge on tuesday?\""
+        ]
+    },
+    {
+        "utt": "write in a group chat that i'm not coming.",
+        "prepared": "Tell me what does a customer want by saying \"write in a group chat that i'm not coming.\".\n\nThe customer wants to",
+        "prediction": "inform the group chat that they will not be attending the scheduled event or meeting.",
+        "action": "inform",
+        "object": "group",
+        "modified_intents": [
+            "the customer may want to ask for suggestions on what to do instead of attending the event.",
+            "the customer may want to inform the group of a conflict or emergency that prevents them from attending."
+        ]
+    },
+    {
+        "utt": "i am looking at buying 4 tickets.",
+        "prepared": "Tell me what does a customer want by saying \"i am looking at buying 4 tickets.\".\n\nThe customer wants to",
+        "prediction": "purchase four tickets for an event or activity.",
+        "action": "purchase",
+        "object": "tickets",
+        "modified_intents": [
+            "inquire about ticket availability for a specific event or date.",
+            "request information about ticket prices or seating options."
+        ]
+    },
+    {
+        "utt": "no, i actually want 2 rooms. i'm having company.",
+        "prepared": "Tell me what does a customer want by saying \"no, i actually want 2 rooms. i'm having company.\".\n\nThe customer wants to",
+        "prediction": "book two rooms instead of one because they are having company and need more space.",
+        "action": "book",
+        "object": "rooms",
+        "modified_intents": [
+            "the customer wants to check availability of rooms for their desired dates.",
+            "the customer wants to know about the amenities and facilities offered by the hotel."
+        ]
+    },
+    {
+        "utt": "does it snow in colorado in december",
+        "prepared": "Tell me what does a customer want by saying \"does it snow in colorado in december\".\n\nThe customer wants to",
+        "prediction": "know if it snows in Colorado in December.",
+        "action": "know",
+        "object": "weather",
+        "modified_intents": [
+            "plan a trip to colorado in december",
+            "check if they need to pack winter clothing for a trip to colorado in december"
+        ]
+    },
+    {
+        "utt": "i- i guess so. i know my password but it's not letting me in.",
+        "prepared": "Tell me what does a customer want by saying \"i- i guess so. i know my password but it's not letting me in.\".\n\nThe customer wants to",
+        "prediction": "access their account but is experiencing issues with their password.",
+        "action": "access",
+        "object": "account",
+        "modified_intents": [
+            "technical difficulty: the customer may be experiencing technical difficulties with the website or app that is preventing them from accessing their account.",
+            "forgot password: the customer may have forgotten their password and need assistance resetting it."
+        ]
+    },
+    {
+        "utt": "tell me more about my last timer.",
+        "prepared": "Tell me what does a customer want by saying \"tell me more about my last timer.\".\n\nThe customer wants to",
+        "prediction": "know more information about their last timer, such as when it was set, how long it was set for, and any other relevant details.",
+        "action": "know",
+        "object": "information",
+        "modified_intents": [
+            "the customer may want to set a new timer.",
+            "the customer may want to stop or pause the timer."
+        ]
+    },
+    {
+        "utt": "sure, it's three three two six four.",
+        "prepared": "Tell me what does a customer want by saying \"sure, it's three three two six four.\".\n\nThe customer wants to",
+        "prediction": "provide a phone number in the format of \"three three two six four\".",
+        "action": "provide",
+        "object": "number",
+        "modified_intents": [
+            "the customer may want to check the balance of their account.",
+            "the customer may want to report a problem with their service."
+        ]
+    },
+    {
+        "utt": "what park was the picnic reminder for?",
+        "prepared": "Tell me what does a customer want by saying \"what park was the picnic reminder for?\".\n\nThe customer wants to",
+        "prediction": "know which park the picnic reminder was for.",
+        "action": "know",
+        "object": "location",
+        "modified_intents": [
+            "the customer may want to know the date and time of the picnic reminder.",
+            "the customer may want to know the details of the picnic reminder, such as what items to bring or who to contact for more information."
+        ]
+    },
+    {
+        "utt": "150 dollars, please.",
+        "prepared": "Tell me what does a customer want by saying \"150 dollars, please.\".\n\nThe customer wants to",
+        "prediction": "purchase an item or service that costs $150.",
+        "action": "purchase",
+        "object": "item",
+        "modified_intents": [
+            "inquire about the availability of a specific item: the customer may want to know if a particular item is in stock or not before making a purchase.",
+            "request information about a product or service: the customer may want to gather more information about a product or service before making a purchase decision."
+        ]
+    },
+    {
+        "utt": "it's one four one oakwood avenue.",
+        "prepared": "Tell me what does a customer want by saying \"it's one four one oakwood avenue.\".\n\nThe customer wants to",
+        "prediction": "provide their address as \"141 Oakwood Avenue\".",
+        "action": "provide",
+        "object": "address",
+        "modified_intents": [
+            "the customer may want to search for a nearby store or business at that address.",
+            "the customer may want to know more information about the address, such as property value or recent sales."
+        ]
+    },
+    {
+        "utt": "let's check out some stuff in the entertainment type.",
+        "prepared": "Tell me what does a customer want by saying \"let's check out some stuff in the entertainment type.\".\n\nThe customer wants to",
+        "prediction": "explore different types of entertainment options such as movies, music, games, books, etc.",
+        "action": "explore",
+        "object": "types",
+        "modified_intents": [
+            "\"find a movie to watch tonight\"",
+            "\"suggest some new music albums\""
+        ]
+    },
+    {
+        "utt": "oh sorry jones. j o n e s.",
+        "prepared": "Tell me what does a customer want by saying \"oh sorry jones. j o n e s.\".\n\nThe customer wants to",
+        "prediction": "apologize to someone named Jones and is asking for their forgiveness.",
+        "action": "apologize to",
+        "object": "person",
+        "modified_intents": [
+            "requesting information about jones",
+            "asking for assistance or help from jones"
+        ]
+    },
+    {
+        "utt": "oh ok. hey, that all. that all sounds good but the the platinum card sound more more better for me.",
+        "prepared": "Tell me what does a customer want by saying \"oh ok. hey, that all. that all sounds good but the the platinum card sound more more better for me.\".\n\nThe customer wants to",
+        "prediction": "purchase the platinum card because they believe it offers more benefits and features than the other options.",
+        "action": "purchase",
+        "object": "card",
+        "modified_intents": [
+            "the customer may want to ask for more information about the different types of cards available.",
+            "the customer may want to inquire about the terms and conditions of the cards before making a purchase decision."
+        ]
+    },
+    {
+        "utt": "i will be needing the room for four days.",
+        "prepared": "Tell me what does a customer want by saying \"i will be needing the room for four days.\".\n\nThe customer wants to",
+        "prediction": "book a hotel room for four days.",
+        "action": "book",
+        "object": "room",
+        "modified_intents": [
+            "inquire about room availability for a specific date range",
+            "request information about room rates for a specific date range"
+        ]
+    },
+    {
+        "utt": "events happening in portland tomorrow",
+        "prepared": "Tell me what does a customer want by saying \"events happening in portland tomorrow\".\n\nThe customer wants to",
+        "prediction": "know about events happening in Portland tomorrow.",
+        "action": "know about",
+        "object": "events",
+        "modified_intents": [
+            "the customer may want to book a hotel room in portland for tomorrow.",
+            "the customer may want to know about the weather forecast for portland for tomorrow."
+        ]
+    },
+    {
+        "utt": "remind stephanie about dinner at 630pm and set up an alert 15 minutes ahead of the time",
+        "prepared": "Tell me what does a customer want by saying \"remind stephanie about dinner at 630pm and set up an alert 15 minutes ahead of the time\".\n\nThe customer wants to",
+        "prediction": "be reminded about a dinner appointment at 6:30pm and have an alert set up 15 minutes before the appointment time.",
+        "action": "be reminded about",
+        "object": "appointment",
+        "modified_intents": [
+            "the customer may want to set up a new appointment.",
+            "the customer may want to cancel or reschedule an existing appointment."
+        ]
+    },
+    {
+        "utt": "remind me to take my pill every night at 10:00 pm",
+        "prepared": "Tell me what does a customer want by saying \"remind me to take my pill every night at 10:00 pm\".\n\nThe customer wants to",
+        "prediction": "be reminded to take their pill every night at 10:00 pm.",
+        "action": "be reminded to",
+        "object": "medication",
+        "modified_intents": [
+            "\"set an alarm for 10:00 pm every night\"",
+            "\"schedule a daily reminder for 10:00 pm\""
+        ]
+    },
+    {
+        "utt": "that's ok, i'll book a table there.",
+        "prepared": "Tell me what does a customer want by saying \"that's ok, i'll book a table there.\".\n\nThe customer wants to",
+        "prediction": "reserve a table at the restaurant mentioned in the sentence.",
+        "action": "reserve",
+        "object": "table",
+        "modified_intents": [
+            "the customer may want to get more information about the restaurant, such as its menu, location, or reviews.",
+            "the customer may be considering other options and may want to know if the restaurant has any availability for a specific date or time."
+        ]
+    },
+    {
+        "utt": "hello, please help get a quote for my condo insurance",
+        "prepared": "Tell me what does a customer want by saying \"hello, please help get a quote for my condo insurance\".\n\nThe customer wants to",
+        "prediction": "get a quote for their condo insurance.",
+        "action": "get",
+        "object": "quote",
+        "modified_intents": [
+            "the customer may want to ask questions about their current condo insurance policy.",
+            "the customer may want to report a claim for their condo insurance."
+        ]
+    },
+    {
+        "utt": "oh address. address is three one five sherry mountain.",
+        "prepared": "Tell me what does a customer want by saying \"oh address. address is three one five sherry mountain.\".\n\nThe customer wants to",
+        "prediction": "provide their address, which is \"three one five sherry mountain\".",
+        "action": "provide",
+        "object": "address",
+        "modified_intents": [
+            "asking for directions to the location",
+            "inquiring about the availability of a product or service at the location"
+        ]
+    },
+    {
+        "utt": "create an hour-long timer",
+        "prepared": "Tell me what does a customer want by saying \"create an hour-long timer\".\n\nThe customer wants to",
+        "prediction": "set a timer for one hour.",
+        "action": "set",
+        "object": "timer",
+        "modified_intents": [
+            "\"what time does the timer go off?\"",
+            "\"how do i set a reminder?\""
+        ]
+    },
+    {
+        "utt": "no that's all i need right now just looking forward to getting my card.",
+        "prepared": "Tell me what does a customer want by saying \"no that's all i need right now just looking forward to getting my card.\".\n\nThe customer wants to",
+        "prediction": "receive their credit card as soon as possible and does not need any additional products or services at this time.",
+        "action": "receive",
+        "object": "card",
+        "modified_intents": [
+            "the customer may want to check the status of their credit card application.",
+            "the customer may be interested in learning about additional products or services offered by the company."
+        ]
+    },
+    {
+        "utt": "can you do a search for movies showing in campbell? i really enjoy fantasy movies.",
+        "prepared": "Tell me what does a customer want by saying \"can you do a search for movies showing in campbell? i really enjoy fantasy movies.\".\n\nThe customer wants to",
+        "prediction": "find movies that are currently showing in Campbell and are in the fantasy genre.",
+        "action": "find",
+        "object": "movies",
+        "modified_intents": [
+            "\"find showtimes for movies in campbell\"",
+            "\"list all fantasy movies playing in campbell\""
+        ]
+    },
+    {
+        "utt": "no , not now . thanks a lot",
+        "prepared": "Tell me what does a customer want by saying \"no , not now . thanks a lot\".\n\nThe customer wants to",
+        "prediction": "decline the offer or service being offered at the moment.",
+        "action": "decline",
+        "object": "offer",
+        "modified_intents": [
+            "he customer may be interested in getting more information about the offer or service.",
+            "the customer may want to consider the offer and get back to the service provider at a later time."
+        ]
+    },
+    {
+        "utt": "that sounds great, but that is all i need for now. thank you!",
+        "prepared": "Tell me what does a customer want by saying \"that sounds great, but that is all i need for now. thank you!\".\n\nThe customer wants to",
+        "prediction": "express their satisfaction with the current information provided and indicate that they do not need any further assistance at the moment.",
+        "action": "express",
+        "object": "satisfaction",
+        "modified_intents": [
+            "the customer may want more information about the product or service before making a decision.",
+            "the customer may be interested in additional features or options that are available."
+        ]
+    },
+    {
+        "utt": "yes, that works. that would be all",
+        "prepared": "Tell me what does a customer want by saying \"yes, that works. that would be all\".\n\nThe customer wants to",
+        "prediction": "confirm that the solution provided by the seller or service provider works for them and that they are satisfied with the outcome.",
+        "action": "confirm",
+        "object": "solution",
+        "modified_intents": [
+            "request for additional information or clarification on the solution provided.",
+            "indication of needing more time to think about the solution and wanting to get back to the seller or service provider with their decision."
+        ]
+    },
+    {
+        "utt": "january twenty-fourth nineteen seventy-one.",
+        "prepared": "Tell me what does a customer want by saying \"january twenty-fourth nineteen seventy-one.\".\n\nThe customer wants to",
+        "prediction": "know the date of January 24th, 1971.",
+        "action": "know",
+        "object": "date",
+        "modified_intents": [
+            "the customer may want to know what happened on january 24th, 1971.",
+            "the customer may want to know what the weather was like on january 24th, 1971."
+        ]
+    },
+    {
+        "utt": "thank you. sounds good.",
+        "prepared": "Tell me what does a customer want by saying \"thank you. sounds good.\".\n\nThe customer wants to",
+        "prediction": "express their appreciation for the information or service provided and indicate that they are satisfied with the outcome.",
+        "action": "express",
+        "object": "appreciation",
+        "modified_intents": [
+            "request for additional information or clarification",
+            "indication of dissatisfaction or concern with the service or information provided"
+        ]
+    },
+    {
+        "utt": "please reserve the bus for me.",
+        "prepared": "Tell me what does a customer want by saying \"please reserve the bus for me.\".\n\nThe customer wants to",
+        "prediction": "reserve a bus for a specific date and time.",
+        "action": "reserve",
+        "object": "bus",
+        "modified_intents": [
+            "inquire about the availability of buses for a specific date and time.",
+            "request for information about the bus schedule and routes."
+        ]
+    },
+    {
+        "utt": "what is the temperature on friday?",
+        "prepared": "Tell me what does a customer want by saying \"what is the temperature on friday?\".\n\nThe customer wants to",
+        "prediction": "know the temperature on Friday.",
+        "action": "know",
+        "object": "temperature",
+        "modified_intents": [
+            "the customer may want to know the forecast for the upcoming week.",
+            "the customer may want to know if it will be sunny or rainy on friday."
+        ]
+    },
+    {
+        "utt": "ok. hang on a second while i get my card.",
+        "prepared": "Tell me what does a customer want by saying \"ok. hang on a second while i get my card.\".\n\nThe customer wants to",
+        "prediction": "pay for their purchase using a credit or debit card.",
+        "action": "pay for",
+        "object": "i",
+        "modified_intents": [
+            "the customer may want to return an item they purchased.",
+            "the customer may want to inquire about the status of their order."
+        ]
+    },
+    {
+        "utt": "hello, i'm looking for a restaurant called river bar steakhouse and grill.",
+        "prepared": "Tell me what does a customer want by saying \"hello, i'm looking for a restaurant called river bar steakhouse and grill.\".\n\nThe customer wants to",
+        "prediction": "find a restaurant called River Bar Steakhouse and Grill.",
+        "action": "find",
+        "object": "restaurant",
+        "modified_intents": [
+            "to ask for directions to the restaurant",
+            "to make a reservation at the restaurant"
+        ]
+    },
+    {
+        "utt": "hm, alright.",
+        "prepared": "Tell me what does a customer want by saying \"hm, alright.\".\n\nThe customer wants to",
+        "prediction": "express that they are considering the options presented to them and will make a decision soon.",
+        "action": "express",
+        "object": "consideration",
+        "modified_intents": [
+            "request for more information or clarification on the options presented.",
+            "indication of dissatisfaction or reluctance to proceed with the options presented."
+        ]
+    },
+    {
+        "utt": "i am looking for a place to stay, a hotel maybe, that has free wifi and should be a 4-star",
+        "prepared": "Tell me what does a customer want by saying \"i am looking for a place to stay, a hotel maybe, that has free wifi and should be a 4-star\".\n\nThe customer wants to",
+        "prediction": "find a hotel that meets their specific requirements of having free wifi and being a 4-star.",
+        "action": "find",
+        "object": "hotel",
+        "modified_intents": [
+            "\"book a hotel room for tonight\"",
+            "\"find a hotel with a pool\""
+        ]
+    },
+    {
+        "utt": "do you know the level of humidity? can you also tell me about the wind?",
+        "prepared": "Tell me what does a customer want by saying \"do you know the level of humidity? can you also tell me about the wind?\".\n\nThe customer wants to",
+        "prediction": "know the current humidity level and wind conditions in their area.",
+        "action": "know",
+        "object": "level",
+        "modified_intents": [
+            "the customer wants to know the forecast for the next few days.",
+            "the customer wants to know if there are any weather alerts or advisories in their area."
+        ]
+    },
+    {
+        "utt": "that sounds good. please give me the travel time and ticket price.",
+        "prepared": "Tell me what does a customer want by saying \"that sounds good. please give me the travel time and ticket price.\".\n\nThe customer wants to",
+        "prediction": "know the travel time and ticket price for a specific travel destination.",
+        "action": "know",
+        "object": "time",
+        "modified_intents": [
+            "the customer wants to book a ticket for a specific travel destination.",
+            "the customer wants to know the availability of seats for a specific travel destination."
+        ]
+    },
+    {
+        "utt": "remind me to drop off mail.",
+        "prepared": "Tell me what does a customer want by saying \"remind me to drop off mail.\".\n\nThe customer wants to",
+        "prediction": "be reminded to drop off mail at a specific location or time.",
+        "action": "be reminded to",
+        "object": "mail",
+        "modified_intents": [
+            "the customer may want to know the nearest post office or mailbox location.",
+            "the customer may want to schedule a pickup for a package or letter."
+        ]
+    },
+    {
+        "utt": "yea man, tell me about it.",
+        "prepared": "Tell me what does a customer want by saying \"yea man, tell me about it.\".\n\nThe customer wants to",
+        "prediction": "hear more about the topic being discussed or to express their agreement with the speaker.",
+        "action": "hear",
+        "object": "information",
+        "modified_intents": [
+            "the customer may want to express their agreement with the speaker.",
+            "the customer may want to move the conversation forward."
+        ]
+    },
+    {
+        "utt": "at hotmail.",
+        "prepared": "Tell me what does a customer want by saying \"at hotmail.\".\n\nThe customer wants to",
+        "prediction": "access their Hotmail account.",
+        "action": "access",
+        "object": "account",
+        "modified_intents": [
+            "customer wants to create a new hotmail account.",
+            "customer wants to recover their hotmail account password."
+        ]
+    },
+    {
+        "utt": "nope. thanks though.",
+        "prepared": "Tell me what does a customer want by saying \"nope. thanks though.\".\n\nThe customer wants to",
+        "prediction": "decline the offer or suggestion made by the person they are talking to.",
+        "action": "decline",
+        "object": "offer",
+        "modified_intents": [
+            "the customer may be interested in getting more information about the offer or suggestion before making a decision.",
+            "the customer may be expressing reluctance to make a purchase or commit to the offer due to financial or other reasons."
+        ]
+    },
+    {
+        "utt": "nevermind, i don't need a taxi. thanks for your help.",
+        "prepared": "Tell me what does a customer want by saying \"nevermind, i don't need a taxi. thanks for your help.\".\n\nThe customer wants to",
+        "prediction": "cancel their request for a taxi and is thanking the person who was helping them for their assistance.",
+        "action": "cancel",
+        "object": "request",
+        "modified_intents": [
+            "confirmation of cancellation: the customer wants to make sure that their request has been cancelled and may provide additional information or ask questions.",
+            "request for alternative transportation: the customer may want to know about other transportation options or ask for assistance in finding an alternative means of transportation."
+        ]
+    },
+    {
+        "utt": "is there a kids fest nearby",
+        "prepared": "Tell me what does a customer want by saying \"is there a kids fest nearby\".\n\nThe customer wants to",
+        "prediction": "know if there is a festival or event nearby that is specifically geared towards children.",
+        "action": "know",
+        "object": "events",
+        "modified_intents": [
+            "the customer may want to know the location of a nearby children's museum or attraction.",
+            "the customer may be looking for information on child-friendly activities or services in the area, such as playgrounds or family-friendly restaurants."
+        ]
+    },
+    {
+        "utt": "i want to leave on 11th of march.",
+        "prepared": "Tell me what does a customer want by saying \"i want to leave on 11th of march.\".\n\nThe customer wants to",
+        "prediction": "leave on March 11th.",
+        "action": "leave on",
+        "object": "date",
+        "modified_intents": [
+            "\"i want to check out on march 11th.\"",
+            "\"can i have a room until march 11th?\"\n\nplease provide me with 5 entities that might be relevant for this intent.\n\nanswer:\n1) date: march 11th\n2) check-out date",
+            "room"
+        ]
+    },
+    {
+        "utt": "set alarm for wednesday at 7:00 am",
+        "prepared": "Tell me what does a customer want by saying \"set alarm for wednesday at 7:00 am\".\n\nThe customer wants to",
+        "prediction": "set an alarm for Wednesday at 7:00 am.",
+        "action": "set",
+        "object": "alarm",
+        "modified_intents": [
+            "\"what is the weather like tomorrow?\"",
+            "\"remind me to call john at 3 pm\""
+        ]
+    },
+    {
+        "utt": "are the roads under construction around the farmer's market in portland",
+        "prepared": "Tell me what does a customer want by saying \"are the roads under construction around the farmer's market in portland\".\n\nThe customer wants to",
+        "prediction": "know if there are any road construction projects around the farmer's market in Portland that may affect their travel plans.",
+        "action": "know",
+        "object": "roads",
+        "modified_intents": [
+            "the customer may want to know the opening hours of the farmer's market in portland.",
+            "the customer may want to know the location of the farmer's market in portland."
+        ]
+    },
+    {
+        "utt": "that's perfect. where is the venue located and when does the match start?",
+        "prepared": "Tell me what does a customer want by saying \"that's perfect. where is the venue located and when does the match start?\".\n\nThe customer wants to",
+        "prediction": "know the location and start time of the match.",
+        "action": "know",
+        "object": "location",
+        "modified_intents": [
+            "the customer may want to know the schedule of upcoming matches.",
+            "the customer may want to know the ticket availability for the match."
+        ]
+    },
+    {
+        "utt": "tell me how much time is left on the next alarm",
+        "prepared": "Tell me what does a customer want by saying \"tell me how much time is left on the next alarm\".\n\nThe customer wants to",
+        "prediction": "know how much time is left until the next alarm goes off.",
+        "action": "know",
+        "object": "time",
+        "modified_intents": [
+            "\"set an alarm for me\"",
+            "\"turn off the alarm\""
+        ]
+    },
+    {
+        "utt": "thank you! i also need help finding a hotel.",
+        "prepared": "Tell me what does a customer want by saying \"thank you! i also need help finding a hotel.\".\n\nThe customer wants to",
+        "prediction": "express gratitude for the assistance they received and also needs help finding a hotel.",
+        "action": "express",
+        "object": "gratitude",
+        "modified_intents": [
+            "the customer may want to make a complaint about their hotel stay.",
+            "the customer may want to ask for recommendations for a specific type of hotel."
+        ]
+    },
+    {
+        "utt": "can you tell me what traffic is like in indonesia, please",
+        "prepared": "Tell me what does a customer want by saying \"can you tell me what traffic is like in indonesia, please\".\n\nThe customer wants to",
+        "prediction": "know about the traffic situation in Indonesia.",
+        "action": "know about",
+        "object": "traffic",
+        "modified_intents": [
+            "to book a flight to indonesia",
+            "to know about the weather in indonesia"
+        ]
+    },
+    {
+        "utt": "find me something interesting to do there in that day.i enjoy musical performance on the 14th.",
+        "prepared": "Tell me what does a customer want by saying \"find me something interesting to do there in that day.i enjoy musical performance on the 14th.\".\n\nThe customer wants to",
+        "prediction": "find something interesting to do on the 14th that involves musical performances.",
+        "action": "find",
+        "object": "music",
+        "modified_intents": [
+            "the customer may want to find a place to visit on the 14th that is interesting and not necessarily related to music.",
+            "the customer may want to find an event or activity that is happening on the 14th that they can participate in."
+        ]
+    },
+    {
+        "utt": "six four two one.",
+        "prepared": "Tell me what does a customer want by saying \"six four two one.\".\n\nThe customer wants to",
+        "prediction": "order a pizza with the toppings 6421, which is pepperoni, mushrooms, onions, and green peppers.",
+        "action": "order",
+        "object": "pizza",
+        "modified_intents": [
+            "the customer may want to check the status of their previous pizza order.",
+            "the customer may want to know the menu options and prices for the pizzas."
+        ]
+    },
+    {
+        "utt": "i'll be flying into stansted airport and need to find a train to cambridge. can you help me?",
+        "prepared": "Tell me what does a customer want by saying \"i'll be flying into stansted airport and need to find a train to cambridge. can you help me?\".\n\nThe customer wants to",
+        "prediction": "find a train from Stansted Airport to Cambridge.",
+        "action": "find",
+        "object": "train",
+        "modified_intents": [
+            "the customer may want to know the flight schedule for arriving at stansted airport.",
+            "the customer may want to book a flight from stansted airport to another destination."
+        ]
+    },
+    {
+        "utt": "#uh sam green, three thirteen seventy eight.",
+        "prepared": "Tell me what does a customer want by saying \"#uh sam green, three thirteen seventy eight.\".\n\nThe customer wants to",
+        "prediction": "order a product with the name \"Sam Green\" and the SKU code \"313738\".",
+        "action": "order",
+        "object": "product",
+        "modified_intents": [
+            "inquire about the availability of a product",
+            "ask for the price of a product"
+        ]
+    },
+    {
+        "utt": "will it be nice out tonight?",
+        "prepared": "Tell me what does a customer want by saying \"will it be nice out tonight?\".\n\nThe customer wants to",
+        "prediction": "know if the weather will be pleasant and enjoyable for outdoor activities.",
+        "action": "know",
+        "object": "weather",
+        "modified_intents": [
+            "the customer may want to know the forecast for the next few days for planning purposes.",
+            "the customer may want to know if there are any weather alerts or advisories in their area."
+        ]
+    },
+    {
+        "utt": "what is the weather in seattle right now",
+        "prepared": "Tell me what does a customer want by saying \"what is the weather in seattle right now\".\n\nThe customer wants to",
+        "prediction": "know the current weather conditions in Seattle.",
+        "action": "know",
+        "object": "conditions",
+        "modified_intents": [
+            "the customer may want to know the forecast for the next few days in seattle.",
+            "the customer may want to know the historical weather conditions for a specific date in seattle."
+        ]
+    },
+    {
+        "utt": "that house sounds perfect, let's go ahead and book it now.",
+        "prepared": "Tell me what does a customer want by saying \"that house sounds perfect, let's go ahead and book it now.\".\n\nThe customer wants to",
+        "prediction": "book the house immediately and is satisfied with the description and price of the house.",
+        "action": "book",
+        "object": "house",
+        "modified_intents": [
+            "the customer wants more information about the house before booking it.",
+            "the customer is interested in seeing the house in person before booking it."
+        ]
+    },
+    {
+        "utt": "thank you, bye bye.",
+        "prepared": "Tell me what does a customer want by saying \"thank you, bye bye.\".\n\nThe customer wants to",
+        "prediction": "express their gratitude for the service or product they received and end the interaction.",
+        "action": "express",
+        "object": "gratitude",
+        "modified_intents": [
+            "the customer may want to ask for additional information or assistance.",
+            "the customer may want to express dissatisfaction with the service or product and request a refund or exchange."
+        ]
+    },
+    {
+        "utt": "i want the train same day as the hotel. leaving broxbourne.",
+        "prepared": "Tell me what does a customer want by saying \"i want the train same day as the hotel. leaving broxbourne.\".\n\nThe customer wants to",
+        "prediction": "book a train and hotel for the same day, with the train leaving from Broxbourne station.",
+        "action": "book",
+        "object": "train",
+        "modified_intents": [
+            "the customer may want to book a hotel only for the same day, with check-in time matching the train arrival time at broxbourne station.",
+            "the customer may want to book a car rental for the same day, with pickup time matching the train arrival time at broxbourne station."
+        ]
+    },
+    {
+        "utt": "send amir 650 bucks.",
+        "prepared": "Tell me what does a customer want by saying \"send amir 650 bucks.\".\n\nThe customer wants to",
+        "prediction": "send 650 dollars to someone named Amir.",
+        "action": "send",
+        "object": "dollars",
+        "modified_intents": [
+            "inquire about the exchange rate for sending dollars to a specific country.",
+            "request information on the fees associated with sending dollars to a specific country.\n\nplease provide me with 5 different ways a customer might phrase a request to send dollars to a specific country.\n\nanswer:\n1) can you help me send 650 dollars to india?\n2) i need to send 650 dollars to mexico, can you assist me?",
+            "i want to transfer 650 dollars to the philippines, can you help?"
+        ]
+    }
+]

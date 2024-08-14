@@ -1,0 +1,46 @@
+Modify the utterance so that it conveys a different intent. Please follow the examples below:
+
+[Example 1]
+utterance: tell kennedy to send me her location
+original intent: know location
+modified: tell kennedy to send me her account number
+new intent: know account number
+[Example 2]
+utterance: yes can you help me find a place to eat too?
+original intent: find place
+modified: yes can you help me find a car to rent too?
+new intent: find car
+[Example 3]
+utterance: not right now. i want to reserve the hotel room.
+original intent: reserve room
+modified: not right now. i want to cancel the hotel room.
+new intent: cancel room
+[Example 4]
+utterance: when will the dawn be
+original intent: know time
+modified: is there any event near dawn
+new intent: know event
+[Example 5]
+utterance: that bus sounds good. is it direct?
+original intent: know directness
+modified: that bus sounds good. when will it arrive?
+new intent: know time
+[Example 6]
+utterance: i need to see a doctor. can you find me one nearby?
+original intent: see doctor
+modified: i need to see a movie. can you find me one nearby?
+new intent: see movie
+[Example 7]
+utterance: delete reminders of friday 11th of august
+original intent: delete reminders
+modified: move reminders of friday 11th of august to thursday
+new intent: move reminders
+[Example 8]
+utterance: if i leave home by noon when will i get to artfest downtown?
+original intent: know time
+modified: if i leave home by noon what is the best route to artfest downtown?
+new intent: know route
+[Query]
+utterance: [UTTERANCE]
+original intent: [ACTION] [OBJECT]
+modified:

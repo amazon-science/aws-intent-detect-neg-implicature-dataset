@@ -1,0 +1,11 @@
+Here are 3 things a customer wants to do with [OBJECT].
+
+Answer:
+1) [INTENT1]
+2) [INTENT2]
+3) [INTENT3]
+
+Generate utterance for each case in a similar style as "[UTTERANCE]".
+
+Answer:
+1)

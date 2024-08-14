@@ -1,0 +1,7 @@
+Tell me what does a customer want by saying "[UTTERANCE]".
+
+The customer wants to [GOAL]
+
+An intent is composed of an action and an object pair, such as "book,flight", "query,social_media_updates", "change,light_color". Could you summarize the customer's intent for the above utterance?
+
+The intent of the above utterance is

@@ -1,0 +1,5 @@
+An intent is composed of an action and an object pair, such as "book,flight", "query,social_media_updates", "change,light_color". What is the intent of the following utterance?
+
+[UTTERANCE]
+
+The intent of the above utterance is

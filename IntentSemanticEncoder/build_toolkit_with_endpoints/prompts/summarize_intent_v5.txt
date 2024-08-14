@@ -1,0 +1,5 @@
+[PREVIOUS] [PRED]
+
+What is the category of the thing that the customer wants to [ACTION]?
+
+One word category:
