@@ -1,0 +1,305 @@
+[
+    {
+        "utt": "the guests are not really feeling this track",
+        "lab": "go to next song",
+        "class_pred": "play music",
+        "candidates": [
+            "check what song",
+            "play music",
+            "go to next song",
+            "respond no",
+            "update playlist"
+        ],
+        "prepared": "Your task is to choose the intent among a list of candidates, that best describes what the customer needs according to the utterance.\n\nUtterance: the guests are not really feeling this track\nIntents: check what song,play music,go to next song,respond no,update playlist\n\nPlease wrap your output into a single JSON object that contains the key \"intent\".",
+        "content": "{\n  \"intent\": \"go to next song\"\n}",
+        "prediction": "go to next song"
+    },
+    {
+        "utt": "i'm trying to qualify for a bigger credit limit",
+        "lab": "how to improve credit score",
+        "class_pred": "change credit limit",
+        "candidates": [
+            "check credit cards application status",
+            "apply for new card",
+            "how to improve credit score",
+            "check credit limit",
+            "change credit limit"
+        ],
+        "prepared": "Your task is to choose the intent among a list of candidates, that best describes what the customer needs according to the utterance.\n\nUtterance: i'm trying to qualify for a bigger credit limit\nIntents: check credit cards application status,apply for new card,how to improve credit score,check credit limit,change credit limit\n\nPlease wrap your output into a single JSON object that contains the key \"intent\".",
+        "content": "{\n  \"intent\": \"change credit limit\"\n}",
+        "prediction": "change credit limit"
+    },
+    {
+        "utt": "i haven't had my car checked in a while",
+        "lab": "schedule car maintenance",
+        "class_pred": "check car last maintenance",
+        "candidates": [
+            "schedule car maintenance",
+            "change car tire",
+            "check car last maintenance",
+            "how to jump start car",
+            "rent car"
+        ],
+        "prepared": "Your task is to choose the intent among a list of candidates, that best describes what the customer needs according to the utterance.\n\nUtterance: i haven't had my car checked in a while\nIntents: schedule car maintenance,change car tire,check car last maintenance,how to jump start car,rent car\n\nPlease wrap your output into a single JSON object that contains the key \"intent\".",
+        "content": "{\n  \"intent\": \"schedule car maintenance\"\n}",
+        "prediction": "schedule car maintenance"
+    },
+    {
+        "utt": "i'm thinking of discontinuing my service, but i'm uncertain about how my name is spelled",
+        "lab": "request spelling",
+        "class_pred": "change user name",
+        "candidates": [
+            "ask chatbot what is your name",
+            "change user name",
+            "check user name",
+            "request spelling",
+            "change ai name"
+        ],
+        "prepared": "Your task is to choose the intent among a list of candidates, that best describes what the customer needs according to the utterance.\n\nUtterance: i'm thinking of discontinuing my service, but i'm uncertain about how my name is spelled\nIntents: ask chatbot what is your name,change user name,check user name,request spelling,change ai name\n\nPlease wrap your output into a single JSON object that contains the key \"intent\".",
+        "content": "{\n  \"intent\": \"request spelling\"\n}",
+        "prediction": "request spelling"
+    },
+    {
+        "utt": "i can barely hear my own thoughts with this noise",
+        "lab": "change volume",
+        "class_pred": "change volume",
+        "candidates": [
+            "play music",
+            "ask chatbot for repeat",
+            "change speed",
+            "change volume",
+            "switch on or off whisper mode"
+        ],
+        "prepared": "Your task is to choose the intent among a list of candidates, that best describes what the customer needs according to the utterance.\n\nUtterance: i can barely hear my own thoughts with this noise\nIntents: play music,ask chatbot for repeat,change speed,change volume,switch on or off whisper mode\n\nPlease wrap your output into a single JSON object that contains the key \"intent\".",
+        "content": "{\n  \"intent\": \"change volume\"\n}",
+        "prediction": "change volume"
+    },
+    {
+        "utt": "just got into town and i'm looking for a good place to eat",
+        "lab": "request restaurant suggestion",
+        "class_pred": "request restaurant suggestion",
+        "candidates": [
+            "request or submit restaurant reviews",
+            "request travel suggestion",
+            "suggest meal",
+            "request restaurant suggestion",
+            "reserve restaurant"
+        ],
+        "prepared": "Your task is to choose the intent among a list of candidates, that best describes what the customer needs according to the utterance.\n\nUtterance: just got into town and i'm looking for a good place to eat\nIntents: request or submit restaurant reviews,request travel suggestion,suggest meal,request restaurant suggestion,reserve restaurant\n\nPlease wrap your output into a single JSON object that contains the key \"intent\".",
+        "content": "{\n  \"intent\": \"request restaurant suggestion\"\n}",
+        "prediction": "request restaurant suggestion"
+    },
+    {
+        "utt": "i'm such a big fan of italian cuisine, i'd name my dog pasta if i could",
+        "lab": "change ai name",
+        "class_pred": "suggest meal",
+        "candidates": [
+            "request restaurant suggestion",
+            "change ai name",
+            "request ingredients list",
+            "ask chatbot do you have pets",
+            "suggest meal"
+        ],
+        "prepared": "Your task is to choose the intent among a list of candidates, that best describes what the customer needs according to the utterance.\n\nUtterance: i'm such a big fan of italian cuisine, i'd name my dog pasta if i could\nIntents: request restaurant suggestion,change ai name,request ingredients list,ask chatbot do you have pets,suggest meal\n\nPlease wrap your output into a single JSON object that contains the key \"intent\".",
+        "content": "{\n  \"intent\": \"change ai name\"\n}",
+        "prediction": "change ai name"
+    },
+    {
+        "utt": "i have a long drive ahead of me",
+        "lab": "check car gas amount",
+        "class_pred": "estimate driving distance or time",
+        "candidates": [
+            "check car gas amount",
+            "estimate driving distance or time",
+            "rent car",
+            "check traffic",
+            "request directions",
+            "book uber"
+        ],
+        "prepared": "Your task is to choose the intent among a list of candidates, that best describes what the customer needs according to the utterance.\n\nUtterance: i have a long drive ahead of me\nIntents: check car gas amount,estimate driving distance or time,rent car,check traffic,request directions,book uber\n\nPlease wrap your output into a single JSON object that contains the key \"intent\".",
+        "content": "{\n  \"intent\": \"estimate driving distance or time\"\n}",
+        "prediction": "estimate driving distance or time"
+    },
+    {
+        "utt": "can't recall the last time there was a maintenance break on my utilities.",
+        "lab": "check date",
+        "class_pred": "check banking bill due",
+        "candidates": [
+            "anything related with smart home devices including door tv light ac",
+            "pay banking bill",
+            "check banking bill due",
+            "check car last maintenance",
+            "check banking bill balance",
+            "check date"
+        ],
+        "prepared": "Your task is to choose the intent among a list of candidates, that best describes what the customer needs according to the utterance.\n\nUtterance: can't recall the last time there was a maintenance break on my utilities.\nIntents: anything related with smart home devices including door tv light ac,pay banking bill,check banking bill due,check car last maintenance,check banking bill balance,check date\n\nPlease wrap your output into a single JSON object that contains the key \"intent\".",
+        "content": "{\n  \"intent\": \"check date\"\n}",
+        "prediction": "check date"
+    },
+    {
+        "utt": "i need to relocate to sydney from mumbai",
+        "lab": "book flight",
+        "class_pred": "request directions",
+        "candidates": [
+            "book hotel",
+            "request directions",
+            "share location",
+            "estimate driving distance or time",
+            "book flight",
+            "request travel suggestion"
+        ],
+        "prepared": "Your task is to choose the intent among a list of candidates, that best describes what the customer needs according to the utterance.\n\nUtterance: i need to relocate to sydney from mumbai\nIntents: book hotel,request directions,share location,estimate driving distance or time,book flight,request travel suggestion\n\nPlease wrap your output into a single JSON object that contains the key \"intent\".",
+        "content": "{\n  \"intent\": \"book flight\"\n}",
+        "prediction": "book flight"
+    },
+    {
+        "utt": "i think someone might be messing with my business account",
+        "lab": "report banking fraud",
+        "class_pred": "explain blocked banking account",
+        "candidates": [
+            "freeze banking account",
+            "report lost card",
+            "explain blocked banking account",
+            "check latest banking transactions",
+            "report banking fraud"
+        ],
+        "prepared": "Your task is to choose the intent among a list of candidates, that best describes what the customer needs according to the utterance.\n\nUtterance: i think someone might be messing with my business account\nIntents: freeze banking account,report lost card,explain blocked banking account,check latest banking transactions,report banking fraud\n\nPlease wrap your output into a single JSON object that contains the key \"intent\".",
+        "content": "{\n  \"intent\": \"report banking fraud\"\n}",
+        "prediction": "report banking fraud"
+    },
+    {
+        "utt": "i need to adjust my kids' sleep schedule for our trip to tokyo",
+        "lab": "check timezone",
+        "class_pred": "set alarm",
+        "candidates": [
+            "check timezone",
+            "set alarm",
+            "book hotel",
+            "set up timer",
+            "check time"
+        ],
+        "prepared": "Your task is to choose the intent among a list of candidates, that best describes what the customer needs according to the utterance.\n\nUtterance: i need to adjust my kids' sleep schedule for our trip to tokyo\nIntents: check timezone,set alarm,book hotel,set up timer,check time\n\nPlease wrap your output into a single JSON object that contains the key \"intent\".",
+        "content": "{\n  \"intent\": \"check timezone\"\n}",
+        "prediction": "check timezone"
+    },
+    {
+        "utt": "i missed what you just said",
+        "lab": "ask chatbot for repeat",
+        "class_pred": "ask chatbot for repeat",
+        "candidates": [
+            "ask chatbot for repeat",
+            "request calculator",
+            "respond no",
+            "express uncertainty",
+            "tell meaning or definition"
+        ],
+        "prepared": "Your task is to choose the intent among a list of candidates, that best describes what the customer needs according to the utterance.\n\nUtterance: i missed what you just said\nIntents: ask chatbot for repeat,request calculator,respond no,express uncertainty,tell meaning or definition\n\nPlease wrap your output into a single JSON object that contains the key \"intent\".",
+        "content": "{\n  \"intent\": \"ask chatbot for repeat\"\n}",
+        "prediction": "ask chatbot for repeat"
+    },
+    {
+        "utt": "i've never been to nepal before, what should i prepare?",
+        "lab": "check whether need to apply international visa",
+        "class_pred": "check vaccines",
+        "candidates": [
+            "express uncertainty",
+            "request travel alert",
+            "check vaccines",
+            "request travel suggestion",
+            "check whether need to apply international visa"
+        ],
+        "prepared": "Your task is to choose the intent among a list of candidates, that best describes what the customer needs according to the utterance.\n\nUtterance: i've never been to nepal before, what should i prepare?\nIntents: express uncertainty,request travel alert,check vaccines,request travel suggestion,check whether need to apply international visa\n\nPlease wrap your output into a single JSON object that contains the key \"intent\".",
+        "content": "{\n  \"intent\": \"request travel suggestion\"\n}",
+        "prediction": "request travel suggestion"
+    },
+    {
+        "utt": "the chef's dishes were a delightful surprise",
+        "lab": "request or submit restaurant reviews",
+        "class_pred": "request recipe",
+        "candidates": [
+            "request ingredients list",
+            "request recipe",
+            "request or submit restaurant reviews",
+            "request restaurant suggestion",
+            "suggest meal"
+        ],
+        "prepared": "Your task is to choose the intent among a list of candidates, that best describes what the customer needs according to the utterance.\n\nUtterance: the chef's dishes were a delightful surprise\nIntents: request ingredients list,request recipe,request or submit restaurant reviews,request restaurant suggestion,suggest meal\n\nPlease wrap your output into a single JSON object that contains the key \"intent\".",
+        "content": "{\n  \"intent\": \"request recipe\"\n}",
+        "prediction": "request recipe"
+    },
+    {
+        "utt": "i need some more pump-up songs for my workouts",
+        "lab": "update playlist",
+        "class_pred": "update playlist",
+        "candidates": [
+            "change volume",
+            "play music",
+            "check what song",
+            "go to next song",
+            "update playlist"
+        ],
+        "prepared": "Your task is to choose the intent among a list of candidates, that best describes what the customer needs according to the utterance.\n\nUtterance: i need some more pump-up songs for my workouts\nIntents: change volume,play music,check what song,go to next song,update playlist\n\nPlease wrap your output into a single JSON object that contains the key \"intent\".",
+        "content": "{\n  \"intent\": \"play music\"\n}",
+        "prediction": "play music"
+    },
+    {
+        "utt": "i'm not really using this subscription",
+        "lab": "request cancel or stop talking",
+        "class_pred": "express uncertainty",
+        "candidates": [
+            "express uncertainty",
+            "request calculator",
+            "request cancel or stop talking",
+            "update reminder",
+            "tell meaning or definition"
+        ],
+        "prepared": "Your task is to choose the intent among a list of candidates, that best describes what the customer needs according to the utterance.\n\nUtterance: i'm not really using this subscription\nIntents: express uncertainty,request calculator,request cancel or stop talking,update reminder,tell meaning or definition\n\nPlease wrap your output into a single JSON object that contains the key \"intent\".",
+        "content": "{\n  \"intent\": \"request cancel or stop talking\"\n}",
+        "prediction": "request cancel or stop talking"
+    },
+    {
+        "utt": "i really like the name of my character in this game",
+        "lab": "change ai name",
+        "class_pred": "change ai name",
+        "candidates": [
+            "check user name",
+            "change user name",
+            "change ai name",
+            "tell meaning or definition",
+            "ask chatbot what is your name"
+        ],
+        "prepared": "Your task is to choose the intent among a list of candidates, that best describes what the customer needs according to the utterance.\n\nUtterance: i really like the name of my character in this game\nIntents: check user name,change user name,change ai name,tell meaning or definition,ask chatbot what is your name\n\nPlease wrap your output into a single JSON object that contains the key \"intent\".",
+        "content": "{\n  \"intent\": \"check user name\"\n}",
+        "prediction": "check user name"
+    },
+    {
+        "utt": "i left my checks in my pants pocket and they went through the wash",
+        "lab": "order banking checks",
+        "class_pred": "order banking checks",
+        "candidates": [
+            "check bank account balance",
+            "request banking transfer",
+            "report lost card",
+            "order banking checks",
+            "check payday"
+        ],
+        "prepared": "Your task is to choose the intent among a list of candidates, that best describes what the customer needs according to the utterance.\n\nUtterance: i left my checks in my pants pocket and they went through the wash\nIntents: check bank account balance,request banking transfer,report lost card,order banking checks,check payday\n\nPlease wrap your output into a single JSON object that contains the key \"intent\".",
+        "content": "{\n  \"intent\": \"report lost card\"\n}",
+        "prediction": "report lost card"
+    },
+    {
+        "utt": "this park is so vast, i wonder how many species live here",
+        "lab": "request fun fact",
+        "class_pred": "express uncertainty",
+        "candidates": [
+            "tell meaning or definition",
+            "express uncertainty",
+            "request fun fact",
+            "request travel suggestion",
+            "request calculator"
+        ],
+        "prepared": "Your task is to choose the intent among a list of candidates, that best describes what the customer needs according to the utterance.\n\nUtterance: this park is so vast, i wonder how many species live here\nIntents: tell meaning or definition,express uncertainty,request fun fact,request travel suggestion,request calculator\n\nPlease wrap your output into a single JSON object that contains the key \"intent\".",
+        "content": "{\n  \"intent\": \"request fun fact\"\n}",
+        "prediction": "request fun fact"
+    }
+]
