@@ -1,0 +1,3 @@
+A customer is using chatbot for [DOMAIN] service. Brain storm [NUM] scenarios that the customer wants to convey intent "[INTENT]". Keep this in mind:
+1. Wrap your answer in a JSON object with keys like "scenario_1", "scenario_2", "scenario_3" and so on.
+2. You can have different roles and situations for each scenario to increase diversity.

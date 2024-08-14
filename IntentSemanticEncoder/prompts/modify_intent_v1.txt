@@ -1,0 +1,6 @@
+<[UTTERANCE]>
+
+The above utterance in <> conveys the intent "[ORIGINAL_INTENT]". Could you modify the utterance so that it expresses the intent "[NEW_INTENT]"? Please keep the following in mind:
+1. Use least modification you can.
+2. Wrap your modified utterance with <>.
+3. Make sure the modified utterance is still meaningful.

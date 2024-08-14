@@ -1,0 +1,26 @@
+Your task is to modify original utterance so that it conveys the negated intent with least amount of modifications you can. Please wrap your modified utterance in JSON object.
+
+[Example 1]
+original utterance: how would you say fly in italian
+negated intent: no_need_to_request_translate
+{"output": "no need to know how would you say fly in italian"}
+[Example 2]
+original utterance: set a 4 minute timer
+negated intent: no_need_to_set_up_timer
+{"output": "no need to set a 4 minute timer"}
+[Example 3]
+original utterance: i lost my card, what do i do next
+negated intent: found_lost_card
+{"output": "i found my lost card, no need to know what do i do next"}
+[Example 4]
+original utterance: how are you doing
+negated intent: respond_to_greeting
+{"output": "i am doing good"}
+[Example 5]
+original utterance: that isn't right
+negated intent: respond_yes
+{"output": "that is right"}
+
+[Query]
+original utterance: [UTTERANCE]
+negated intent: [NEW_INTENT]

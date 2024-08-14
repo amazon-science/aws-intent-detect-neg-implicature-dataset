@@ -1,0 +1,6 @@
+Your task is to choose the intent among a list of candidates, that best describes what the customer needs according to the utterance.
+
+Utterance: [UTTERANCE]
+Intents: [INTENT]
+
+Please wrap your output into a single JSON object that contains the key "intent".

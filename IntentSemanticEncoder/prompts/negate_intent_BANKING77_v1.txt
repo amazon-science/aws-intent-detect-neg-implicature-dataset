@@ -1,0 +1,18 @@
+The task is to modify original utterance so that it conveys the negated intent. Please wrap your modified utterance in <>.
+
+[Example 1]
+original utterance: i still have not received my new card
+negated intent: no_need_to_check_card_delivery_status
+ <i have received my new card>
+[Example 2]
+original utterance: why did it decline my payment?
+negated intent: no_card_payment_declined
+<it didn't decline my payment.>
+[Example 3]
+original utterance: are there any atm machines near me?
+negated intent: no_need_for_atm_support
+<no need for atm machines near me.>
+
+[Query]
+original utterance: [UTTERANCE]
+negated intent: [NEW_INTENT]

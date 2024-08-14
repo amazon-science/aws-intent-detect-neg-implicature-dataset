@@ -1,0 +1,7 @@
+Imagine yourself a customer using chatbot for [DOMAIN] service and encounter the following scenario.
+[SCENARIO]
+
+Generate [NUM] utterances as if you are the customer. Keep following in mind:
+1. Customers are not familiar with what services they can get. So just describe the situation and express your frustration without requesting anything specific.
+2. Please wrap your answers into a JSON object with keys like "utterance_1", "utterance_2", "utterance_3" and so on.
+3. Try to make utterances diverse and short.

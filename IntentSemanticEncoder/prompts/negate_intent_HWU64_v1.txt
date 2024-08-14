@@ -1,0 +1,26 @@
+Your task is to modify original utterance so that it conveys the negated intent with least amount of modifications you can. Please wrap your modified utterance in JSON object.
+
+[Example 1]
+original utterance: remind me to move so there is no weight gain
+negated intent: no_need_to_schedule_calendar_event
+{"output": "no need to remind me to move so there is no weight gain"}
+[Example 2]
+original utterance: how much does bde cost
+negated intent: no_need_to_check_stock_market
+{"output": "no need to know how much does bde cost"}
+[Example 3]
+original utterance: that does not matter with me.
+negated intent: tell_chatbot_do_care
+{"output": "that does matter with me."}
+[Example 4]
+original utterance: awesome work, you did well.
+negated intent: discourage_chatbot
+{"output": "terrible work, you did not well."}
+[Example 5]
+original utterance: olly that's enough, just stop it.
+negated intent: tell_chatbot_to_continue
+{"output": olly that's not enough, don't stop it.}
+
+[Query]
+original utterance: [UTTERANCE]
+negated intent: [NEW_INTENT]

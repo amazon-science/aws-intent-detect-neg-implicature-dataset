@@ -1,0 +1,42 @@
+Your task is to modify original utterance so that it conveys the negated intent with least amount of modifications you can. Please wrap your modified utterance in JSON object.
+
+[Example 1]
+original utterance: i forgot my password
+negated intent: still_remember_passcode
+{"output": "i remembered my password"}
+[Example 2]
+original utterance: tell me how to reset the passcode.
+negated intent: still_remember_passcode
+{"output": "no need to tell me how to reset the passcode."}
+[Example 3]
+original utterance: i still have not received my new card
+negated intent: no_need_to_check_card_delivery_status
+{"output": "i have received my new card"}
+[Example 4]
+original utterance: why did it decline my payment?
+negated intent: no_card_payment_declined
+{"output": "it didn't decline my payment."}
+[Example 5]
+original utterance: are there any atm machines near me?
+negated intent: no_need_to_check_atm_support
+{"output": "no need for atm machines near me."}
+[Example 6]
+original utterance: i want to cancel a transfer right away! can you help?
+negated intent: no_need_to_cancel_transfer
+{"output": "i don't want to cancel a transfer right away! no need for help."}
+[Example 7]
+original utterance: i have no idea why my card payment did not work.
+negated intent: no_card_payment_declined
+{"output": "my card payment did work."}
+[Example 8]
+original utterance: my atm got stuck and i'm not sure what to do.
+negated intent: no_swallowed_card
+{"output": "my atm didn't get stuck and i'm sure what to do."}
+[Example 9]
+original utterance: i received cash from the atm earlier, but this shows up as pending in the app.  i've got the cash already.  how can this be still pending?
+negated intent: no_pending_cash_withdrawal
+{"output": "i received cash from the atm earlier, and this no longer shows up as pending in the app.  i've got the cash already.  this is not pending."}
+
+[Query]
+original utterance: [UTTERANCE]
+negated intent: [NEW_INTENT]

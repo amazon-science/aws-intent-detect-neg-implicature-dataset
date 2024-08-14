@@ -1,0 +1,34 @@
+Your task is to modify original utterance so that it conveys the negated intent with least amount of modifications you can. Please wrap your modified utterance in JSON object.
+
+[Example 1]
+original utterance: i forgot my password
+negated intent: still_remember_passcode
+{"output": "i remembered my password"}
+[Example 2]
+original utterance: i still have not received my new card
+negated intent: no_need_to_check_card_delivery_status
+{"output": "i have received my new card"}
+[Example 3]
+original utterance: just increase the volume a little
+negated intent: audio_volume_turned_up_unexpectedly
+{"output": "the volume is increased a little, what happened?"}
+[Example 4]
+original utterance: that does not matter with me.
+negated intent: tell_chatbot_do_care
+{"output": "that does matter with me."}
+[Example 5]
+original utterance: set a 4 minute timer
+negated intent: no_need_to_set_up_timer
+{"output": "no need to set a 4 minute timer"}
+[Example 6]
+original utterance: how would you say fly in italian
+negated intent: was_able_to_request_translate_before_now_cant
+{"output": "i was able to ask how would you say fly in italian, but now i can't"}
+[Example 7]
+original utterance: i got some cash of an atm earlier but this shows up as pending in the app. how can this be still pending, i've got the cash already?
+negated intent: pending_cash_withdrawal_before_now_goes_through
+{"output": "i got some cash of an atm earlier and this showed up as pending in the app. it goes through now. i've got the cash already."}
+
+[Query]
+original utterance: [UTTERANCE]
+negated intent: [NEW_INTENT]
