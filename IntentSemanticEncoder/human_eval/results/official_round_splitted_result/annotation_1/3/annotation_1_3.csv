@@ -1,0 +1,61 @@
+index,utterance,intent,Can the utterance imply the intent?,Is it conveyed explicitly?
+B00023_1,"i don't want to spend more than necessary, does my bank charge for transactions made through apple pay or google pay?",query information about apple pay or google pay,TRUE,TRUE
+C00047_1,no need to ask how long lasagna takes to cook,request cook time,FALSE,
+H00028_1,the dog has been really restless today,play game,FALSE,
+H00040_1,"the list from my favorites is playing, what happened?",play music,TRUE,FALSE
+C00018_1,will you make sure ann and scott know my location,share location,TRUE,TRUE
+C00025_1,"sure, why not? i haven't tried that one before",respond yes to chatbot,TRUE,TRUE
+C00030_1,i'm not sure where i am right now and i'm really hungry,check current location,TRUE,FALSE
+C00051_1,no need to call my name,check user name,FALSE,
+B00009_1,do you support any currency?,supported fiat currency,TRUE,TRUE
+H00023_1,i want to reduce my carbon footprint,turn wemo off,TRUE,FALSE
+B00057_1,the transfer i just made doesn't need to be cancelled. it was not my mistake. please don't cancel it before it goes through!,cancel transfer,FALSE,
+H00020_1,"i love watching football, are there any matches coming up?",recommend certain types of events,TRUE,TRUE
+C00020_1,i'm having trouble with my insurance claims,check insurance plan name,TRUE,FALSE
+C00034_1,i'm planning to go to the farmer's market this weekend,update shopping list,TRUE,FALSE
+H00019_1,open email,check email,TRUE,TRUE
+C00023_1,i've recently come out as transgender,change user name,FALSE,
+H00026_1,i need to stay awake to finish this,make coffee,TRUE,FALSE
+B00034_1,can i use my student card and what currencies can i use with it while studying in australia?,what is supported cards and currencies,TRUE,TRUE
+B00002_1,i was charged more when i transferred!,transfer fee charged,TRUE,FALSE
+C00006_1,add this to my rock playlist,update playlist,TRUE,TRUE
+B00038_1,i have a payment due to my overseas supplier,how long to transfer,FALSE,
+H00042_1,no need to check carlos' linux upgrade email,check email,FALSE,
+C00022_1,i need to set the mood for the party,play music,TRUE,FALSE
+B00027_1,why are there so many cash withdrawals in my bank account recently?,found cash withdrawal not recognised,TRUE,TRUE
+C00033_1,i've measured the room in feet but i need it in meters,convert measurement,TRUE,FALSE
+B00045_1,why has my transfer succeeded?,transfer failed due to unknown reasons,FALSE,
+H00043_1,no need to change mountain standard to pacific,query datetime conversion,FALSE,
+B00042_1,i made a purchase and it doesn't say it's pending. what does that mean?,pending card payment,FALSE,
+B00005_1,the app doesn't show the card i received.,link card to app,TRUE,FALSE
+B00026_1,"thinking about spending my golden years in spain, how does that work with my pension?",what is charge for exchange,FALSE,
+H00017_1,lighten the light,turn light up,TRUE,TRUE
+B00016_1,i made an error in payment yesterday and i need it fixed asap because it's for my rent tomorrow.,cancel transfer,TRUE,FALSE
+C00002_1,correct my account pin to 1234 on my checking account,change bank pin,TRUE,TRUE
+H00034_1,the heating system is not working properly,query email contact information,FALSE,
+H00052_1,don't have to find updates from vicki's facebook from mardi gras day,query social media updates,FALSE,
+B00036_1,i have a large order coming in from canada,what is exchange rate,TRUE,FALSE
+C00028_1,i hate it when my flight gets delayed and i don't know about it,send travel notification,TRUE,FALSE
+B00024_1,can i get cash for my reward points on the app?,exchange via app,TRUE,TRUE
+C00019_1,"what name do you go by, ai",ask chatbot what is your name,TRUE,TRUE
+B00020_1,why is there a difference between the market rate and the rate i get when i withdraw cash?,wrong exchange rate for cash withdrawal,TRUE,FALSE
+H00057_1,no need to recommend what time a movie will be shown tomorrow,recommend movies,FALSE,
+C00043_1,no need to switch voice option to female,change accent,FALSE,
+C00021_1,my partner needs to set up direct deposit,check bank routing number,TRUE,FALSE
+H00009_1,please save the current song to favorites,express likeness to music,TRUE,FALSE
+B00039_1,i've found a bank that offers more benefits,terminate account,TRUE,FALSE
+B00046_1,how can i keep the pin the same? do i have to go to a real bank?,change pin,FALSE,
+C00024_1,i've just booked a multi-country trip in europe,check whether need to apply international visa,TRUE,FALSE
+H00003_1,set the alarm to seven am for work,set alarm,TRUE,TRUE
+B00014_1,is there a way my new card can be renewed?,activate my card,FALSE,
+C00036_1,i need to save money on food,suggest meal,TRUE,FALSE
+H00000_1,delete event from mine,remove calendar events,TRUE,TRUE
+B00051_1,the refund is now showing up on my account.,refund not showing up,FALSE,
+H00031_1,has linkedin got any fresh job postings?,query social media updates,TRUE,FALSE
+C00044_1,no need to ask how healthy is mcdonalds,request nutrition info,FALSE,
+C00057_1,no need to know the answer to it all,request meaning of life,FALSE,
+H00010_1,what is the current traffic,check traffic condition,TRUE,TRUE
+H00002_1,bring up papa pear saga,play game,TRUE,TRUE
+C00038_1,i'm having trouble with my online payment,report card declined,TRUE,TRUE
+C00053_1,people can't safely travel to cambodia,request travel alert,TRUE,FALSE
+C00010_1,is my vacation approved,check work pto request status,TRUE,TRUE

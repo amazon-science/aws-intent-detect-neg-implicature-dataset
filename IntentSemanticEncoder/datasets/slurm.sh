@@ -1,0 +1,1 @@
+sbatch -p g5 -c 8 --constrain g5.8xlarge --job-name eval -e g5.8xlarge.err.log -o g5.8xlarge.std.log create_dataset_iae.sh

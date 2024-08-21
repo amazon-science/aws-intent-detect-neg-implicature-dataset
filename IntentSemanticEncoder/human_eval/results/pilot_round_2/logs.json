@@ -1,0 +1,42 @@
+{
+    "inter_annotator_agreement_correct_intent": [
+        45,
+        39
+    ],
+    "inter_annotator_agreement_implicature": [
+        33,
+        28
+    ],
+    "human_machine_agreement_correct_intent_total": [
+        45,
+        43
+    ],
+    "human_machine_agreement_correct_intent_implicature": [
+        15,
+        14
+    ],
+    "human_machine_agreement_correct_intent_negation": [
+        15,
+        14
+    ],
+    "human_machine_agreement_correct_intent_original": [
+        15,
+        15
+    ],
+    "human_machine_agreement_implicature_total": [
+        33,
+        25
+    ],
+    "human_machine_agreement_implicature_implicature": [
+        15,
+        8
+    ],
+    "human_machine_agreement_implicature_original": [
+        15,
+        14
+    ],
+    "human_machine_agreement_implicature_negation": [
+        3,
+        3
+    ]
+}

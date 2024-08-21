@@ -1,0 +1,113 @@
+{
+    "T1 (explicit)": {
+        "IAE": 0.24035878176275527,
+        "paraphrase": 0.22632832901707076,
+        "instructor-base": 0.191188045704602,
+        "instructor-large": 0.23374021195875502
+    },
+    "T2 (explicit)": {
+        "IAE": 0.8426326239372598,
+        "paraphrase": 0.84759377757391,
+        "instructor-base": 0.8608500043003353,
+        "instructor-large": 0.8750004873713483
+    },
+    "T1 (implicature)": {
+        "IAE": 0.03191995323783404,
+        "paraphrase": 0.03870307617327485,
+        "instructor-base": 0.020424615119979356,
+        "instructor-large": 0.03549899181025009
+    },
+    "T2 (implicature)": {
+        "IAE": 0.6728627014388603,
+        "paraphrase": 0.6891968789121107,
+        "instructor-base": 0.6795487387275466,
+        "instructor-large": 0.7099216224050662
+    },
+    "binary_classification_original": {
+        "IAE": 0.866403600814197,
+        "paraphrase": 0.7758018469144297,
+        "instructor-base": 0.8905770699744209,
+        "instructor-large": 0.8958558177167447
+    },
+    "binary_classification_negated": {
+        "IAE": 0.796298296748628,
+        "paraphrase": 0.8241181318068737,
+        "instructor-base": 0.7839537443179827,
+        "instructor-large": 0.8737928193954684
+    },
+    "binary_classification_implicature": {
+        "IAE": 0.701127465127465,
+        "paraphrase": 0.573379188712522,
+        "instructor-base": 0.6729966329966329,
+        "instructor-large": 0.7354292127625461
+    },
+    "clustering_original_kmeans": {
+        "IAE": 0.8342037894526365,
+        "paraphrase": 0.8165912055390511,
+        "instructor-base": 0.8381938009269443,
+        "instructor-large": 0.8434185696983886
+    },
+    "clustering_original_agg": {
+        "IAE": 0.8470248426305186,
+        "paraphrase": 0.8353456580105904,
+        "instructor-base": 0.8488880920373524,
+        "instructor-large": 0.8601267417782498
+    },
+    "clustering_implicature_kmeans": {
+        "IAE": 0.5829892567220059,
+        "paraphrase": 0.5723921197846464,
+        "instructor-base": 0.5793307862003975,
+        "instructor-large": 0.5908865358115483
+    },
+    "clustering_implicature_agg": {
+        "IAE": 0.5985371319753838,
+        "paraphrase": 0.5883548186095767,
+        "instructor-base": 0.591767884868263,
+        "instructor-large": 0.6135201697508115
+    },
+    "classification_implicature_0shot": {
+        "IAE": 0.2544970338303672,
+        "paraphrase": 0.22205355138688473,
+        "instructor-base": 0.2618088824755492,
+        "instructor-large": 0.28785602052268716
+    },
+    "classification_implicature_10shot": {
+        "IAE": 0.3012002565335899,
+        "paraphrase": 0.28239570306236966,
+        "instructor-base": 0.3087763347763348,
+        "instructor-large": 0.34262946929613597
+    },
+    "classification_original_0shot": {
+        "IAE": 0.6657757359148088,
+        "paraphrase": 0.6105797935201909,
+        "instructor-base": 0.6747590697259572,
+        "instructor-large": 0.6759663968604367
+    },
+    "classification_original_10shot": {
+        "IAE": 0.8470016596109312,
+        "paraphrase": 0.8324888111643078,
+        "instructor-base": 0.8576916850625459,
+        "instructor-large": 0.8620016978361349
+    },
+    "measure_implicature_original": {
+        "keyword": 0.3308566616204842,
+        "BLEU": 0.5383928696644885,
+        "rougeL": 0.6603788245106013,
+        "METEOR": 0.7015064442493029,
+        "BertScore": 0.94423117609686
+    },
+    "measure_implicature_negation": {
+        "keyword": 0.2623303079939085,
+        "BLEU": 0.35989382820916954,
+        "rougeL": 0.5387927617265311,
+        "METEOR": 0.6240965645263667,
+        "BertScore": 0.9179326221394336
+    },
+    "measure_implicature_implicature": {
+        "keyword": 0.0867119736747719,
+        "BLEU": 0.15614172981374705,
+        "rougeL": 0.37923185297925555,
+        "METEOR": 0.3921348502796022,
+        "BertScore": 0.895975521095005
+    }
+}

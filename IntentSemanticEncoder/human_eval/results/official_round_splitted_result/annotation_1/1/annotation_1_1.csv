@@ -1,0 +1,61 @@
+index,utterance,intent,Can the utterance imply the intent?,Is it conveyed explicitly?
+C00046_1,i don't need to check how many points i have earned with my paypal credit card so far,check credit cards rewards balance,F,F
+C00011_1,what's the interest rate on my savings account,request interest rate,T,T
+B00007_1,"i am unhappy with my purchase, how do i cancel the order?",request refund,T,F
+H00001_1,please shut up.,stop chatbot,T,F
+H00027_1,i'm not interested in the louvre anymore.,remove from list,T,F
+C00012_1,what is the lowest amount i can pay for my insurance bill,check banking min payment,T,T
+C00013_1,is travel to monterrey safe now,request travel alert,T,T
+H00050_1,"my meeting today at one pm is removed, what happened?",remove calendar events,F,F
+C00000_1,can you find me a salsa recipe,request recipe,T,T
+B00050_1,"cash deposit to my account has updated my balance, no red flag shown.",balance not updated after cheque or cash deposit,F,F
+B00035_1,i noticed some extra charges after moving money to my personal account,transfer fee charged,T,T
+H00016_1,please delete the wednesday evening alarm,remove alarm,T,T
+H00035_1,the music is a bit too loud for a conversation,turn audio volume down,T,F
+C00054_1,no need to give me a joke about the topic of television,ask chatbot to tell joke,F,F
+B00001_1,the atm won't give my card back!,swallowed card,T,T
+B00031_1,the top-up for my retirement account is taking a while,pending top up,T,T
+H00005_1,yeah wonderful response to command.,affirm chatbot response,T,T
+B00022_1,there's a large online purchase on my statement,where is source of funds,T,F
+C00016_1,which type of gas does this car take,check car gas type,T,T
+C00037_1,i'm trying to figure out the staffing for the upcoming project,check work pto used,T,F
+B00003_1,locations to withdraw money,atm support,T,T
+H00049_1,no need to add work email address,add email contact,F,F
+H00044_1,don't have to check what alarms are set for today,query alarm,F,F
+H00004_1,get me a taxi to the airport right now,book taxi,T,T
+C00017_1,how much is due for my water bill,check banking bill balance,T,T
+H00059_1,no need to add up thirteen plus five plus nine for me,query maths,F,F
+H00053_1,"that is not cool, no thanks, olly.",praise chatbot,F,F
+H00058_1,don't have to raise all the lights on,turn light up,F,F
+H00007_1,you've done it right.,praise chatbot,T,T
+B00049_1,i don't have to ask how much the exchange fee is.,what is charge for exchange,F,F
+B00048_1,why don't you charge fees on card payments?,card payment fee charged,F,F
+C00045_1,i don't need to update my shopping list,update shopping list,F,F
+B00056_1,i was not charged a fee for my transfer,transfer fee charged,F,F
+C00059_1,i am able to say,express uncertainty,T,T
+B00059_1,i don't need to top-up anymore.,what is top up limits,F,F
+B00030_1,i think i've misplaced my card,getting spare card,T,F
+H00025_1,"i need to take my medication in the morning, but the exact time isn't important.",tell chatbot dont care,T,F
+H00055_1,don't have to query about the exchange rate of euro with dollar,query about currency,F,F
+H00013_1,open jazz,play music,T,T
+H00021_1,"you got it, you're making a soothing songs playlist for me, aren't you?",affirm chatbot response,T,T
+H00051_1,my order at domino's is ready,query about takeaway,T,T
+B00029_1,"i thought i added funds to my card, but it doesn't seem to reflect",top up reverted,T,T
+H00006_1,hi there do you offer home delivery for orders,query about takeaway,T,T
+C00005_1,make a reservation for 2 tonight at 7:00 at outback steakhouse,reserve restaurant,T,T
+C00007_1,will i require a plug converter when i visit kenya,check plug type,T,T
+B00053_1,i know what cards you support to top up.,what is supported cards and currencies,F,F
+C00032_1,we need something to lighten the mood,ask chatbot to tell joke,T,F
+C00048_1,no need to ask who is responsible for my employment,ask chatbot who do you work for,F,F
+H00032_1,i'm considering taking up yoga at my gym,schedule calendar event,T,F
+H00056_1,i'm not looking for a casual restaurant for a dinner date,recommend locations to do something,F,F
+C00040_1,"no need to tell me my routing number at my bank, community trust",check bank routing number,F,F
+B00015_1,my card was not in the mail again can you advise?,card delivery estimate,T,T
+C00056_1,i don't need to see the due date for auto loan bill,check banking bill due,F,F
+H00038_1,i hope i can make it to the game on time,check traffic condition,T,F
+C00008_1,"what time is it in adelaide, australia right now",check time,T,T
+B00000_1,how does tranferring money into my account work?,transfer into account or top up with bank transfer,T,T
+H00022_1,i need to get updated before my meeting,query news updates,T,T
+C00003_1,will peas work instead of carrots,check ingredient substitution,T,T
+H00015_1,repeat previous song,change music setting,T,F
+B00041_1,i don't need to transfer funds into my account. what else can i do?,transfer into account or top up with bank transfer,F,F

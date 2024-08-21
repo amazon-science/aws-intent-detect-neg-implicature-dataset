@@ -1,0 +1,46 @@
+index,utterance,intent,Can the utterance imply the intent?,Is it conveyed explicitly?
+C00007_0,i'm thinking of having a cheeseburger for lunch,check calories,T,F
+C00005_0,i used a third-party site to apply for a credit card,check credit cards application status,T,F
+H00008_0,i want to understand the roots of jazz music,query about music,T,T
+B00005_0,i was trying to donate to a charity but it didn't go through,transfer declined,T,T
+H00013_0,no need to turn up volume,turn audio volume down,F,
+B00011_0,no need to link an already existing card to the app.,link card to app,F,
+H00006_0,i wonder what my favorite artist is up to these days,query social media updates,T,F
+C00001_0,can i move some money around,request banking transfer,T,T
+B00006_0,i don't see the money from the return in my bank account,refund not showing up,T,T
+H00000_0,is there an alarm at four am,query alarm,T,T
+B00000_0,when will i get my card?,check card delivery status,T,T
+C00012_0,no need to set a timer for 15 minutes,set up timer,F,
+C00003_0,can you tell me what dendrofilous means,tell meaning or definition,T,T
+H00010_0,no need to know what alarms are set for today,query alarm,F,
+B00009_0,our account shows the same amount even after paying the vendor,top up reverted,T,F
+B00013_0,"hi, i think your exchange rate is right. i don't need you to check the official interbank exchange.",wrong exchange rate for card payment,F,
+C00011_0,no need to help moving money between accounts,request banking transfer,F,
+B00010_0,no need to check how long a card delivery takes.,check card delivery status,F,
+B00004_0,there is a transaction for $1 and i don't know why it was charged.,extra charge on statement,T,T
+C00000_0,english to spanish for dog,request translate,T,T
+H00009_0,i'm amazed by the capabilities of this chatbot.,praise chatbot,T,T
+C00008_0,"sure, let's see what those options are.",respond yes to chatbot,T,T
+C00006_0,i'm worried my card won't cover all my vacation expenses,change credit limit,T,F
+C00013_0,no need to know what does the word polynomial mean,tell meaning or definition,F,
+B00008_0,"i'm not a resident, but i need to open a bank account. is there an age restriction?",age limit for banking service,T,T
+B00002_0,what is my foreign exchange rate?,what is exchange rate,T,T
+B00007_0,"i'm worried someone might get into my bank account, my phone is missing",lost or stolen phone,T,T
+B00001_0,how do i link a card i already have?,link card to app,T,T
+H00005_0,i'm trying to test the voice control on my wemo,turn wemo off,T,F
+H00012_0,no need to alert me at ten am please,set alarm,F,
+B00014_0,there is no extra 1 pound charge on my card.,extra charge on statement,F,
+H00003_0,reduce volume,turn audio volume down,T,T
+C00004_0,is there any consensun regarding lifes true meaning,request meaning of life,T,T
+H00004_0,turn off media volume,mute audio volume,T,T
+C00014_0,no need to tell you the meaning of life,request meaning of life,F,
+C00010_0,no need to know how would i say where is the bathroom if i were korean,request translate,F,
+B00003_0,i'm pretty sure something went wrong with my exchange. i changed russian ruble to uk pounds and was charged way too much!,wrong exchange rate for card payment,T,F
+C00002_0,in 15 minutes the timer should go off,set up timer,T,T
+B00012_0,no need to check the foreign exchange rate.,what is exchange rate,F,
+H00014_0,no need to turn off the sound,mute audio volume,F,
+H00001_0,delete the alarm i just set,remove alarm,T,T
+H00002_0,set an alarm for nine am,set alarm,T,T
+C00009_0,i'm not sure how to read my meter,make call,F,
+H00007_0,i want my robot to keep track of my travel plans,add email contact,T,F
+H00011_0,no need to keep the set of alarms between eight and nine,remove alarm,T,T

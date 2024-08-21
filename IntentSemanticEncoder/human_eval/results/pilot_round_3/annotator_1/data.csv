@@ -1,0 +1,46 @@
+index,utterance,intent,Can the utterance imply the intent?,Is it conveyed explicitly?
+H00008_1,i'm looking for a way to unwind after a long day,query about music,T,F
+H00014_1,i need you to unmute the audio volume until tomorrow,mute audio volume,F,
+H00009_1,you make my day so much easier,praise chatbot,T,F
+B00005_1,"i tried to transfer money to my savings for some future plans, but it was unsuccessful.",transfer declined,T,T
+C00014_1,i already know the answer to life,request meaning of life,F,
+H00001_1,remove all of my alarms,remove alarm,T,T
+B00013_1,the exchange rate was correct when i bought something outside the country.,wrong exchange rate for card payment,F,
+B00012_1,no need to check my foreign exchange rate.,what is exchange rate,F,
+C00003_1,what does mature mean,tell meaning or definition,T,T
+H00013_1,"the speak volume was lowered, was it a mistake?",turn audio volume down,F,
+B00007_1,i'm seeing some strange transactions on my bank account,lost or stolen phone,T,F
+B00001_1,"i have received my card, can you help me put it in the app?",link card to app,T,T
+B00002_1,the exchange rate would be?,what is exchange rate,T,T
+B00008_1,"i'm a freelancer and i want to manage my income, am i old enough?",age limit for banking service,T,T
+B00003_1,the exchange rate on my purchase is wrong.,wrong exchange rate for card payment,T,T
+B00014_1,there is no extra transaction for $1 charged that i don't know of.,extra charge on statement,F,
+C00001_1,repeat what the weather will be like,request banking transfer,F,
+C00011_1,you don't have to help me move $100 from my checking to saving account,request banking transfer,F,
+C00010_1,i didn't mean to ask how to say please in french,request translate,F,
+H00011_1,don't have to disable the alarm which is set at nine thirty pm,remove alarm,F,
+B00004_1,can you tell me why i noticed a $1 charge on my statement?,extra charge on statement,T,T
+H00005_1,i'm worried about wasting energy while i'm not home,turn wemo off,T,F
+H00006_1,curious if anyone has been talking about my recent posts,query social media updates,T,F
+H00000_1,check whether i have set any alarms for tomorrow morning,query alarm,T,T
+C00005_1,i filled out a form for a new card a while ago,check credit cards application status,T,F
+B00010_1,i ordered a card and it has arrived. no need for help!,check card delivery status,F,
+H00010_1,no need to ask what alarm time had you set,query alarm,F,
+C00006_1,i'm not working anymore and i want to limit my credit card use,change credit limit,T,F
+C00008_1,i always forget my appointments,respond yes to chatbot,T,F
+C00000_1,how would one say cruiser in china,request translate,T,T
+C00002_1,set a timer for 5 minutes from now,set up timer,T,T
+B00006_1,i was given a refund receipt but my balance is the same,refund not showing up,T,F
+H00002_1,please sound an alarm three hours before a scheduled event,set alarm,T,T
+H00004_1,turn off the sound,mute audio volume,T,T
+C00012_1,"a timer is set, what happened?",set up timer,F,
+B00000_1,i've been waiting longer than expected for my card.,check card delivery status,T,F
+H00007_1,i don't want to lose my plumber's email again,add email contact,T,F
+C00013_1,no need to tell what circuitous means,tell meaning or definition,F,
+B00009_1,"we attempted to add funds to our business account, but it seems like it didn't go through.",top up reverted,T,F
+C00007_1,i'm considering a bowl of oatmeal for breakfast,check calories,T,F
+B00011_1,i don't have to link an existing card.,link card to app,F,
+C00009_1,i think there might be a gas leak in my building,make call,T,F
+H00012_1,don't have to set an alarm for me for tomorrow,set alarm,F,
+H00003_1,lower the volume to twenty,turn audio volume down,T,T
+C00004_1,tell me what the meaning of life is,request meaning of life,T,T

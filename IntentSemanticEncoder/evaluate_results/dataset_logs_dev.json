@@ -1,0 +1,278 @@
+{
+    "BANKING77": {
+        "T1 (explicit)": {
+            "IAE": 0.24598698481561823,
+            "paraphrase": 0.28676789587852497,
+            "instructor-base": 0.23774403470715835,
+            "instructor-large": 0.3175704989154013
+        },
+        "T2 (explicit)": {
+            "IAE": 0.7822125813449023,
+            "paraphrase": 0.8290672451193059,
+            "instructor-base": 0.8585683297180043,
+            "instructor-large": 0.8932754880694144
+        },
+        "T1 (implicature)": {
+            "IAE": 0.0438177874186551,
+            "paraphrase": 0.07245119305856833,
+            "instructor-base": 0.039045553145336226,
+            "instructor-large": 0.07982646420824295
+        },
+        "T2 (implicature)": {
+            "IAE": 0.6845986984815619,
+            "paraphrase": 0.7509761388286335,
+            "instructor-base": 0.7318872017353579,
+            "instructor-large": 0.810412147505423
+        },
+        "binary_classification_original": {
+            "IAE": 0.7804772234273318,
+            "paraphrase": 0.7405639913232104,
+            "instructor-base": 0.9062906724511931,
+            "instructor-large": 0.914533622559653
+        },
+        "binary_classification_negated": {
+            "IAE": 0.751409978308026,
+            "paraphrase": 0.7852494577006508,
+            "instructor-base": 0.7262472885032538,
+            "instructor-large": 0.7609544468546637
+        },
+        "binary_classification_implicature": {
+            "IAE": 0.664069264069264,
+            "paraphrase": 0.6173160173160173,
+            "instructor-base": 0.8242424242424242,
+            "instructor-large": 0.8277056277056277
+        },
+        "clustering_original_kmeans": {
+            "IAE": 0.7568621129248636,
+            "paraphrase": 0.7509154423126094,
+            "instructor-base": 0.7978866338084291,
+            "instructor-large": 0.7985512867935973
+        },
+        "clustering_original_agg": {
+            "IAE": 0.7795048732253912,
+            "paraphrase": 0.7661402408073674,
+            "instructor-base": 0.8125926476512166,
+            "instructor-large": 0.816656438805287
+        },
+        "clustering_implicature_kmeans": {
+            "IAE": 0.6237683490662205,
+            "paraphrase": 0.6206415756054801,
+            "instructor-base": 0.6199208818828961,
+            "instructor-large": 0.6321045768133496
+        },
+        "clustering_implicature_agg": {
+            "IAE": 0.6378454468987944,
+            "paraphrase": 0.635974811993827,
+            "instructor-base": 0.6349401776498234,
+            "instructor-large": 0.6474551189883326
+        },
+        "classification_implicature_0shot": {
+            "IAE": 0.2658008658008658,
+            "paraphrase": 0.23896103896103896,
+            "instructor-base": 0.2805194805194805,
+            "instructor-large": 0.30562770562770564
+        },
+        "classification_implicature_10shot": {
+            "IAE": 0.30995670995670993,
+            "paraphrase": 0.29783549783549784,
+            "instructor-base": 0.35324675324675325,
+            "instructor-large": 0.3852813852813853
+        },
+        "classification_original_0shot": {
+            "IAE": 0.6004338394793927,
+            "paraphrase": 0.5865509761388287,
+            "instructor-base": 0.6446854663774404,
+            "instructor-large": 0.6455531453362255
+        },
+        "classification_original_10shot": {
+            "IAE": 0.7804772234273318,
+            "paraphrase": 0.7726681127982646,
+            "instructor-base": 0.8151843817787419,
+            "instructor-large": 0.8190889370932755
+        }
+    },
+    "CLINC150": {
+        "T1 (explicit)": {
+            "IAE": 0.25955555555555554,
+            "paraphrase": 0.21044444444444443,
+            "instructor-base": 0.20955555555555555,
+            "instructor-large": 0.22577777777777777
+        },
+        "T2 (explicit)": {
+            "IAE": 0.8842222222222222,
+            "paraphrase": 0.8893333333333333,
+            "instructor-base": 0.9,
+            "instructor-large": 0.8984444444444445
+        },
+        "T1 (implicature)": {
+            "IAE": 0.035777777777777776,
+            "paraphrase": 0.02822222222222222,
+            "instructor-base": 0.026444444444444444,
+            "instructor-large": 0.035777777777777776
+        },
+        "T2 (implicature)": {
+            "IAE": 0.694,
+            "paraphrase": 0.6986666666666667,
+            "instructor-base": 0.69,
+            "instructor-large": 0.7104444444444444
+        },
+        "binary_classification_original": {
+            "IAE": 0.9213333333333333,
+            "paraphrase": 0.8117777777777778,
+            "instructor-base": 0.8857777777777778,
+            "instructor-large": 0.9042222222222223
+        },
+        "binary_classification_negated": {
+            "IAE": 0.8151111111111111,
+            "paraphrase": 0.8466666666666667,
+            "instructor-base": 0.8302222222222222,
+            "instructor-large": 0.812
+        },
+        "binary_classification_implicature": {
+            "IAE": 0.7742222222222223,
+            "paraphrase": 0.6284444444444445,
+            "instructor-base": 0.6782222222222222,
+            "instructor-large": 0.756
+        },
+        "clustering_original_kmeans": {
+            "IAE": 0.9064082377517126,
+            "paraphrase": 0.8969915013582573,
+            "instructor-base": 0.9089882490277557,
+            "instructor-large": 0.9147265039693122
+        },
+        "clustering_original_agg": {
+            "IAE": 0.9183357331213249,
+            "paraphrase": 0.8881464848324296,
+            "instructor-base": 0.9132869934359495,
+            "instructor-large": 0.9213126318657918
+        },
+        "clustering_implicature_kmeans": {
+            "IAE": 0.6719258761180217,
+            "paraphrase": 0.6641007879130885,
+            "instructor-base": 0.6683564351000503,
+            "instructor-large": 0.6855481948842135
+        },
+        "clustering_implicature_agg": {
+            "IAE": 0.6974953992130581,
+            "paraphrase": 0.6929140441505203,
+            "instructor-base": 0.6899002776943497,
+            "instructor-large": 0.7036220092919604
+        },
+        "classification_implicature_0shot": {
+            "IAE": 0.268,
+            "paraphrase": 0.23822222222222222,
+            "instructor-base": 0.28755555555555556,
+            "instructor-large": 0.31377777777777777
+        },
+        "classification_implicature_10shot": {
+            "IAE": 0.31955555555555554,
+            "paraphrase": 0.31244444444444447,
+            "instructor-base": 0.32666666666666666,
+            "instructor-large": 0.35155555555555557
+        },
+        "classification_original_0shot": {
+            "IAE": 0.7373333333333333,
+            "paraphrase": 0.6646666666666666,
+            "instructor-base": 0.7317777777777777,
+            "instructor-large": 0.7466666666666667
+        },
+        "classification_original_10shot": {
+            "IAE": 0.9197777777777778,
+            "paraphrase": 0.9086666666666666,
+            "instructor-base": 0.9268888888888889,
+            "instructor-large": 0.94
+        }
+    },
+    "HWU64": {
+        "T1 (explicit)": {
+            "IAE": 0.21697612732095492,
+            "paraphrase": 0.16816976127320954,
+            "instructor-base": 0.11989389920424404,
+            "instructor-large": 0.13156498673740052
+        },
+        "T2 (explicit)": {
+            "IAE": 0.8557029177718833,
+            "paraphrase": 0.8413793103448276,
+            "instructor-base": 0.8371352785145889,
+            "instructor-large": 0.8461538461538461
+        },
+        "T1 (implicature)": {
+            "IAE": 0.01750663129973475,
+            "paraphrase": 0.016445623342175066,
+            "instructor-base": 0.01220159151193634,
+            "instructor-large": 0.007957559681697613
+        },
+        "T2 (implicature)": {
+            "IAE": 0.6238726790450928,
+            "paraphrase": 0.6137931034482759,
+            "instructor-base": 0.6244031830238727,
+            "instructor-large": 0.6413793103448275
+        },
+        "binary_classification_original": {
+            "IAE": 0.8986737400530505,
+            "paraphrase": 0.7777188328912467,
+            "instructor-base": 0.8779840848806366,
+            "instructor-large": 0.8854111405835544
+        },
+        "binary_classification_negated": {
+            "IAE": 0.8259946949602122,
+            "paraphrase": 0.8249336870026526,
+            "instructor-base": 0.7824933687002652,
+            "instructor-large": 0.7925729442970822
+        },
+        "binary_classification_implicature": {
+            "IAE": 0.6624338624338625,
+            "paraphrase": 0.4708994708994709,
+            "instructor-base": 0.5248677248677248,
+            "instructor-large": 0.6126984126984127
+        },
+        "clustering_original_kmeans": {
+            "IAE": 0.8244902601099863,
+            "paraphrase": 0.7871995184810382,
+            "instructor-base": 0.7992283051447319,
+            "instructor-large": 0.8073268520607476
+        },
+        "clustering_original_agg": {
+            "IAE": 0.8149743571955396,
+            "paraphrase": 0.793622377335442,
+            "instructor-base": 0.8096054537885166,
+            "instructor-large": 0.8232768747367185
+        },
+        "clustering_implicature_kmeans": {
+            "IAE": 0.564032720008418,
+            "paraphrase": 0.5479074015276006,
+            "instructor-base": 0.5584750729406088,
+            "instructor-large": 0.5700052461251666
+        },
+        "clustering_implicature_agg": {
+            "IAE": 0.5917640644056703,
+            "paraphrase": 0.5776565503315256,
+            "instructor-base": 0.5676729299300325,
+            "instructor-large": 0.5874834074830001
+        },
+        "classification_implicature_0shot": {
+            "IAE": 0.22328042328042327,
+            "paraphrase": 0.17777777777777778,
+            "instructor-base": 0.20952380952380953,
+            "instructor-large": 0.2306878306878307
+        },
+        "classification_implicature_10shot": {
+            "IAE": 0.26455026455026454,
+            "paraphrase": 0.2222222222222222,
+            "instructor-base": 0.24126984126984127,
+            "instructor-large": 0.29523809523809524
+        },
+        "classification_original_0shot": {
+            "IAE": 0.6785145888594164,
+            "paraphrase": 0.5946949602122016,
+            "instructor-base": 0.6429708222811671,
+            "instructor-large": 0.6530503978779841
+        },
+        "classification_original_10shot": {
+            "IAE": 0.8440318302387267,
+            "paraphrase": 0.8201591511936339,
+            "instructor-base": 0.8403183023872679,
+            "instructor-large": 0.8546419098143236
+        }
+    }
+}

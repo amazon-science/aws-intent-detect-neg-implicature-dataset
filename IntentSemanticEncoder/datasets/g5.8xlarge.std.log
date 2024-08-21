@@ -1,0 +1,33 @@
+Namespace(dstc11t2_dir='DSTC11-T2/dstc11-track2-intent-induction/dstc11', irl_model_path='../models/irl_model/irl-model-sgd-08-16-2022.tar.gz', multiwoz_dir='MultiWOZ/multiwoz/data/MultiWOZ_2.2', output_dir='iae_pretrain_data', sgd_dir='SGD/dstc8-schema-guided-dialogue', top1_dir='TOP/top-dataset-semantic-parsing', top2_dir='TOPv2/TOPv2')
+load top
+len(intents): 61
+len(utterances): 32696
+len(new_utterances): 31154
+len(new_intents): 61
+len(new_irl_texts): 23779
+load dstc11t2
+len(intents): 71
+len(utterances): 2125
+len(new_utterances): 2107
+len(new_intents): 70
+len(new_irl_texts): 1588
+load sgd
+len(intents): 44
+len(utterances): 3575
+len(new_utterances): 3564
+len(new_intents): 44
+len(new_irl_texts): 2640
+load multiwoz
+len(intents): 10
+len(utterances): 587
+len(new_utterances): 587
+len(new_intents): 10
+len(new_irl_texts): 576
+total len(utterances): 36816
+total len(intents): 174
+total len(irl_texts): 27948
+iae_pretrain_data/train.txt
+total len(utterances): 587
+total len(intents): 10
+total len(irl_texts): 576
+iae_pretrain_data/val.txt

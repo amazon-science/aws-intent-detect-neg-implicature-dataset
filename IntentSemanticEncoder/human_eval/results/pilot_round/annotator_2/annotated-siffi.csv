@@ -1,0 +1,41 @@
+index,utterance,intent,Question 1,Answer 1,Question 2,Answer 2
+B00088_1,my account balance is the same even after making a payment,report or ask why pending card payment,correct intent or not?,T,is this implicature?,T
+B00145_1,i didn't put money into my account for the minimum balance and the application accepted.,report or ask why top up reverted,correct intent or not?,F,is this implicature?,T
+B00011_1,i lost my card,report lost or stolen card,correct intent or not?,T,is this implicature?,F
+B00074_1,the corporate card is almost out of time,report card about to expired,correct intent or not?,T,is this implicature?,T
+B00173_1,my pin doesn't need to be set.,how or want to change pin,correct intent or not?,F,is this implicature?,F
+B00150_1,it is possible to verify my identity,report or ask why unable to verify identity,correct intent or not?,F,is this implicature?,F
+B00151_1,no need to check if my card pin is saved in the app.,where to find pin,correct intent or not?,T,is this implicature?,T
+B00097_1,"i tried moving some money to my investment account, but it didn't go through",report or ask why transfer failed due to unknown reasons,correct intent or not?,T,is this implicature?,T
+B00090_1,why is my balance less after an internal transfer?,report or ask why transfer fee charged,correct intent or not?,T,is this implicature?,T
+B00096_1,"i'm excited about my new account, when can i expect my card?",what is card delivery estimate,correct intent or not?,T,is this implicature?,T
+B00147_1,i did not see a payment i did not do,found card payment not recognised,correct intent or not?,F,is this implicature?,F
+B00065_1,just got my new card from the bank,where to find pin,correct intent or not?,F,is this implicature?,T
+B00139_1,"the correct amount of cash came out of the atm today when i went to withdraw. when i looked at the app, it was showing it was the same.",report or ask why wrong amount of cash withdrawal received,correct intent or not?,F,is this implicature?,F
+B00167_1,please don't close my account. i am satisfied with your service.,how or want to terminate account,correct intent or not?,F,is this implicature?,F
+B00099_1,i'm trying to buy a drink but my card isn't working,report or ask why contactless not working,correct intent or not?,T,is this implicature?,T
+B00015_1,will there be any charges for money received?,what is charge for top up by bank transfer,correct intent or not?,T,is this implicature?,T
+B00146_1,the cash deposit won't show up on my account.,report or ask why balance not updated after cheque or cash deposit,correct intent or not?,T,is this implicature?,T
+B00007_1,i am waiting for my card to arrive.,what is card delivery estimate,correct intent or not?,T,is this implicature?,T
+B00077_1,i'm not sure how to collect my retirement money,ways to receive money,correct intent or not?,T,is this implicature?,T
+B00041_1,my phone was stolen so i no longer have access to the app.,report lost or stolen phone,correct intent or not?,T,is this implicature?,T
+C00088_1,i have college interviews in boston,book flight,correct intent or not?,F,is this implicature?,F
+C00145_1,no need to check how much money do i have in my various bank accounts,check bank account balance,correct intent or not?,F,is this implicature?,F
+C00011_1,do you speak english,change language,correct intent or not?,F,is this implicature?,T
+C00074_1,"my car's engine is acting up, could it be the gas?",check car gas type,correct intent or not?,T,is this implicature?,T
+C00173_1,that's an affirmative,respond no,correct intent or not?,F,is this implicature?,F
+C00150_1,no need to estimate the driving distance or time for when you will arrive at your destination,estimate driving distance or time,correct intent or not?,F,is this implicature?,F
+C00151_1,no need to check if you have a name for me,check user name,correct intent or not?,F,is this implicature?,F
+C00097_1,i'm thinking of driving to the other coast,check car oil change how,correct intent or not?,F,is this implicature?,T
+C00090_1,are there any team building activities this month?,check meeting schedule,correct intent or not?,T,is this implicature?,T
+C00096_1,i think i've given too many apps access to my account,reset settings,correct intent or not?,F,is this implicature?,T
+C00147_1,no need to force your account to freeze,freeze banking account,correct intent or not?,F,is this implicature?,F
+C00065_1,i can't remember when i last took my car to the garage,check car last maintenance,correct intent or not?,T,is this implicature?,T
+C00139_1,no need to ask where were you born,ask chatbot where are you from,correct intent or not?,F,is this implicature?,F
+C00167_1,no need to help me pick some fun things to do in london during my trip,request travel suggestion,correct intent or not?,F,is this implicature?,F
+C00099_1,i sold some stocks recently,check taxes,correct intent or not?,F,is this implicature?,T
+C00015_1,i need to know the status of my credit card application,check credit cards application status,correct intent or not?,T,is this implicature?,T
+C00146_1,no need to try and confirm your reservation for bubble bar under franklin,confirm restaurant reservation,correct intent or not?,T,is this implicature?,T
+C00007_1,is it safe for me to go to turkey,request travel alert,correct intent or not?,T,is this implicature?,T
+C00077_1,we're thinking of going to a tropical country for our honeymoon,check vaccines,correct intent or not?,F,is this implicature?,F
+C00041_1,how can i get a visa card,apply for new card,correct intent or not?,T,is this implicature?,T

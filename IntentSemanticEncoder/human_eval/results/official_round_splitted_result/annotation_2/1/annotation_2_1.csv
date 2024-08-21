@@ -1,0 +1,61 @@
+index,utterance,intent,Can the utterance imply the intent?,Is it conveyed explicitly?
+C00046_2,i don't need to check how many points i have earned with my paypal credit card so far,check credit cards rewards balance,FALSE,
+C00011_2,what's the interest rate on my savings account,request interest rate,TRUE,TRUE
+B00007_2,"i am unhappy with my purchase, how do i cancel the order?",request refund,TRUE,TRUE
+H00001_2,please shut up.,stop chatbot,TRUE,TRUE
+H00027_2,i'm not interested in the louvre anymore.,remove from list,TRUE,TRUE
+C00012_2,what is the lowest amount i can pay for my insurance bill,check banking min payment,TRUE,TRUE
+C00013_2,is travel to monterrey safe now,request travel alert,TRUE,TRUE
+H00050_2,"my meeting today at one pm is removed, what happened?",remove calendar events,FALSE,
+C00000_2,can you find me a salsa recipe,request recipe,TRUE,TRUE
+B00050_2,"cash deposit to my account has updated my balance, no red flag shown.",balance not updated after cheque or cash deposit,FALSE,
+B00035_2,i noticed some extra charges after moving money to my personal account,transfer fee charged,TRUE,TRUE
+H00016_2,please delete the wednesday evening alarm,remove alarm,TRUE,TRUE
+H00035_2,the music is a bit too loud for a conversation,turn audio volume down,TRUE,TRUE
+C00054_2,no need to give me a joke about the topic of television,ask chatbot to tell joke,FALSE,
+B00001_2,the atm won't give my card back!,swallowed card,TRUE,TRUE
+B00031_2,the top-up for my retirement account is taking a while,pending top up,TRUE,TRUE
+H00005_2,yeah wonderful response to command.,affirm chatbot response,TRUE,TRUE
+B00022_2,there's a large online purchase on my statement,where is source of funds,TRUE,FALSE
+C00016_2,which type of gas does this car take,check car gas type,TRUE,TRUE
+C00037_2,i'm trying to figure out the staffing for the upcoming project,check work pto used,TRUE,TRUE
+B00003_2,locations to withdraw money,atm support,TRUE,TRUE
+H00049_2,no need to add work email address,add email contact,FALSE,
+H00044_2,don't have to check what alarms are set for today,query alarm,FALSE,
+H00004_2,get me a taxi to the airport right now,book taxi,TRUE,TRUE
+C00017_2,how much is due for my water bill,check banking bill balance,TRUE,TRUE
+H00059_2,no need to add up thirteen plus five plus nine for me,query maths,FALSE,
+H00053_2,"that is not cool, no thanks, olly.",praise chatbot,FALSE,
+H00058_2,don't have to raise all the lights on,turn light up,FALSE,
+H00007_2,you've done it right.,praise chatbot,TRUE,TRUE
+B00049_2,i don't have to ask how much the exchange fee is.,what is charge for exchange,FALSE,
+B00048_2,why don't you charge fees on card payments?,card payment fee charged,FALSE,
+C00045_2,i don't need to update my shopping list,update shopping list,FALSE,
+B00056_2,i was not charged a fee for my transfer,transfer fee charged,FALSE,
+C00059_2,i am able to say,express uncertainty,FALSE,
+B00059_2,i don't need to top-up anymore.,what is top up limits,FALSE,
+B00030_2,i think i've misplaced my card,getting spare card,TRUE,FALSE
+H00025_2,"i need to take my medication in the morning, but the exact time isn't important.",tell chatbot dont care,FALSE,
+H00055_2,don't have to query about the exchange rate of euro with dollar,query about currency,FALSE,
+H00013_2,open jazz,play music,TRUE,FALSE
+H00021_2,"you got it, you're making a soothing songs playlist for me, aren't you?",affirm chatbot response,TRUE,TRUE
+H00051_2,my order at domino's is ready,query about takeaway,TRUE,FALSE
+B00029_2,"i thought i added funds to my card, but it doesn't seem to reflect",top up reverted,TRUE,FALSE
+H00006_2,hi there do you offer home delivery for orders,query about takeaway,FALSE,
+C00005_2,make a reservation for 2 tonight at 7:00 at outback steakhouse,reserve restaurant,TRUE,TRUE
+C00007_2,will i require a plug converter when i visit kenya,check plug type,TRUE,FALSE
+B00053_2,i know what cards you support to top up.,what is supported cards and currencies,FALSE,
+C00032_2,we need something to lighten the mood,ask chatbot to tell joke,FALSE,
+C00048_2,no need to ask who is responsible for my employment,ask chatbot who do you work for,FALSE,
+H00032_2,i'm considering taking up yoga at my gym,schedule calendar event,TRUE,FALSE
+H00056_2,i'm not looking for a casual restaurant for a dinner date,recommend locations to do something,FALSE,
+C00040_2,"no need to tell me my routing number at my bank, community trust",check bank routing number,FALSE,
+B00015_2,my card was not in the mail again can you advise?,card delivery estimate,TRUE,FALSE
+C00056_2,i don't need to see the due date for auto loan bill,check banking bill due,FALSE,
+H00038_2,i hope i can make it to the game on time,check traffic condition,TRUE,FALSE
+C00008_2,"what time is it in adelaide, australia right now",check time,TRUE,TRUE
+B00000_2,how does tranferring money into my account work?,transfer into account or top up with bank transfer,TRUE,TRUE
+H00022_2,i need to get updated before my meeting,query news updates,TRUE,TRUE
+C00003_2,will peas work instead of carrots,check ingredient substitution,TRUE,TRUE
+H00015_2,repeat previous song,change music setting,TRUE,TRUE
+B00041_2,i don't need to transfer funds into my account. what else can i do?,transfer into account or top up with bank transfer,FALSE,

@@ -1,0 +1,587 @@
+I am looking for an expensive restaurant that serves Welsh food.||find restaurant||looking for expensive restaurant Welsh food
+I've got a hankering for some Spanish food - is there anywhere good in the centre of town?||find restaurant||Spanish food is there centre of town
+I'm looking for a train the departs from bishops stortford leaving after 18:30.||find train||looking for train bishops stortford 18:30
+I want to find a hospital in town. The hospital should have the neurology neurosurgery department||find hospital||find hospital town hospital have neurology neurosurgery department
+I am looking for a train that leaves Cambridge going to Leicester arriving by 16:15||find train||looking for train Cambridge Leicester 16:15
+I was looking for a hotel called worth house someone told me about.||find hotel||looking for hotel worth house
+I need to book a taxi from clowns cafe.||find taxi||book taxi clowns cafe
+I'm looking for information on a hotel called alexander bed and breakfast.||find hotel||looking for information hotel alexander bed and breakfast
+Can you find me a hospital with a gastroenterology department around here?||find hospital||find hospital gastroenterology department
+Could you give me some details for Carolina bed and breakfast?||find hotel||give details Carolina bed and breakfast
+i am looking for the chiquito restaurant bar||find restaurant||looking for chiquito restaurant bar
+I am looking for the Nusha. Can you help me?||find attraction||looking for Nusha
+I need a taxi to get me to holy trinity church no later than 15:30||find taxi||need taxi holy trinity church later than 15:30
+I need a taxi. I'll be departing the Fitzwilliam museum and need to arrive by 20:15||find taxi||need taxi departing Fitzwilliam museum arrive 20:15
+I am looking for a place to dine in the moderate price range that serves indian food.||find restaurant||looking for place dine moderate price range indian food
+Are there any cheap Indian restaurants available?||find restaurant||Are there cheap Indian restaurants available
+Hello. I would like some information about the Aylesbray lodge guest house.||find hotel||like information Aylesbray lodge guest house
+I am looking for information on the hamilton lodge hotel.||find hotel||looking for information hamilton lodge hotel
+Hi! I need to find the restaurant Pizza Express Fen Ditton.||find restaurant||find restaurant Pizza Express Fen Ditton
+i want to book a taxi. The taxi should depart from la Margarita and should go to riverboat Georgina.||find taxi||book taxi taxi depart la Margarita go to riverboat Georgina
+I'm looking for an Indian restaurant, preferably in the centre of town.||find restaurant||looking for Indian restaurant centre of town
+I'm looking for a particular hotel called "rosa's bed and breakfast".||find hotel||looking for hotel rosa's bed and breakfast
+I need to book a taxi to take me to Williams Art and Antiques. I need to leave after 24:30.||find taxi||book taxi Williams Art and Antiques leave 24:30
+I'm looking for information on a hotel, the carolina bed and breakfast.||find hotel||looking for information hotel carolina bed and breakfast
+I'm at Jesus College and I need at taxi to arrive by 18:00.||find taxi||Jesus College need taxi arrive 18:00
+Can you help me find Arbury Lodge Guesthouse? Thanks.||find hotel||find Arbury Lodge Guesthouse
+Help, I injured my eye! I am looking for the nearest hospital with the cambridge eye unit.||find hospital||injured eye looking for nearest hospital cambridge eye unit
+Can you tell me where the Cambridge Contemporary Art Gallery is located?||find attraction||where Cambridge Contemporary Art Gallery
+I need a taxi arriving by 18:15.||find taxi||need taxi 18:15
+Could you book me a taxi to Curry Garden?||find taxi||book taxi Curry Garden
+Can you find me an expensive restaurant that serves steakhouse food?||find restaurant||find expensive restaurant steakhouse food
+I need some information on the A and B Guest House.||find hotel||need information A and B Guest House
+I need a train that arrives in Cambridge by 16:30.||find train||need train Cambridge 16:30
+I want a taxi to pick me up after 21:00 to take me to Little Saint Mary's Church.||find taxi||want taxi 21:00 Little Saint Mary's Church
+Can you tell me about a hotel called city centre north b and b?||find hotel||tell about hotel city centre north b and b
+I'm looking for this particular hotel called carolina bed and breakfast||find hotel||looking for hotel carolina bed and breakfast
+I need a taxi to come to broxbourne train station by 21:15.||find taxi||need taxi broxbourne train station 21:15
+I am interested in staying at the A and B Guest House, could you help me book my stay?||find hotel||A and B Guest House book stay
+Howdy, I'm looking for a British restaurant for breakfast.||book restaurant||looking for British restaurant breakfast
+I was looking for a certain hotel called cityroomz please||find hotel||looking for hotel cityroomz
+Hello, can you give me information about Express by Holiday Inn Cambridge, please?||find hotel||give information Express by Holiday Inn Cambridge
+Hey I'm looking for the Addenbrookes Hopistal. Please make sure it has the medicine for the elderly department.||find hospital||looking for Addenbrookes Hopistal has medicine elderly department
+i am looking for the Addenbrookes Hospital with acute medical assessment unit department||find hospital||looking for Addenbrookes Hospital acute medical assessment unit department
+Yes, I need a train for wednesday arriving at 14:45.||find train||need train wednesday 14:45
+I need information on trinity college||find attraction||need information trinity college
+Hi I am looking for a hotel called finches bed and breakfast||find hotel||looking for hotel finches bed and breakfast
+I am looking for kirkwood house.||find hotel||looking for kirkwood house
+I am injured and need a hospital with a cardiology department.||find hospital||need hospital cardiology department
+I'm looking to get some info on a hotel called cityroomz.||find hotel||get info hotel cityroomz
+I'm looking for some information please. What can you tell me about Clare Hall?||find attraction||looking for information What tell Clare Hall
+I am looking for Williams art and antiques.||find attraction||looking for Williams art antiques
+I need a taxi. I am going to avalon and I need to leave after 16:15||find taxi||need taxi going avalon leave 16:15
+Book me a train from birmingham new street that leaves after 19:15.||find train||Book train birmingham new street 19:15
+Can you find a restaurant called Panahar?||find restaurant||find restaurant Panahar
+I am looking for an expensive restaurant in Cambridge that serves Tuscan food.||find restaurant||looking for expensive restaurant Cambridge Tuscan food
+I am looking for information on the leverton house hotel||find hotel||looking for information leverton house hotel
+I am traveling to Cambridge and I'm looking for an attraction called downing college.||find attraction||Cambridge looking for attraction downing college
+Hi, I am looking for a restaurant that is expensive and serves European food.||find restaurant||looking for restaurant expensive European food
+Where would I find the museum of archaeology and anthropology?||find attraction||Where find museum of archaeology and anthropology
+I am looking for information about the City Centre North B and B hotel. Can you help me with that?||find hotel||looking for information City Centre North B and B hotel
+I am looking for the Addenbrookes Hospital. I am wondering if they have a trauma and orthopaedics department?||find hospital||looking for Addenbrookes Hospital have trauma orthopaedics department
+Yes I was wondering if you can tell me about an attraction called ballare?||find attraction||tell attraction ballare
+I would like to dine at a restaurant serving Indian food on the east side of town. Any suggestions?||find restaurant||dine restaurant Indian food east side of town suggestions
+I've been injured and I need a hospital near me, one with a coronary care unit department please!||find hospital||need hospital coronary care unit department
+I am looking for an expensive place to dine that serves catalan food.||find restaurant||looking for expensive place to dine catalan food
+I need a taxi to take me to my hotel today from saint catharine's college||find taxi||need taxi hotel today saint catharine's college
+I'm looking for information on the museum of archaelogy and anthropology.||find attraction||looking for information museum of archaelogy and anthropology
+I want a train from london liverpool street arriving at 9:30||find train||want train london liverpool street 9:30
+I am looking for the John Farman Intensive Care unit of the Addenbrookes Hospital.||find hospital||looking for John Farman Intensive Care unit Addenbrookes Hospital
+i'm looking for a train leaving on thursday and arriving by 11:45||find train||looking for train thursday arriving 11:45
+I'd like for a taxi to pick me up after 13:00 today||find taxi||like taxi 13:00 today
+I need some information on the Carolina Bed and Breakfast. Can you help me with that?||find hotel||need information Carolina Bed and Breakfast
+Need a place to eat that has caribbean food, somewhere in south of town.||find restaurant||Need place to eat caribbean food south of town
+Hi, I'd like to book a train that leaves after 21:30 on Friday.||find train||book train after 21:30 on Friday
+I need to find out if there's a train going to stansted airport that leaves after 12:30.||find train||find out there train stansted airport after 12:30
+Hi! I am looking for a train that arrives by 11:30 on Friday.||find train||looking for train 11:30 on Friday
+I am trying to find information about ADC Theatre, can you help me?||find attraction||find information ADC Theatre
+Hi, I'm interested in getting some information about the cherry hinton village centre in Cambridge.||find attraction||getting information cherry hinton village centre Cambridge
+Good day. Might you be able to assist me with a taxi going to Corpus Christi leaving sometime after 08:45?||find taxi||assist taxi Corpus Christi after 08:45
+Can you tell me about the J Restaurant?||find restaurant||tell J Restaurant
+Am injured and are looking for a hospital nearby it should have the infectious diseases department.||find hospital||looking for hospital infectious diseases
+Am injured and are looking for a hospital nearby it should have the children's surgical and medicine department||find hospital||looking for hospital children's surgical and medicine department
+Can you tell me about Christ's College?||find attraction||tell about Christ College
+I'm looking for a hospital with a gynecology department.||find hospital||looking for hospital gynecology department
+I need a taxi to take me to yippee noodle bar by 9:45||find taxi||need taxi yippee noodle bar 9:45
+I want a train that arrives in broxbourne by 09:45.||find train||want train broxbourne 09:45
+i need a train going to leicester that leaves after 11:45||find train||need train leicester 11:45
+I am looking for a train that departs from cambridge and arrives at my destination by 11:30.||find train||looking for train cambridge arrives 11:30
+I need to book a train to cambridge. I would like to arrive by 21:00||find train||book train cambridge arrive 21:00
+Can you help me get train tickets leaving london kings cross arriving by 18:30?||find train||get train tickets london kings cross 18:30
+I need a train on Thursday. Find me one that leaves after 14:00||find train||need train Thursday Find after 14:00
+I want to find some information on da vinci pizzeria||find restaurant||find information da vinci pizzeria
+I'm looking for a moderately priced steakhouse.||find restaurant||looking for moderately priced steakhouse
+Get me a list of expensive restaurants that serve Danish food please||find restaurant||Get expensive restaurants Danish food
+What can you tell me about Great Saint Mary's Church?||find attraction||What tell Great Saint Mary's Church
+I'm injured pretty severely and need a hospital with a john farman intensive care unit.||find hospital||need hospital john farman intensive care unit
+My friend told me about a place called the Carolina Bed and Breakfast. Do you know anything about it?||find hotel||place Carolina Bed and Breakfast know
+I need info on the Cambridge and County Folk Museum please.||find attraction||need info Cambridge and County Folk Museum
+I need to find a train that is going to arrive in stevenage by 11:45.||find train||find train stevenage 11:45
+Hi, I'm looking for a hotel by the name of Acorn Guest House.||find hotel||looking for hotel Acorn Guest House
+I need a train that leaves after 17:30 on Thursday||find train||need train after 17:30 on Thursday
+Can you help me find a train leaving on sunday after 12:00.||find train||find train sunday after 12:00
+I would like to book a train for Thursday after 20:45. Can you help?||find train||book train Thursday 20:45
+Where is the nearest emergency room?||find hospital||Where nearest emergency room
+I am looking for a restaurant called lan hong house. Can you get me more information about it please?||find restaurant||looking for restaurant lan hong house get information
+i am looking for a train. The train should leave on Monday and should arrive by 12:45.||find train||looking for train train leave Monday arrive 12:45
+I need a train for cambridge, I would like to arrive by 14:15.||find train||need train cambridge arrive 14:15
+Hello, is Panahar still serving lunch specials?||book restaurant||is Panahar serving lunch specials
+I am looking for the cityroomz hotel||find hotel||looking for cityroomz hotel
+i need a hospital with a intermediate dependancy area department||find hospital||need hospital intermediate dependancy area department
+I need a train departing from cambridge arriving by 17:45.||find train||need train cambridge 17:45
+I'm looking for a train going to Cambridge and arriving by 2:45 PM. Can you help me?||find train||looking for train Cambridge 2:45 PM
+Hi there. I am hoping you could help me find a british restaurant in town.||find restaurant||find british restaurant town
+Hi. I would like to visit the Cambridge Artworks. Where is it located and how much does it cost?||find attraction||visit Cambridge Artworks Where located how much cost
+Hi there, I'm trying to book a train for Saturday that leaves after 18:45.||find train||book train Saturday after 18:45
+i am looking for a particular hotel. Its name is called archway house.||find hotel||looking for particular hotel
+I am wanting to book a taxi. I am going to Sitar Tandoori and want to leave after 19:30.||find taxi||book taxi Sitar Tandoori leave 19:30
+I need to book a taxi going to sidney sussex college.||find taxi||book taxi sidney sussex college
+i am looking for the Addenbrookes Hospital with emergency department||find hospital||looking for Addenbrookes Hospital emergency department
+I would like more information on a hotel called cityroomz for my trip to Cambridge.||find hotel||like more information hotel cityroomz Cambridge
+I need some information about Churchill College.||find attraction||need information Churchill College
+Please suggest me a venetian restaurant in the moderate price range .||find restaurant||suggest venetian restaurant moderate price range
+I'm looking for a train that leaves after 13:45 on Wednesday.||find train||looking for train after 13:45 on Wednesday
+Can you find the A & B Guesthouse?||find hotel||find A & B Guesthouse
+Hello, can you tell me about some Asian Oriental restaurants in the centre?||find restaurant||tell about Asian Oriental restaurants centre
+Hi, I'm looking for a taxi. I need to leave from Golden House at 12:15.||find taxi||looking for taxi leave from Golden House 12:15
+I need to find a good vegetarian restaurant||find restaurant||find vegetarian restaurant
+What is the address for Holy Trinity Church?||find attraction||What address Holy Trinity Church
+I am looking for a hotel called Warkworth House.||find hotel||looking for hotel Warkworth House
+i need a taxi by 8:15 going to the golden hous||find taxi||need taxi 8:15 golden hous
+Howdy! Is the Hamilton Lodge still open?||find hotel||Is Hamilton Lodge open
+How much does it cost to take the bus in Cambridge?||find bus||How much cost take bus Cambridge
+I'm looking for the information on a restaurant called Saigon City, can you provide me with their info?||find restaurant||looking for information restaurant Saigon City provide info
+I would like a restaurant that serves irish food||find restaurant||like restaurant irish food
+Am hospital in town that should have the children's oncology and haematology department.||find hospital||hospital children oncology and haematology department
+I am looking for a train that departs from bishops stortford and arrives by 12:15.||find train||looking for train bishops stortford 12:15
+can i get a hospital nearby which has a haematology day unit department||find hospital||get hospital haematology day unit department
+I am injured I need a hospital that has the cambridge eye unit department||find hospital||need hospital cambridge eye unit department
+I need a taxi departing from leverton house.||find taxi||need taxi leverton house
+Hi, I am looking for a hotel called the Acorn Guest House. Could I get the address?||find hotel||looking for hotel Acorn Guest House get address
+I am looking for a moderately priced Chinese restaurant.||find restaurant||looking for moderately priced Chinese restaurant
+Hello, I'm looking for information on the Alpha-Milton Guest House.||find hotel||looking for information Alpha-Milton Guest House
+Hello, I need to catch a train on Friday. Can you help me find one leaving after 11:30?||find train||catch train Friday find leaving after 11:30
+I'll be requesting a taxi to golden house please||find taxi||requesting taxi golden house
+We want info about a particular attraction, Christ's college.||find attraction||want info particular attraction Christ's college
+I am planning a trip to see the Cambridge and County Folk Museum. What can you tell me about it?||find attraction||see Cambridge and County Folk Museum What tell
+I am at Ballare. I need a taxi to take me to Hobsons House.||find taxi||need taxi Hobsons House
+I am looking for an Indian restaurant for 5 people tomorrow night||book restaurant||looking for Indian restaurant 5 people tomorrow night
+I'm visiting the area and want to stay at rosa's bed and breakfast.||find hotel||stay rosa bed and breakfast
+Hi! I am looking to find information about the Cambridge University Botanic gardens.||find attraction||find information Cambridge University Botanic gardens
+I am looking for a train leaving from Birmingham New Street and arriving by 16:00.||find train||looking for train Birmingham New Street arriving 16:00
+I need a train leaving on Saturday after 5:30 pm||find train||need train Saturday 5:30 pm
+I am looking for a train departing from Cambridge after 10:00.||book train||looking for train Cambridge 10:00
+Hello, a friend recommend I try out Camboats while I'm in town. Can you tell me more about it?||find attraction||try out Camboats tell
+i got injured and are looking for the john farman intensive care unit department||find hospital||looking for john farman intensive care unit department
+Hi, can you please give me information on the restaurant The Gardenia?||find restaurant||give information restaurant The Gardenia
+Please help me reserve a taxi from saint catharine's college||find taxi||reserve taxi saint catharine's college
+I've been in an accident and I'm hurt. I need the closest hospital with a teenage cancer trust unit.||find hospital||accident need closest hospital teenage cancer trust unit
+Hello, I'm looking for a nearby hospital that has inpatient occupational therapy. Can you help me with this?||find hospital||looking for nearby hospital inpatient occupational therapy
+I need to find the lensfield hotel.||find hotel||find lensfield hotel
+I'm looking for information on a hotel called the lensfield hotel.||find hotel||looking for information hotel lensfield hotel
+You want to book a taxi. The taxi should arrive by 17:30 and should go to la mimosa.||find taxi||book taxi taxi arrive 17:30 go la mimosa
+I need a taxi from london kings cross train station to the gonville hotel.||find taxi||need taxi london kings cross train station gonville hotel
+I need a train to cambridge leaving after 17:15. Can you help me?||find train||need train cambridge 17:15
+I am looking for information on a hotel called Carolina Bed and Breakfast.||find hotel||looking for information hotel Carolina Bed and Breakfast
+I am looking for a restaurant in the center that serves asian oriental food.||find restaurant||looking for restaurant center asian oriental food
+I'm looking for the Addenbrookes Hospital and need to contact the haematology and haematological oncology department.||find hospital||looking for Addenbrookes Hospital contact haematology haematological oncology department
+Can you book me a taxi to arrive by 23:30? Oh, and I am departing from wandlebury country park.||find taxi||book taxi 23:30 departing from wandlebury country park
+I need a restaurant in the east part of town that serves world food.||find restaurant||need restaurant east part of town world food
+I need to take a train to Stansted airport, arriving no later than 13:30.||find train||take train Stansted airport arriving than 13:30
+I'm looking for a particular restaurant. Its name is called the hotpot.||book restaurant||looking for particular restaurant hotpot
+I need information about Pembroke College.||find attraction||need information Pembroke College
+Could you book me a room at the Huntingdon Marriott Hotel for tomorrow?||find hotel||book room Huntingdon Marriott Hotel tomorrow
+Can you help me get to zizzi cambridge after 22:45?||find taxi||get to zizzi cambridge 22:45
+I am at Club Salsa and I need to book a taxi to leave after 06:15.||find taxi||Club Salsa book taxi after 06:15
+Can you tell me anything about cafe jello gallery?||find attraction||tell cafe jello gallery
+I'm looking for a hotel called warkworth house||find hotel||looking for hotel warkworth house
+What can you tell me about the the good luck chinese food takeaway?||find restaurant||What tell good luck chinese food takeaway
+I need a taxi at Cambridge Museum of Technology to go to the Museum of Classical Archaeology.||find taxi||need taxi Cambridge Museum of Technology Museum of Classical Archaeology
+I would like to find some info on the warkworth house hotel.||find hotel||find info warkworth house hotel
+Get me information about kettle's yard please||find attraction||Get information kettle's yard
+I'm looking for a restaurant that serves Indian food in the centre of town.||find restaurant||looking for restaurant Indian food centre of town
+I need a taxi to come get me from old schools to take me to loch fyne.||find taxi||need taxi old schools loch fyne
+Hello, I am looking for a place called the broughton house gallery. Can you help me?||find attraction||looking for place broughton house gallery
+Can you help me find a place to eat serving british food in the moderate price range?||find restaurant||find place to eat british food moderate price range
+I would like to book a hotel in Cambridge. Is there any availability at the Autumn House?||find hotel||book hotel Cambridge Is there availability Autumn House
+What can you tell me about the Lovell Lodge?||find hotel||What tell Lovell Lodge
+I need a train on Wednesday that leaves after 16:00.||find train||need train Wednesday after 16:00
+I am looking for information about the museum of archaeology and anthropology.||find attraction||looking for information museum of archaeology and anthropology
+I need to book a train to norwich that arrives by 16:15.||find train||book train norwich 16:15
+Please connect me to a hospital with an emergency department.||find hospital||connect hospital emergency department
+I need a taxi to take me to rajmahal.||find taxi||need taxi rajmahal
+Do you have information about the hotel El Shaddai?||find hotel||information hotel El Shaddai
+I am looking in town for a hospital with a paediatric clinic||find hospital||looking hospital paediatric clinic
+Can you locate for me a train that leaves on Tuesday after 3:15 PM? Thanks.||find train||locate train Tuesday 3:15 PM
+I'm trying to find a hotel called Allenbell. Can you help?||find hotel||find hotel Allenbell
+Hi, I'm looking for a train from Cambridge that arrives by 17:45.||find train||looking for train Cambridge 17:45
+Yes could you please give me information on the attraction called Tenpin?||find attraction||give information attraction Tenpin
+Hi, i need to book a taxi to go to funky fun house. I need to leave after 8:45.||find taxi||book taxi funky fun house leave 8:45
+Hi there, I'm looking for information on Darry's Cookhouse and Wine Shop.||find restaurant||looking for information Darry's Cookhouse and Wine Shop
+I am looking for a German restaurant in the expensive price range.||find restaurant||looking for German restaurant expensive price range
+Where is the train that leaves Stansted Airport that arrives at 13:15?||find train||Where train Stansted Airport 13:15
+I am looking for a place called the holy trinity church.||find attraction||looking for place holy trinity church
+I need a tax to cambridge train station.||find taxi||need tax cambridge train station
+Yes, I'd like to book three nights, for three people, at the Worth House hotel.||book hotel||book three nights three people Worth House hotel
+I hope you can help me find the attraction downing college.||find attraction||find attraction college
+Do you have information about the Lovell Lodge?||find hotel||information Lovell Lodge
+I'm looking for the hotel called Kirkwood House.||find hotel||looking for hotel Kirkwood House
+I am interested in finding the Lensfield Hotel.||find hotel||finding Lensfield Hotel
+Can you provide information about Clare Hall?||find attraction||provide information Clare Hall
+I want to book the el shaddai hotel.||find hotel||book el shaddai hotel
+Help me get a taxi to darrys cookhouse and wine shop||find taxi||get taxi darrys cookhouse and wine shop
+I would like to get information on the bridge guest house.||find hotel||get information bridge guest house
+I'm looking for a moderately priced restaurant serving cuban food.||find restaurant||looking for moderately priced restaurant cuban food
+Does the Addenbrookes Hospital have a psychiatry department?||find hospital||Does the Addenbrookes Hospital have psychiatry department
+I am looking for a train on Friday that leaves after 21:45.||find train||looking for train Friday 21:45
+I need a hospital that have a pediatric day unit.||find hospital||need hospital pediatric day unit
+Does Cambridge offer any expensive, Singaporean cuisine?||find restaurant||Does Cambridge offer expensive Singaporean cuisine
+I would like information on The Cambridge Corn Exchange||find attraction||like information Cambridge Corn Exchange
+I'm looking for a train to cambridge that leaves after 10:45||find train||looking for train cambridge 10:45
+I need a taxi to come to cambridge museum of technology by 3:45.||find taxi||need taxi cambridge museum of technology 3:45
+I need help finding Williams Art and Antiques in Cambridge.||find attraction||finding Williams Art and Antiques Cambridge
+Hello, I need a hospital please and make sure it has a medical decisions unit, if you will.||find hospital||need hospital medical decisions unit
+Can you give me some information on the Avalon Hotel?||find hotel||give information Avalon Hotel
+Is there an inexpensive restaurant which serves Scandinavian food?||find restaurant||Is there inexpensive restaurant Scandinavian food
+I am looking for a Persian restaurant with expensive price range food.||find restaurant||looking for Persian restaurant expensive price range food
+I am looking for a place to dine. The restaurant should serve mediterranean food and should be in the south||find restaurant||looking for place dine restaurant mediterranean food south
+Can you give me information on a particular attraction, called kambar?||find attraction||give information particular attraction kambar
+I'm looking for an expensive restaurant that serves Thai food, please.||find restaurant||looking for expensive restaurant Thai food
+I am looking for info about a hotel called city centre north b and b. Can you help?||find hotel||looking for info hotel city centre north b and
+Id like to eat at an expensive Indian place, know any?||find restaurant||eat expensive Indian place
+Please book a taxi for 1:15 to go to whale of a time.||find taxi||book taxi 1:15 whale of a time
+Hi, I need a train leaving Cambridge after 14:30.||book train||need train Cambridge 14:30
+I am looking to stay at the Carolina Bed and Breakfast. What availability do you have?||book hotel||stay Carolina Bed and Breakfast What availability
+Hello, I need a train to come in at 8 am.||find train||need train 8 am
+Hi, I'm trying to find out more about a restaurant called cocum. What can you tell me?||find restaurant||find out restaurant cocum What
+I am looking to find a train. It needs to go to Cambridge and it has to leave on Monday.||find taxi||find train go to Cambridge leave Monday
+I need to know more about a hotel called home from home.||find hotel||know hotel home home
+Hello, I'm looking for the Jesus Green Outdoor Pool, could you help me with more information?||find attraction||looking for Jesus Green Outdoor Pool
+I'd like a restuarant with Asian Oriental food located in the centre, please.||find restaurant||like restuarant Asian Oriental food centre
+Hello, I am looking for People's Portraits Exhibition at Girton College, can you help me?||find attraction||looking for People's Portraits Exhibition Girton College
+I am looking for the price range of the hotel Finches bed and breakfast.||find hotel||looking for price range hotel Finches bed and breakfast
+I need a taxi to come to gallery at twelve a high street by 4:00.||find taxi||need taxi gallery twelve a high street 4:00
+I need to find a taxi departing from alimentum.||find taxi||find taxi alimentum
+I'm looking for a train to stevenage that leaves after 11:45||find train||looking for train stevenage after 11:45
+I need a taxi going to alexander bed and breafast.||find taxi||need taxi alexander bed and breafast
+Is there a local hospital that has a cardiology department?||find hospital||Is there local hospital cardiology department
+I need a taxi to take me to fitzbillies restaurant||find taxi||need taxi fitzbillies restaurant
+I need a hospital with an antenatal department, please find one for me.||find hospital||need hospital antenatal department find
+There's a place I've heard of that I'm looking for more details. Warkworth House. Do you know of it?||find hotel||looking for details know
+I am looking for the Addenbrookes Hospital. The hospital should have the paediatric clinic department||find hospital||looking for Addenbrookes Hospital hospital have paediatric clinic department
+Can you help me locate a restaurant called Pizza Express Fen Ditton?||find restaurant||locate restaurant Pizza Express Fen Ditton
+I need to find a hospital nearby that has a hepatobillary and gastrointestinal surgery referral center||find hospital||find hospital hepatobillary and gastrointestinal surgery center
+I need a taxi from Kings Lynn station at 5:15, going to HK Fusion, please.||find taxi||need taxi Kings Lynn station 5:15 HK Fusion
+Hello, I need a train on Wednesday arriving at 14:30.||find train||need train Wednesday 14:30
+I am in need of a train that can arrive by 12:45 an leave on Saturday.||find train||need train 12:45 Saturday
+Hi, I'm searching for a place called Magdalene College.||find attraction||searching for place Magdalene College
+Hello, I am looking for a Korean restaurant in the centre. Could you help me with that?||find restaurant||looking for Korean restaurant centre
+I need to find a train that leaves on Saturday and arrives by 08:45||find train||find train Saturday arrives 08:45
+I'd like some information about the University Arms Hotel.||find hotel||like information University Arms Hotel
+I'd like a european food place in the west please.||find restaurant||like european food place west
+I got injured and I am looking for a hospital nearby. The hospital should have the clinical research facility department||find hospital||looking for hospital nearby hospital have clinical research facility department
+Hello, I need some info on Cambridge Museum of Technology||find attraction||need info Cambridge Museum of Technology
+Could you give me the information for Trinity College?||find attraction||give information Trinity College
+I am looking for information in Cambridge||find bus||looking for information Cambridge
+Can you find me a taxi from backstreet bistro? I can't leave until after 14:15.||find taxi||find taxi backstreet bistro leave after 14:15
+I am looking to get some information on the acorn guest house.||find hotel||get information acorn guest house
+i'm looking for a and b guest house||find hotel||looking for and b guest house
+I am looking for a particular hotel. Its name is called autumn house||find hotel||looking for particular hotel
+Do you have any restaurants that serve caribbean food?||find restaurant||have restaurants caribbean food
+Hi! Can you please help me? I'm looking for information on Great Saint Mary's Church.||find attraction||looking for information Great Saint Mary's Church
+I am wanting to book a train arriving in Stevenage by 19:15. Can you help me?||find train||book train Stevenage 19:15
+I would like to book a taxi to leave after 11:00 going to Arbury Lodge Guesthouse.||find taxi||book taxi after 11:00 Arbury Lodge Guesthouse
+I would like a taxi departing from Warkworth House and arriving at Jinling Noodle.||find taxi||like taxi Warkworth House arriving Jinling Noodle
+Can you tell me a little about the clare college?||find attraction||tell clare college
+Can you give me some information on the Worth House?||find hotel||give information Worth House
+I'd like some information on the Hamilton Lodge hotel, please.||find hotel||like information Hamilton Lodge hotel
+Hello, I'm looking for a place to eat on the East. I prefer a restaurant that serves British food||find restaurant||looking for place to eat East prefer restaurant British food
+I'll be visiting Cambridge soon and would like some information on Hughes Hall.||find attraction||Cambridge like information Hughes Hall
+I am looking to book a train to cambridge on saturday around 20:00||find train||book train cambridge saturday 20:00
+I am looking for a train. I need to leave on Tuesday and want to arrive by 20:45.||find train||looking for train leave Tuesday arrive 20:45
+I'm looking for a hotel called the Arbury Lodge Guesthouse. Do you have a listing for this?||find hotel||looking for hotel Arbury Lodge Guesthouse have listing
+I'm looking for information about a hotel in Cambridge called Warkworth House.||find hotel||looking for information hotel Cambridge Warkworth House
+Hi, I'm looking for some information about the Cambridge Corn Exchange.||find attraction||looking for information Cambridge Corn Exchange
+I am looking for the Addenbrookes Hospital with hepatology department||find hospital||looking for Addenbrookes Hospital department
+Yes, I am looking for information on All Saints Church. Can you help me?||find attraction||looking for information All Saints Church
+I am looking for the address and phone number for the Backstreet Bistro please.||find restaurant||looking for address phone number Backstreet Bistro
+I'm looking to book a ticket for a train that leaves stevenage after 09:45.||book train||book ticket train stevenage 09:45
+I am looking a place serving gastropub in the moderate price range.||find restaurant||looking place gastropub moderate price range
+I'm looking for a hotel called Worth House.||find hotel||looking for hotel Worth House
+I'd like to find a moderately priced Italian restaurant.||find restaurant||find moderately priced Italian restaurant
+I need a train into Cambridge that will arrive by 14:30.||find train||need train Cambridge 14:30
+I'm looking for a restaurant that serves moroccan food in the centre.||find restaurant||looking for restaurant moroccan food centre
+I am looking for a cheap Asian Oriental restaurant.||find restaurant||looking for cheap Asian Oriental restaurant
+I would a train. I'm going from birmingham new street and it needs to arrive by 11:00.||find train||train going birmingham new street arrive 11:00
+I need a taxi to go to club salsa.||find taxi||need taxi club salsa
+i am looking for a hospital with a eurology department||find hospital||looking for hospital eurology department
+I need to find a hospital in town. It should have a children's surgical and medicine department.||find hospital||find hospital town have children's surgical and medicine department
+Am looking for the Addenbrookes Hospital it should have the respiratory medicine department||find hospital||looking for Addenbrookes Hospital respiratory medicine department
+Hello! I would like a taxi, please. I will by departing from Cambridge Arts Theatre and going to Peking Restaurant.||find taxi||like taxi departing Cambridge Arts Theatre going Peking Restaurant
+Is there a cheap restaurant serving belgian food?||find restaurant||Is there cheap restaurant belgian food
+Am looking for hospital in town it should have the trauma high dependency unit department.||find hospital||looking for hospital town trauma high dependency unit department
+Does Addenbrookes Hospital have a neurosciences department?||find hospital||Does Addenbrookes Hospital have neurosciences department
+could you give me information about the cherry hinton village centre.||find attraction||give information cherry hinton village centre
+I need information on the university arms hotel.||find hotel||need information university arms hotel
+i'm looking for the cambridge arts theatre||find attraction||looking for cambridge arts theatre
+i want to book a taxi. The taxi should leave after 02:30 and should go to Norwich train station.||find taxi||book taxi taxi leave 02:30 go Norwich train station
+I am looking for a attraction called whipple museum of the history of science.||find attraction||looking for attraction whipple museum of history of science
+I need a train for stansted airport and I need to arrive by 19:30 please.||find train||need train stansted airport arrive 19:30
+I'm looking for a chinese restaurant in city centre.||find restaurant||looking for chinese restaurant city centre
+Where's the closest hospital with a paediatric intensive care unit?||find hospital||Where closest hospital paediatric intensive care unit
+I am going to cambridge and I am looking for the cambridge book and print gallery||find attraction||cambridge looking for cambridge book print gallery
+Hello, I'd like to book a train on Friday that arrives by 17:30.||find train||book train Friday 17:30
+Hi, I need a taxi to gourmet burger kitchen going from hamilton lodge!||find taxi||need taxi gourmet burger kitchen hamilton lodge
+I need to get to bangkok city by 12:00 today. Can you help?||find taxi||get to bangkok city 12:00 today
+I need information on a place called Magdalene college.||find attraction||need information place Magdalene college
+I'd like to find a hospital please, it needs to have an antenatal department.||find hospital||find hospital antenatal department
+I need a taxi to take me to finches bed and breakfast||find taxi||need taxi finches bed and breakfast
+I am trying to find a hospital that has a transplant high dependency unit.||find hospital||find hospital transplant high dependency unit
+Hi, do you know of a hotel called finches bed and breakfast?||find hotel||know hotel finches bed and breakfast
+I'm looking for information on a hotel called warkworth house.||find hotel||looking for information hotel warkworth house
+looking for a train. The train should arrive by 09:45 and should depart from cambridge.||find train||looking for train train arrive 09:45 depart from cambridge
+So I'm interested in portuguese food. Do you know of any restaurants that serve it in the South?||find restaurant||interested in portuguese food know restaurants South
+Can you let me know if there are any available european restaurants in the centre area?||find restaurant||know there are available european restaurants centre area
+Hi, I am looking for a hospital that offers medicine for the elderly||find hospital||looking for hospital medicine elderly
+Hello, I am looking for a restaurant on the south side of town that serves christmas food.||find restaurant||looking for restaurant south side of town christmas food
+Can you help me book a reservation at the Warkworth House hotel?||find hotel||book reservation Warkworth House hotel
+Yes, I need a taxi to take me to the Addenbrookes Hospital.||find taxi||need taxi Addenbrookes Hospital
+I need a taxi from The Man on the Moon to Bangkok City, please.||find taxi||need taxi Man Bangkok City
+Could you give me information about the museum of classical archaeology?||find attraction||give information museum of classical archaeology
+I can't wait to go to the adc theatre, in cambridge. How do I get there?||find attraction||go to adc theatre cambridge How get
+I am looking for a polish restaurant that is in the moderate price range.||find restaurant||looking for polish restaurant moderate price range
+I need help finding a train. It needs to be going to Cambridge and should arrive by 20:30.||book train||finding train going to Cambridge arrive 20:30
+Could you help me locate the Alpha Milton Guest House?||find hotel||locate Alpha Milton Guest House
+Where is the Abbey Pool and Astroturf pitch?||find attraction||Where Abbey Pool and Astroturf pitch
+I got injured and are looking for a hospital nearby it should have the teenage cancer trust unit department||find hospital||looking for hospital teenage cancer trust unit department
+I am looking for a train that's going to Cambridge arriving by 16:30.||find train||looking for train Cambridge 16:30
+i need information about churchill college.||find attraction||need information churchill college
+I need to get a taxi out of holy trinity church.||find taxi||get taxi holy trinity church
+Can you help me find a place i am looking for? Its name is the Jesus Green outdoor pool.||find attraction||find place
+Hello- I would like some information about visiting Corpus Christi please||find attraction||like information visiting Corpus Christi
+I'm looking for the Addenbrookes Hospital with a haematology day unit.||find hospital||looking for Addenbrookes Hospital haematology day unit
+I need a particular hotel called the Leverton House.||find hotel||need particular hotel Leverton House
+Please have a taxi pick me up from riverboat georgina||find taxi||have taxi pick riverboat georgina
+I am looking for a train departing ely and should arrive by 16:45.||find train||looking for train arrive 16:45
+i am looking for the Addenbrookes Hospital with itermediate deoendancy area department||find hospital||looking for Addenbrookes Hospital itermediate deoendancy area department
+Can you get me information on a placed called williams art and antiques?||find attraction||get information williams art and antiques
+I'll be needing a taxi from nandos city centre||find taxi||needing taxi nandos city centre
+Can you tell me more about the peking restaurant? Thank you.||find restaurant||tell peking restaurant
+I am looking for information on the kirkwood house.||find hotel||looking for information kirkwood house
+I need to find a Hamilton Lodge in Cambridge.||find hotel||find Hamilton Lodge Cambridge
+I need a taxi to go to a and b guest house and arrive by 03:45.||find taxi||need taxi and b guest house 03:45
+Hello, I am looking for a moderately priced restaurant that serves fusion food.||find restaurant||looking for moderately priced restaurant fusion food
+I need to find where Whale of a Time is located in Cambridge.||find attraction||find where Whale of a Time Cambridge
+I would like to dine in an expensive Chinese restaurant tonight||find restaurant||dine in expensive Chinese restaurant tonight
+Hello, I'd like to book a taxi from Restaurant Two Two to the Museum of Classical Archaeology.||find taxi||book taxi Restaurant Two Two Museum of Classical Archaeology
+I am looking for a restaurant in the centre that serves world food.||find restaurant||looking for restaurant centre world food
+Hi, I need a train that departs from cambridge. I need to leave after 15:00.||find train||need train cambridge leave after 15:00
+Hello! I'm looking for a train that leaves after 10:15 on Sunday.||find train||looking for train after 10:15 Sunday
+I'd like to find out more about the Queen's College.||find attraction||find out Queen College
+Hello, I'm looking for information on a hotel called Hobsons House.||find hotel||looking for information hotel Hobsons House
+I am looking for a hotel, the Alpha-Milton Guest House.||find hotel||looking for hotel Alpha-Milton Guest House
+Please book dinner reservations for five people on Saturday at the India House restaurant.||book restaurant||book dinner reservations five people Saturday India House restaurant
+I was told about a beautiful college called saint catharine's. Could I get some information on it?||find attraction||told college saint catharine's get information
+Hello! I need a hospital with a oral and maxillofacial surgery and ent department please.||find hospital||need hospital oral and maxillofacial surgery ent department
+I am looking to stay at the Lovell Lodge hotel and to see the areas local attractions.||find hotel||Lovell Lodge hotel see local attractions
+I have to get to the gandhi by 09:15. Can you help me?||find taxi||get to gandhi 09:15
+Is there a hospital in Cambridge that has a plastic and vascular surgery department?||find hospital||Is there hospital Cambridge plastic and vascular surgery department
+I need to catch a train that departs from Leicester after 18:30.||find train||catch train Leicester 18:30
+Yes, I need a hospital with a hepatology department please.||find hospital||need hospital hepatology department
+I am looking for information about the kirkwood hotel.||find hotel||looking for information kirkwood hotel
+Can you please help me get information on cityroomz?||find hotel||get information cityroomz
+looking for mediterranean food||find restaurant||looking for mediterranean food
+I need a taxi to go to anatolia||find taxi||need taxi anatolia
+I'm looking for a train schedule after 15:15, going to Cambridge.||find train||looking for train schedule 15:15 Cambridge
+I'm looking for a hotel called the arbury lodge guesthouse.||find hotel||looking for hotel arbury lodge guesthouse
+I am looking for the Addenbrookes Hospital.It should also have a respiratory medicine department.||find hospital||looking for Addenbrookes Hospital have respiratory medicine department
+I need to take a train from cambridge, I will be leaving after 18:00 on Wednesday.||find train||take train cambridge leaving 18:00 on Wednesday
+I'm looking for a moderately priced Japanese restaurant.||find restaurant||looking for moderately priced Japanese restaurant
+I'd like to find a place that serves moderately priced chinese food.||book restaurant||find place moderately priced chinese food
+Hiya, I need a taxi to get me to la margherita.||find taxi||need taxi la margherita
+I am looking for a danish restaurant in the centre of town.||find restaurant||looking for danish restaurant centre of town
+Hi there, I'm looking for any information that you have on a place named Mumford Theatre.||find attraction||looking for information place Mumford Theatre
+Can you arrange for a taxi to pick me up at dojo noodle bar?||find taxi||arrange for taxi dojo noodle bar
+Could you give me some information on a hotel named el shaddai?||find hotel||give information hotel el shaddai
+I'm looking for information about a particular attraction. It's called the Man on the Moon.||find attraction||looking for information particular attraction Man Moon
+Hello, I would like information on club Salsa||find attraction||like information club Salsa
+I'd like a train to London Liverpool Street that leaves after 10:00.||find train||like train London Liverpool Street after 10:00
+Can you help me find information on saint john's college?||find attraction||find information saint john's college
+I'm looking for info about riveboat georgina||find attraction||looking for info riveboat georgina
+I am looking for the Addenbrookes Hospital. the hospital should have the infectious diseases department||find hospital||looking for Addenbrookes Hospital hospital have infectious diseases department
+I need to book a taxi departing from royal standard.||find taxi||book taxi royal standard
+I'm looking for an Indian restaurant in the expensive range. Do you have anything available? Thanks||find restaurant||looking for Indian restaurant expensive range available
+Can you check the availability at the University Arms Hotel for five people?||book hotel||check availability University Arms Hotel five people
+Hi. I'm looking for a train coming from london liverpool street and arriving by 14:00.||find train||looking for train london liverpool street arriving 14:00
+I'm looking for a particular restaurant called ask. Please give me information on that restaurant.||find restaurant||looking for restaurant ask give information restaurant
+i am looking for the Addenbrookes Hospital with neurology department||find hospital||looking for Addenbrookes Hospital neurology department
+i would like an expensive restaurant that serves irish food||find restaurant||like expensive restaurant irish food
+I am looking for great saint mary's church in Cambridge||find attraction||looking for saint mary's church Cambridge
+I'm looking for a train that departs from peterborough and arrives by 19:30||find train||looking for train peterborough arrives 19:30
+I'm looking for a train departing from ely and should arrive by 14:30.||find train||looking for train ely 14:30
+I'm looking for information on a restaurant called pizza hut cherry hinton.||find restaurant||looking for information restaurant pizza hut cherry hinton
+I need to take a train from Norwich, leaving after 21:15.||find train||take train Norwich 21:15
+I need a train leaving after 18:15 departing from birmingham new street||find train||need train after 18:15 birmingham new street
+I need a taxi to take me to the cambridge punter please||find taxi||need taxi cambridge punter
+I'm looking for a cheap asian oriental restaurant.||find restaurant||looking for cheap asian oriental restaurant
+What can you tell me about Magdalene College?||find attraction||What tell Magdalene College
+Hi! Can you tell me what trains are available on Friday after 18:30?||find train||tell what trains available Friday 18:30
+I am looking for Downing College. Can you give me information on it?||find attraction||looking for Downing College give information
+I need a train leaving broxbourne after 17:00.||find train||need train broxbourne 17:00
+Hi, could you tell me if Cambridge Book and Print Gallery is still open?||find attraction||Cambridge Book and Print Gallery open
+I am looking for a restaurant in the centre of town that serves kosher food.||find restaurant||looking for restaurant centre of town kosher food
+I need a train to cambridge that leaves after 18:45.||find train||need train cambridge 18:45
+I got injured and need directions for the clinical decisions unit department||find hospital||need directions clinical decisions unit department
+Hello, I am looking for some good Australasian food. I would like an expensive restaurant also.||find restaurant||looking for Australasian food like expensive restaurant
+Hello, I am looking for the address and phone number of the hotel Cambridge Belfry.||find hotel||looking for address phone number hotel Cambridge Belfry
+Hi. I need a train leaving from Cambridge anytime after 21:30.||find train||need train Cambridge anytime 21:30
+I'd like information about an attraction called Williams Art and Antiques. Can you help me with that?||find attraction||like information attraction Williams Art and Antiques
+I need to take a train to Cambridge, it would have to be late after 21:45||find train||take train Cambridge late after 21:45
+I need a taxi leaving after 10:30.||find taxi||need taxi after 10:30
+Hi, I'm trying to find Addenbrookes Hospital and they're supposed to have a medical decisions unit department, right?||find hospital||find Addenbrookes Hospital medical decisions unit department
+Do you have any trains leaving after 09:45 on Sunday?||find train||have trains after 09:45 on Sunday
+I need a taxi to take me to Pipasha Restaurant to leave after 01:45.||find taxi||need taxi Pipasha Restaurant 01:45
+I'm planning your trip in Cambridge.i'm looking for a place to dine in the east with chinese food||find restaurant||planning trip looking for place dine east chinese food
+I've heard of your Museum of Classical Archaeology, and I'd like to know more about it.||find attraction||Museum of Classical Archaeology know
+I need a taxi arriving by 23:30.||find taxi||need taxi 23:30
+im looking for a place to dine, it should be in the south serving morden global food||find restaurant||looking for place dine south morden global food
+I am looking for a restaurant that serves swedish food in the centre.||find restaurant||looking for restaurant swedish food centre
+Hi, where can I find the Autumn House hotel?||find hotel||where find Autumn House hotel
+I need a train to Cambridge and I need it to leave after 12:45.||find train||need train Cambridge after 12:45
+I am looking for the Addenbrookes Hospital, this hospital should be the one with an infectious diseases department.||find hospital||looking for Addenbrookes Hospital infectious diseases department
+I need to book a train for Monday from Ely to Cambridge to arrive by 14:00 for 6 people.||book train||book train Monday Ely Cambridge 14:00 6 people
+I am looking for a Japanese restaurant in the centre of town.||find restaurant||looking for Japanese restaurant centre of town
+I'm looking for a certain hotel someone recommended, I think it's called the Gonville?||find hotel||looking for hotel the Gonville
+I need to find a hospital with an emergency department.||find hospital||find hospital emergency department
+I'm going to be leaving on monday and I need a train that leaves after 08:15.||find train||leaving monday need train after 08:15
+I am injured and need to get to a hospital that has a pediatric clinic.||find hospital||get to hospital pediatric clinic
+Where's the train that leaves around 14:45? It should also be going to cambridge as well.||find train||Where train around 14:45 going cambridge
+Can I book a taxi today, please? I'm going to Avalon.||find taxi||book taxi today going to Avalon
+I'm trying to find great saint mary's church||find attraction||find saint mary church
+I need help locating a moderately priced Italian restaurant.||find restaurant||locating moderately priced Italian restaurant
+I'm looking for an expensive restaurant that serves european food while I'm in Cambridge.||find restaurant||looking for expensive restaurant european food Cambridge
+I need a train to leave from cambridge after 15:30.||find train||need train cambridge 15:30
+I am looking for Addenbrookes Hospital. Does it also provide acute medicine care for the elderly?||find hospital||looking for Addenbrookes Hospital Does provide acute medicine care elderly
+Hello, I need to book a ticket going to Cambridge arriving by 16:30, can you help me with that?||find train||book ticket Cambridge 16:30
+I need a tax departing from Kambar and arriving by 23:15.||find taxi||need tax Kambar 23:15
+I'm looking for information about Sidney Sussex college.||find attraction||looking for information Sidney Sussex college
+Hi, I'm looking for any information that you have on the Lensfield hotel in Cambridge.||find hotel||looking for information Lensfield hotel in Cambridge
+I need a taxi to go to mahal of cambridge||find taxi||need taxi mahal of cambridge
+I want to book a train to stevenage, and I want to leave around 14:00.||find train||book train stevenage leave 14:00
+I'd like to find a train that leaves Monday and arrives by 19:00.||find train||find train Monday arrives 19:00
+I need a train to arrive in cambridge by 19:30 on thursday.||find train||need train cambridge 19:30 on thursday
+I am looking for a place to dine that serves chinese food and located in the centre.||find restaurant||looking for place to dine chinese food centre
+I am trying to find info for the Addenbrookes Hospital gastroenterology department.||find hospital||find info Addenbrookes Hospital gastroenterology department
+I'm looking for a restaurant the serves austrian food in the centre.||find restaurant||looking for restaurant austrian food centre
+I would like a taxi to Shiraz Restaurant, leaving after 2:45.||find taxi||like taxi Shiraz Restaurant 2:45
+Can you let me know if a place called the Gonville hotel is still around?||find hotel||know place Gonville hotel
+i need information about wandlebury country park||find attraction||need information wandlebury country park
+I need a taxi, please. I need to arrive no later than 10:00, and I'm leaving from cambridge lodge restaurant.||find taxi||need taxi arrive than 10:00 leaving from cambridge lodge restaurant
+Hello, I would like information on Milton County Park.||find attraction||like information Milton County Park
+I got injured and I am looking for a hospital nearby. the hospital should have a neurology department||find hospital||looking for hospital nearby hospital have neurology department
+Please help me find a train that leaves Norwich after 5:45 PM. Thanks.||find train||find train Norwich 5:45 PM
+I need to get to michaelhouse cafe by 12:45. Can you help me?||find taxi||get to michaelhouse cafe 12:45
+I'd like a taxi that leaves from yippee noodle bar and leaves after 11:30.||find taxi||like taxi yippee noodle bar after 11:30
+Hi. I am looking for information about a hotel called Home from home.||find hotel||looking for information hotel Home home
+Am injured and are looking for a hospital nearby it should have the neurology neurosurgery department||find hospital||looking for hospital neurology neurosurgery department
+Please have a taxi come pick me up at whale of a time after 16:00 today||find taxi||have taxi pick up whale of a time 16:00 today
+I am looking for a hotel, Carolina Bed and Breakfast.||find hotel||looking for hotel Carolina Bed and Breakfast
+I want to find a European restaurant in the west.||find restaurant||find European restaurant west
+I'm looking for a train going to leicester leaving after 18:15.||find train||looking for train leicester 18:15
+I want to go to a particular attraction called great saint mary's church. Where is it?||find attraction||go to particular attraction great saint mary's church Where
+I need a taxi to pick me up from carolina bed and breakfast and take me to ali baba.||find taxi||need taxi carolina bed and breakfast ali baba
+I am looking for a mexican restaurant in the centre.||find restaurant||looking for mexican restaurant centre
+Can you give me more information about the Fitzwilliam Museum?||find attraction||give information Fitzwilliam Museum
+I need a taxi at 12:45 to take me to Ruskin Gallery.||find taxi||need taxi 12:45 Ruskin Gallery
+While I am visiting Cambridge, I would like to stay at the Ashley Hotel. Where is it located?||find hotel||Cambridge stay Ashley Hotel Where located
+I want to visit sheep's green and lammas land park fen causeway.||find attraction||visit sheep's green and lammas land park fen causeway
+I would like to book a taxi to hughes hall please.||find taxi||book taxi hughes hall
+Can you arrange for a taxi that will take me from ugly duckling to ely train station?||find taxi||arrange for taxi ugly duckling ely train station
+I would like to find a restaurant called Pipasha.||find restaurant||find restaurant Pipasha
+Could you provide me with information about the Huntingdon Marriott hotel?||find hotel||provide information Huntingdon Marriott hotel
+I need a taxi that departs from hobsons house and arrives by 13:45.||find taxi||need taxi hobsons house arrives 13:45
+I am looking for a train that leaves after 18:45 and goes to Leicester.||find train||looking for train 18:45 Leicester
+Please see what you can find out about jesus college||find attraction||what find out jesus college
+I need to find a train that goes to stevenage and arrives by 17:30.||find train||find train stevenage arrives 17:30
+I am looking for a place to dine in the east part of Cambridge that serves indian food.||find restaurant||looking for place to dine east part of Cambridge indian food
+I'm looking for a place to eat that is japanese that is in the mid price range please.||find restaurant||looking for place to eat japanese mid price range
+I'm trying to see if they serve drinks on the Riverboat Georgina||find attraction||see serve drinks Riverboat Georgina
+I'm looking for a restaurant called "restaurant one seven". Can you help me?||find restaurant||looking for restaurant restaurant one seven
+I need a close hospital with an acute medicine for the elderly unit.||find hospital||need close hospital acute medicine elderly unit
+Can you help me reserve a taxi to charlie chan?||find taxi||reserve taxi charlie chan
+Can you find me a Turkish restaurant in the expensive price range please?||find restaurant||find Turkish restaurant expensive price range
+I need a train to Norwich. I need to get there right before 20:45.||find train||need train Norwich get before 20:45
+I will need to take a train here from london kings cross, I will need ot get here by 19:45.||find train||take train london kings cross 19:45
+Hi, I am organizing my trip and am looking for a cheap Mexican restaurant.||find restaurant||looking for cheap Mexican restaurant
+I'm looking for a hotel called hamilton lodge.||find hotel||looking for hotel hamilton lodge
+I am looking for King's College. Do you happen to have information on it?||find attraction||looking for King College information
+I am looking for a hospital in town.It should have the intermediate dependency area department.||find hospital||looking for hospital town have intermediate dependency area
+I'd like a taxi to riverboat georgina||find taxi||like taxi riverboat georgina
+Hello, I am looking for information on kambar. What do you know about that attraction?||find attraction||looking for information kambar What attraction
+I need to make a reservation at a hotel called El Shaddai||find hotel||make reservation hotel El Shaddai
+Hello, are there any moderate catalan restaurants in town?||find restaurant||are there moderate catalan restaurants town
+Can a taxi pick me up at carolina bed and breakfast?||find taxi||Can taxi pick up carolina bed and breakfast
+i am looking for a nearby hospital with the neurosciences critical care unit department||find hospital||looking for nearby hospital neurosciences critical care unit department
+I am looking for information on Magdalene College.||find attraction||looking for information Magdalene College
+I'd like a taxi to the cafe jello gallery please.||find taxi||like taxi cafe jello gallery
+I need a train leaving after 17:00 and heading the birmingham new street.||find train||need train after 17:00 birmingham new street
+I need a train from Stevenage that would leave after 10:45.||find train||need train Stevenage 10:45
+Yes, I'd like to book a taxi from clare college.||find taxi||book taxi clare college
+I'm looking for an attraction called Williams Art and Antiques.||find attraction||looking for attraction Williams Art and Antiques
+Hi there! Can you give me some info on Cityroomz?||find hotel||give info Cityroomz
+I'm looking for a hotel called kirkwood house||find hotel||looking for hotel kirkwood house
+I've heard good things about the Acorn guest house. Could you find it for me?||find hotel||find
+Hi. Is there a hotel named Home from Home? I think I have heard of that.||find hotel||Is there hotel Home
+I need a train departing Cambridge that will arrive by 17:00.||find train||need train Cambridge 17:00
+I am looking for a cheap restaurant serving chinese food.||find restaurant||looking for cheap restaurant chinese food
+I'm looking for information on the People's Portrait Exhibition at Girton College.||find attraction||looking for information People's Portrait Exhibition Girton College
+I would like to book a train. I need to arrive by 17:15 and would like to leave on Wednesday.||find train||book train arrive 17:15 leave Wednesday
+I want a train that leaves after 10:30 and it needs to leave on Thursday.||find train||want train after 10:30 leave Thursday
+I'd like to book a taxi to the scott polar museum||find taxi||book taxi scott polar museum
+I am looking for a hospital in town with a cardiology and coronary care unit.||find hospital||looking for hospital town cardiology and coronary care unit
+I am looking for an attraction called Cambridge Artworks.||find attraction||looking for attraction Cambridge Artworks
+Hello are you familiar with Rosa's bed and breakfast? I've been looking for this hotel for forever!||find hotel||familiar Rosa's bed and breakfast looking for hotel
+I am looking for a particular attraction called the Funky Fun House. Can you get me directions?||find attraction||looking for particular attraction Funky Fun House get directions
+I'm going to need a train on Wednesday. I need to arrive by 16:00.||find train||need train Wednesday arrive 16:00
+I need to find a hospital please with a infusion service department.||find hospital||find hospital infusion service department
+I am looking for the gonville hotel. Can you help me?||find hotel||looking for gonville hotel
+I would like info about the Cityroomz hotel please||find hotel||like info Cityroomz hotel
+I am looking for regency gallery. Can you tell me where it is located?||find attraction||looking for regency gallery where located
+I want to book a taxi to leave after 09:15 at Old Schools.||find taxi||book taxi after 09:15 Old Schools
+I need to take a train from bishops stortford to Cambridge. Ill need to leave after 9:00||find train||take train bishops stortford Cambridge leave 9:00
+Hi, I'm looking for information on a particular restaurant called Galleria.||find restaurant||looking for information particular restaurant Galleria
+I need to leave london kings cross and arrive at cambridge by 11:00.||find train||leave london kings cross arrive cambridge 11:00
+Do you know where I can find the Holy Trinity Church?||find attraction||where find Holy Trinity Church
+Book me a train from bishops stortford that arrives by 18:30.||find train||Book train bishops stortford 18:30
+I want to book a taxi from cambridge artworks. I need to leave after 18:00.||find taxi||book taxi cambridge artworks leave 18:00
+I'm looking for an attraction called Cambridge Artworks. Do you have any information on it?||find attraction||looking for attraction Cambridge Artworks have information
+I need to find a restaurant in the center of town. A place offering Vietnamese food, if possible.||find restaurant||find restaurant center of town place Vietnamese food
+I'm looking for information called scott polar museum.||find attraction||looking for information scott polar museum
+I'm looking for information on an attraction called lynne strover gallery.||find attraction||looking for information attraction lynne strover gallery
+I am looking for a restaurant. The restaurant should be in the north and should serve italian food||find restaurant||looking for restaurant restaurant north serve italian food
+I need to find a hospital in town with a cardiology and coronary care unit.||find hospital||find hospital town cardiology and coronary care unit
+I want to get a train that is leaving after 18:15.||find train||get train 18:15
+I need the surgery department of the Addensbrookes Hospital.||find hospital||need surgery department Addensbrookes Hospital
+Have you ever heard of alexander bed and breakfast?||find hotel||heard of alexander bed and breakfast
+I am looking for the Fitzwilliam Museum.||find attraction||looking for Fitzwilliam Museum
+I am looking for a restaurant called shanghai family restaurant.||find restaurant||looking for restaurant shanghai family restaurant
+Hello. I'm planning a trip to cambridge soon and would like some information about sidney sussex college please.||find attraction||cambridge like information sidney sussex college
+Hi I'm looking for a train that goes to Cambridge and it should leave on Wednesday and arrrive by 10:15.||find train||looking for train Cambridge Wednesday arrrive 10:15
+I'd like to be picked up today from alexander bed and breakfast||find taxi||picked up today alexander bed and breakfast
+I need to book a taxi to the Bridge Guest House please.||find taxi||book taxi Bridge Guest House
+I need to book a taxi to come by Saffron Brasserie by 03:30.||find taxi||book taxi Saffron Brasserie 03:30
+Hi, i want to find out about the man on the moon attraction please.||find attraction||find out man moon attraction
+Hi I want to book a taxi from cocum leaving after 9am.||find taxi||book taxi cocum after 9am
+I want to go to a particular attraction called great saint mary's church.||find attraction||go to particular attraction great saint mary's church
+I would like to find a hospital with a diabetes and endocrinology department please.||find hospital||find hospital diabetes and endocrinology department
+Can you arrange for a taxi to bring me to kohinoor?||find taxi||arrange for taxi kohinoor
+Can you get me information on a hotel called a and b guest house?||find hotel||get information hotel and b guest house
+I am looking for King's College.||find attraction||looking for King College
+Can I get some information on the arbury lodge guesthouse?||find hotel||get information arbury lodge guesthouse
+Book me a taxi to vue cinema||find taxi||Book taxi cinema
+I'm looking for a train. The train should arrive by 16:00 and should leave on saturday.||find train||looking for train train arrive 16:00 leave saturday
+Can you tell me the address to a Chinese restaurant in Cambridge?||find restaurant||tell address Chinese restaurant Cambridge
+I need to book a taxi to take me to Riverside Brasserie at 11:15.||find taxi||book taxi Riverside Brasserie 11:15
+I would like it if you can help me find a place called Kambar.||find attraction||find place Kambar
+I aM looking for a train. The train should depart from peterborough and should leave after 12:30.||find train||looking for train train depart from peterborough leave 12:30
+I need a list of available trains leaving from Cambridge after 2pm.||find train||need available trains Cambridge after 2pm
+i am looking for a particular attraction. Its name is called soul tree nightclub.||find attraction||looking for particular attraction
+Hi, I'd like to book a taxi from the Golden Wok to the Golden Curry please.||find taxi||book taxi Golden Wok Golden Curry
+I need a taxi arriving by 16:45.||find taxi||need taxi 16:45
+I am looking for a restaurant that serves Moroccan food and is moderately priced.||find restaurant||looking for restaurant Moroccan food moderately priced
+I need a taxi to take me to Museum of Classical Archaeology to leave after 15:15.||find taxi||need taxi Museum of Classical Archaeology after 15:15
+I'm hurt and I need to find a hospital. Oh, and one with an oncology department!||find hospital||find hospital
+I need a restaurant that serves Thai food, that is expensive and is in Cambridge please||find restaurant||need restaurant Thai food expensive Cambridge
+I am looking for a particular hotel. Its name is called kirkwood house||find hotel||looking for particular hotel
+I would like to book a taxi leaving after 10:00 from the Cambridge book and print gallery.||find taxi||book taxi after 10:00 Cambridge book and print gallery
+I'm interested in finding a train that leaves after 09:15 on Monday||find train||finding train after 09:15 on Monday
+I would like a restaurant in the south part of town that serves jamaican food||find restaurant||like restaurant south part of town jamaican food
+Yes, hello. I'm looking for a particular attraction called Downing College.||find attraction||looking for particular attraction Downing College
+I want to visit the museum of archaelogy and anthropology and need a taxi to take me||find taxi||visit museum of archaelogy and anthropology need taxi
+Hi there! I need some information on the Hamilton Lodge, please.||find hotel||need information Hamilton Lodge
+I'm looking for an attraction called cambridge book and print gallery.||find attraction||looking for attraction cambridge book and print gallery
+I'd really like to take my client out to a nice restaurant that serves indian food.||find restaurant||client restaurant indian food
+Greetings! I'm looking for the Worth House, I heard it's in Cambridge.||find hotel||looking for Worth House Cambridge
+I have been hurt, I need to find a hospital nearby, and I need one with an infusion department.||find hospital||find hospital nearby infusion department
+I'd like more information about the Ashley Hotel, can you help?||find hotel||like information Ashley Hotel
+i am looking for a particular attraction. Its name is called castle galleries.||find attraction||looking for particular attraction
